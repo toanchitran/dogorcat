@@ -1,0 +1,913 @@
+
+  <!DOCTYPE html>
+  <html lang="en">
+    <head>
+      <title>OLX</title>
+      <meta charset="UTF-8">
+      <meta name="HandheldFriendly" content="true">
+      <link rel="icon" href="/images/olx-favicon.ico">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0">
+      <link rel="stylesheet" type="text/css" href="/dist/style.897d0b.css" />
+      <style>
+  [class*="section"] {
+    position: relative;
+    background-color: #fff;
+  }
+
+  .container {
+    width: 100%;
+    height: 100%;
+    max-width: 920px;
+    padding: 0;
+    margin: 0 auto;
+  }
+  .container.padded {
+    padding: 0 20px;
+  }
+
+  .container {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    position: relative;
+    z-index: 10;
+  }
+  @media screen and (min-width: 900px) {
+    .container {
+      padding-top: 80px;
+    }
+  }
+
+  .logo {
+    text-align: center;
+    margin-bottom: 15px;
+  }
+
+  .logo svg {
+    height: 53px;
+    width: 53px;
+  }
+
+  .logo svg .color-1 {
+    fill: #282425;
+  }
+
+  .logo svg .color-2 {
+    fill: #a3b500;
+  }
+
+  .logo svg .color-3 {
+    fill: #ff7a01;
+  }
+
+  .logo svg .color-4 {
+    fill: #572983;
+  }
+
+  @media screen and (min-width: 900px) {
+    .logo {
+      margin-bottom: 20px;
+    }
+
+    .logo svg {
+      height: 84px;
+      width: 84px;
+    }
+  }
+  .title {
+    margin-bottom: 20px;
+  }
+  @media screen and (min-width: 900px) {
+    .title {
+      margin-bottom: 25px;
+    }
+  }
+
+  .subtitle {
+    margin: auto;
+    max-width: 680px;
+  }
+
+  .text {
+    max-width: 415px;
+    text-align: center;
+    margin: 0 10px 15px;
+    font-size: 14px;
+    line-height: 22px;
+    letter-spacing: 0.2px;
+  }
+  @media screen and (min-width: 900px) {
+    .text {
+      font-size: 16px;
+      line-height: 25px;
+      letter-spacing: 0.3px;
+    }
+  }
+
+  .brandicon {
+    flex-grow: 0;
+    flex-shrink: 0;
+    flex-basis: calc((100% / 4) - 20px);
+    margin: 10px;
+    -webkit-transform: scale(1);
+            transform: scale(1);
+    transition: -webkit-transform 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+    transition: transform 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+    transition: transform 0.2s cubic-bezier(0.4, 0, 0.2, 1), -webkit-transform 0.2s cubic-bezier(0.4, 0, 0.2, 1); }
+    @media screen and (min-width: 900px) {
+      .brandicon {
+                flex-grow: 0;
+                flex-shrink: 0;
+                flex-basis: calc((100% / 7) - 20px);
+              }
+              }
+    .brandicon a {
+      display: -webkit-flex;
+      display: flex;
+      -webkit-flex-direction: column;
+              flex-direction: column;
+      -webkit-align-items: center;
+              align-items: center;
+      -webkit-justify-content: center;
+              justify-content: center; }
+    .brandicon img {
+      display: block;
+      object-fit: contain;
+      height: 100%;
+      max-height: 100px;
+      max-width: 120px; }
+    .brandicon:hover {
+      -webkit-transform: scale(1.05);
+              transform: scale(1.05); }
+
+  .content-flex {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .brands-flex {
+    max-width: 1000px;
+    display: none; }
+    @media screen and (min-width: 600px) {
+      .brands-flex {
+        margin: 15px auto;
+        display: -webkit-flex;
+        display: flex;
+        -webkit-flex-direction: row;
+                flex-direction: row;
+        -webkit-align-items: center;
+                align-items: center;
+        -webkit-justify-content: center;
+                justify-content: center;
+        -webkit-flex-wrap: wrap;
+                flex-wrap: wrap; } }
+
+  .about-us-section {
+    background-color: #f3f3f3;
+  }
+  .about-us-section .container {
+    max-width: 1180px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    position: relative;
+    z-index: 10;
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+  .about-us-section .title {
+    max-width: 780px;
+    margin: 0 auto 40px;
+  }
+  .about-us-section .content-flex {
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    justify-content: center;
+  }
+  @media screen and (min-width: 600px) {
+    .about-us-section .content-flex {
+      flex-direction: row;
+    }
+  }
+  .about-us-section .image {
+    flex: 1 1 100%;
+    position: relative;
+  }
+  .about-us-section .image:before {
+    display: block;
+    content: "";
+    width: 100%;
+    padding-top: 52.52708%;
+  }
+  .about-us-section .image > .inner {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+  }
+  .about-us-section .image > .inner img,
+  .about-us-section .image > .inner iframe {
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+  }
+  .about-us-section .image-container {
+    flex-grow: 1;
+    flex-shrink: 1;
+    flex-basis: calc(100% / 2);
+  }
+  .about-us-section .image-container:first-child {
+    margin-right: 10px;
+  }
+  @media screen and (max-width: 599px) {
+    .about-us-section .image-container:first-child {
+      margin-right: 0;
+      margin-bottom: 30px;
+    }
+  }
+  .about-us-section .image-container:last-child {
+    margin-left: 10px;
+  }
+  @media screen and (max-width: 599px) {
+    .about-us-section .image-container:last-child {
+      margin-left: 0;
+    }
+  }
+  .about-us-section .button-wrapper {
+    text-align: center;
+    padding-top: 30px;
+  }
+  @media screen and (min-width: 900px) {
+    .about-us-section .button-wrapper a {
+      min-width: 152px;
+    }
+  }
+  .about-us-section .side-visual:after {
+    content: "";
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    width: 27px;
+    height: 100%;
+    background-color: #fff;
+    background-image: linear-gradient(#262626 50%, transparent 50%);
+    background-size: 26px 26px;
+  }
+  @media screen and (min-width: 900px) {
+    .about-us-section .side-visual:after {
+      width: 37px;
+    }
+  }
+
+  .brand-overview-section {
+    background-color: #f3f3f3;
+  }
+  .brand-overview-section .container {
+    max-width: 1180px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    position: relative;
+    z-index: 10;
+  }
+  @media screen and (min-width: 900px) {
+    .brand-overview-section .container {
+      padding-top: 60px;
+      padding-bottom: 60px;
+    }
+  }
+  .brand-overview-section .title {
+    max-width: 780px;
+    margin: 0 auto 40px;
+  }
+  .brand-overview-section .content-flex {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+  }
+
+  .world-grid-container {
+    margin-top: 20px;
+  }
+
+  .world-grid {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+  .world-grid .country-wrapper {
+    flex-grow: 0;
+    flex-shrink: 0;
+    flex-basis: calc((100% / 3) - 20px);
+    padding: 5px;
+  }
+  @media screen and (min-width: 900px) {
+    .world-grid .country-wrapper {
+      flex-basis: calc((100% / 7) - 20px);
+    }
+  }
+  .world-grid.flagged-countries .country-wrapper {
+    padding: 10px;
+  }
+  .world-grid .country {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+    color: #232323;
+  }
+  .world-grid .country .flag-wrapper {
+    margin-bottom: 20px;
+    height: 52px;
+    width: 74px;
+  }
+  .world-grid .country .flag-wrapper .flag {
+    width: 100%;
+  }
+  .world-grid .country .country-title {
+    min-height: 37px;
+    font-size: 14px;
+    border-bottom: 1px solid transparent;
+    transition: border 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+  }
+  .world-grid .country:hover .country-title {
+    border-color: #232323;
+  }
+
+  .grid-title {
+    margin-bottom: 30px;
+  }
+
+  .footer {
+    position: relative;
+    width: 100%;
+    min-height: 43px;
+    padding: 10px 20px;
+    background-color: #262626;
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+  }
+
+  @media screen and (max-width: 599px) {
+    .footer {
+      padding: 17px 50px;
+    }
+  }
+  .footer span,
+  .footer a {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    color: #fff;
+    padding: 5px 0;
+    border-bottom: 1px solid transparent;
+  }
+
+  .footer a {
+    text-decoration: none;
+    transition: border 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+  }
+
+  .footer a:hover {
+    border-color: #fff;
+  }
+
+  .button {
+    position: relative;
+    display: inline-block;
+    padding: 13px 20px;
+    transition: color 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+    font-size: 12px;
+    font-family: "castledown-heavy", verdana, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-decoration: none;
+    text-transform: uppercase;
+    text-align: center;
+    z-index: 1;
+  }
+
+  @media screen and (min-width: 900px) {
+    .button {
+      padding: 13px 40px;
+    }
+  }
+  .button:hover {
+    color: #fff;
+  }
+
+  .button:hover:before {
+    background-color: #262626;
+  }
+
+  .button span {
+    position: relative;
+    z-index: 2;
+  }
+
+  .button:before {
+    content: "";
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    transition: background 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+    border: 3px solid transparent;
+    z-index: 1;
+  }
+
+  .button-dark {
+    color: #262626;
+  }
+
+  .button-dark:before {
+    border-color: #262626;
+  }
+
+  .button-light {
+    color: #fff;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  .button-light:before {
+    border-color: #fff;
+  }
+
+  .button-light:hover {
+    color: #262626;
+  }
+
+  .button-light:hover:before {
+    background-color: #fff;
+  }
+
+  .device-desktop .button:hover:before {
+    -webkit-transform: scale(1.05);
+    transform: scale(1.05);
+  }
+
+  .device-desktop .button:active:before {
+    -webkit-transform: scale(0.95);
+    transform: scale(0.95);
+  }
+
+  .heading {
+    position: relative;
+  }
+
+  .heading-primary {
+    font-family: "castledown-heavy", verdana, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  .heading-secondary {
+    font-family: "castledown-regular", verdana, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  .heading-bold-main {
+    font-family: "castledown-heavy", verdana, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  .heading-h1 {
+    margin-bottom: 15px;
+    font-size: 26px;
+    line-height: 30px;
+  }
+
+  @media screen and (min-width: 900px) {
+    .heading-h1 {
+      font-size: 50px;
+      line-height: 56px;
+    }
+  }
+  .heading-h2 {
+    font-size: 22px;
+    line-height: 29px;
+  }
+
+  @media screen and (min-width: 900px) {
+    .heading-h2 {
+      font-size: 35px;
+      line-height: 35px;
+    }
+  }
+  .heading-h3 {
+    font-size: 22px;
+    line-height: 29px;
+  }
+
+  .heading-h4 {
+    font-size: 18px;
+    line-height: 20px;
+  }
+
+  @media screen and (min-width: 900px) {
+    .heading-h4 {
+      font-size: 18px;
+      line-height: 20px;
+    }
+  }
+  .heading-h5 {
+    font-size: 1.8rem;
+  }
+
+  @media screen and (min-width: 900px) {
+    .heading-h5 {
+      font-size: 2.2rem;
+    }
+  }
+  @media screen and (min-width: 1600px) {
+    .heading-h5 {
+      font-size: 2.6rem;
+    }
+  }
+  .heading-h6 {
+    font-size: 2.2rem;
+  }
+
+  .heading-h7 {
+    font-size: 2rem;
+  }
+
+  .heading-h8 {
+    font-size: 1.4rem;
+  }
+
+  @media screen and (min-width: 1400px) {
+    .heading-h8 {
+      font-size: 1.6rem;
+    }
+  }
+  .heading-base {
+    font-size: 14px;
+    line-height: 21px;
+  }
+
+  @media screen and (min-width: 600px) {
+    .heading-base {
+      font-size: 16px;
+      line-height: 25px;
+    }
+  }
+  .heading-black {
+    color: #262626;
+  }
+
+  .heading-white {
+    color: #fff;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  .heading-left {
+    text-align: left;
+  }
+
+  .heading-center {
+    text-align: center;
+  }
+
+  .heading-right {
+    text-align: right;
+  }
+</style>
+    </head>
+    <body>
+    <div id="root">
+      
+    <section class="world-section">
+      <div class="container">
+          <div class="logo">
+            <svg width="84" height="84" viewBox="0 0 84 84">
+              <g>
+                <path class="color-1" d="M40.86,0a42,42,0,0,1,38.28,61.6A42,42,0,0,1,22.45,79.16a42.53,42.53,0,0,1-12.27-9.77A42,42,0,0,1,1.09,51.6a42.42,42.42,0,0,1,.53-21.21A41.73,41.73,0,0,1,8.15,17.15,42.46,42.46,0,0,1,21.23,5.49,41.47,41.47,0,0,1,40.86,0ZM40,1.34A40.49,40.49,0,0,0,18.09,9,41.24,41.24,0,0,0,5.83,23.25,40.64,40.64,0,0,0,9.34,66.31a41.45,41.45,0,0,0,10.9,10.1A40.73,40.73,0,0,0,77.57,61.83a40.6,40.6,0,0,0-4.48-46.06A41,41,0,0,0,61.38,6.22,39.69,39.69,0,0,0,40,1.34Z"/>
+              </g>
+              <g>
+                <path class="color-2" d="M34.41,22.32a30.21,30.21,0,0,1,3.39-.05,7.28,7.28,0,0,1,2.1.13A1.75,1.75,0,0,1,41,24.11v16.1c0,.51-.08,1.09.28,1.49s.63.25,1,.28h6.2a1.85,1.85,0,0,1,2,1.92c0,1.19,0,2.38,0,3.57a1.78,1.78,0,0,1-1.87,1.67H34.74A1.84,1.84,0,0,1,33,47.22V24.11a1.94,1.94,0,0,1,1.44-1.8Z"/>
+              </g>
+              <g>
+                <path class="color-3" d="M70,27a4.25,4.25,0,0,1,2.91-1.49,4.19,4.19,0,0,1,1.47.28,3.72,3.72,0,0,1,.3,2.76,9.67,9.67,0,0,1-2.28,3.9c-1.67,2.1-3.19,4.3-4.73,6.5-.33.48-.68.94-1,1.44-.18.18,0,.35.13.53,3.16,4.63,6.3,9.29,9.46,13.92a4.63,4.63,0,0,1,1.16,2.83,1.78,1.78,0,0,1-1.21,1.47,25.24,25.24,0,0,1-6,1.67A3.28,3.28,0,0,1,66.82,59c-1.72-3.62-3.59-7.14-5.41-10.71-2.18,3.21-4.3,6.48-6.43,9.74a4.1,4.1,0,0,1-1.59,1.42,1.35,1.35,0,0,1-1.32-.08,5.17,5.17,0,0,1-1-1.09,31.55,31.55,0,0,1-2-3.14A4,4,0,0,1,48.86,52a7.24,7.24,0,0,1,1.47-2.48q3.64-4.18,7.31-8.33c-1.67-3.26-3.39-6.48-5.06-9.72A5.53,5.53,0,0,1,52,28.54a2.37,2.37,0,0,1,1.14-2,3.61,3.61,0,0,1,3.44-.1,3.49,3.49,0,0,1,1.26,1.24l5.08,7.49C65.28,32.44,67.63,29.71,70,27Z"/>
+              </g>
+              <g>
+                <path class="color-4" d="M16.37,26.62A12.1,12.1,0,0,1,24,28.21a15.27,15.27,0,0,1,6.3,7.67,18.66,18.66,0,0,1,.53,11.74,15.82,15.82,0,0,1-6.1,8.81,12.14,12.14,0,0,1-6.81,2.18,12.29,12.29,0,0,1-7.18-2.38,16.15,16.15,0,0,1-6-9.57A18.38,18.38,0,0,1,6.43,33.78a14.54,14.54,0,0,1,6.07-6,12.27,12.27,0,0,1,3.87-1.19Zm.4,5.14a6.07,6.07,0,0,0-3.19,2.58,13.73,13.73,0,0,0-2,5.75,17.43,17.43,0,0,0,1,8.88,8.26,8.26,0,0,0,3.06,3.92,4,4,0,0,0,3.74.33,6.29,6.29,0,0,0,2.71-2.43,14.25,14.25,0,0,0,2-5.69,17.41,17.41,0,0,0-1.06-9,8.94,8.94,0,0,0-2.86-3.77,4.13,4.13,0,0,0-3.44-.56Z"/>
+              </g>
+            </svg>
+            </div>
+            <h2 class="subtitle heading heading-primary heading-h3 heading-bold heading-black heading-center">Join the millions who buy and sell from each other everyday in local communities around the world.</h2>
+            <div class="world-grid-container">
+                <h3 class="grid-title heading heading-primary heading-h4 heading-bold heading-black heading-center">Find your community below</h3>
+                <div class="world-grid flagged-countries">
+                  
+                    <div class="country-wrapper">
+                      <a class="country" href="http://www.olx.com.br/" target="_self">
+                        <div class="flag-wrapper">
+                        <img class="flag" src="/assets/styles/logo/public/2018-03/br%403x.png?itok=o1sv_asd" alt="Flag br">
+                      </div>
+                        <span class="country-title">Brazil</span>
+                      </a>
+                    </div>
+                  
+                    <div class="country-wrapper">
+                      <a class="country" href="https://www.olx.in/" target="_self">
+                        <div class="flag-wrapper">
+                        <img class="flag" src="/assets/styles/logo/public/2018-03/in%403x.png?itok=x7VquC0v" alt="Flag in">
+                      </div>
+                        <span class="country-title">India</span>
+                      </a>
+                    </div>
+                  
+                    <div class="country-wrapper">
+                      <a class="country" href="https://www.olx.co.id/" target="_self">
+                        <div class="flag-wrapper">
+                        <img class="flag" src="/assets/styles/logo/public/2018-03/id%403x.png?itok=9jU2ydRp" alt="Flag id">
+                      </div>
+                        <span class="country-title">Indonesia</span>
+                      </a>
+                    </div>
+                  
+                    <div class="country-wrapper">
+                      <a class="country" href="https://www.olx.co.ke/" target="_self">
+                        <div class="flag-wrapper">
+                        <img class="flag" src="/assets/styles/logo/public/2018-03/kenya%403x.png?itok=7I3SWZrQ" alt="Flag ke">
+                      </div>
+                        <span class="country-title">Kenya</span>
+                      </a>
+                    </div>
+                  
+                    <div class="country-wrapper">
+                      <a class="country" href="https://www.olx.com.pk/" target="_self">
+                        <div class="flag-wrapper">
+                        <img class="flag" src="/assets/styles/logo/public/2018-03/pakistan%403x.png?itok=HgqNIS2r" alt="Flag pk">
+                      </div>
+                        <span class="country-title">Pakistan</span>
+                      </a>
+                    </div>
+                  
+                    <div class="country-wrapper">
+                      <a class="country" href="https://www.olx.ph/" target="_self">
+                        <div class="flag-wrapper">
+                        <img class="flag" src="/assets/styles/logo/public/2018-03/philippines%403x.png?itok=hVLIoJWd" alt="Flag ph">
+                      </div>
+                        <span class="country-title">Philippines</span>
+                      </a>
+                    </div>
+                  
+                    <div class="country-wrapper">
+                      <a class="country" href="https://www.olx.pt/" target="_self">
+                        <div class="flag-wrapper">
+                        <img class="flag" src="/assets/styles/logo/public/2018-03/pt%403x.png?itok=eaP0RD8K" alt="Flag pt">
+                      </div>
+                        <span class="country-title">Portugal</span>
+                      </a>
+                    </div>
+                  
+                    <div class="country-wrapper">
+                      <a class="country" href="https://www.olx.ro/" target="_self">
+                        <div class="flag-wrapper">
+                        <img class="flag" src="/assets/styles/logo/public/2018-03/romania%403x.png?itok=fdJasOuo" alt="Flag ro">
+                      </div>
+                        <span class="country-title">Romania</span>
+                      </a>
+                    </div>
+                  
+                    <div class="country-wrapper">
+                      <a class="country" href="https://www.olx.co.za/" target="_self">
+                        <div class="flag-wrapper">
+                        <img class="flag" src="/assets/styles/logo/public/2018-03/south-africa%403x.png?itok=RIOWFEpR" alt="Flag za">
+                      </div>
+                        <span class="country-title">South Africa</span>
+                      </a>
+                    </div>
+                  
+                </div>
+            </div>
+            <div class="world-grid-container">
+                <h3 class="grid-title heading heading-primary heading-h4 heading-bold heading-black heading-center">More communities</h3>
+                <div class="world-grid">
+                  
+                    <div class="country-wrapper">
+                      <a class="country" href="https://www.olx.co.ao/" target="_self">
+                        <span class="country-title">Angola</span>
+                      </a>
+                    </div>
+                  
+                    <div class="country-wrapper">
+                      <a class="country" href="https://www.olx.com.ar/" target="_self">
+                        <span class="country-title">Argentina</span>
+                      </a>
+                    </div>
+                  
+                    <div class="country-wrapper">
+                      <a class="country" href="https://www.olx.com.bo/" target="_self">
+                        <span class="country-title">Bolivia</span>
+                      </a>
+                    </div>
+                  
+                    <div class="country-wrapper">
+                      <a class="country" href="https://www.olx.ba/" target="_self">
+                        <span class="country-title">Bosnia and Herzegovina</span>
+                      </a>
+                    </div>
+                  
+                    <div class="country-wrapper">
+                      <a class="country" href="https://www.olx.bg/" target="_self">
+                        <span class="country-title">Bulgaria</span>
+                      </a>
+                    </div>
+                  
+                    <div class="country-wrapper">
+                      <a class="country" href="https://www.olx.com.co/" target="_self">
+                        <span class="country-title">Colombia</span>
+                      </a>
+                    </div>
+                  
+                    <div class="country-wrapper">
+                      <a class="country" href="https://www.olx.co.cr/" target="_self">
+                        <span class="country-title">Costa Rica</span>
+                      </a>
+                    </div>
+                  
+                    <div class="country-wrapper">
+                      <a class="country" href="https://www.olx.com.ec/" target="_self">
+                        <span class="country-title">Ecuador</span>
+                      </a>
+                    </div>
+                  
+                    <div class="country-wrapper">
+                      <a class="country" href="https://olx.com.eg/" target="_self">
+                        <span class="country-title">Egypt</span>
+                      </a>
+                    </div>
+                  
+                    <div class="country-wrapper">
+                      <a class="country" href="https://www.olx.com.sv/" target="_self">
+                        <span class="country-title">El Salvador</span>
+                      </a>
+                    </div>
+                  
+                    <div class="country-wrapper">
+                      <a class="country" href="https://www.olx.com.gh/" target="_self">
+                        <span class="country-title">Ghana</span>
+                      </a>
+                    </div>
+                  
+                    <div class="country-wrapper">
+                      <a class="country" href="https://www.olx.com.gt/" target="_self">
+                        <span class="country-title">Guatemala</span>
+                      </a>
+                    </div>
+                  
+                    <div class="country-wrapper">
+                      <a class="country" href="https://www.olx.kz/" target="_self">
+                        <span class="country-title">Kazakhastan</span>
+                      </a>
+                    </div>
+                  
+                    <div class="country-wrapper">
+                      <a class="country" href="https://olxliban.com/en/" target="_self">
+                        <span class="country-title">Lebanon</span>
+                      </a>
+                    </div>
+                  
+                    <div class="country-wrapper">
+                      <a class="country" href="https://www.olx.co.mz/" target="_self">
+                        <span class="country-title">Mozambique</span>
+                      </a>
+                    </div>
+                  
+                    <div class="country-wrapper">
+                      <a class="country" href="https://www.olx.com.ng/" target="_self">
+                        <span class="country-title">Nigeria</span>
+                      </a>
+                    </div>
+                  
+                    <div class="country-wrapper">
+                      <a class="country" href="https://olx.com.om/" target="_self">
+                        <span class="country-title">Oman</span>
+                      </a>
+                    </div>
+                  
+                    <div class="country-wrapper">
+                      <a class="country" href="https://www.olx.com.pa/" target="_self">
+                        <span class="country-title">Panama</span>
+                      </a>
+                    </div>
+                  
+                    <div class="country-wrapper">
+                      <a class="country" href="https://www.olx.com.pe/" target="_self">
+                        <span class="country-title">Peru</span>
+                      </a>
+                    </div>
+                  
+                    <div class="country-wrapper">
+                      <a class="country" href="https://www.olx.pl/" target="_self">
+                        <span class="country-title">Poland</span>
+                      </a>
+                    </div>
+                  
+                    <div class="country-wrapper">
+                      <a class="country" href="https://tr.letgo.com/tr" target="_self">
+                        <span class="country-title">Turkey</span>
+                      </a>
+                    </div>
+                  
+                    <div class="country-wrapper">
+                      <a class="country" href="https://www.olx.co.ug/" target="_self">
+                        <span class="country-title">Uganda</span>
+                      </a>
+                    </div>
+                  
+                    <div class="country-wrapper">
+                      <a class="country" href="https://www.olx.ua/" target="_self">
+                        <span class="country-title">Ukranie</span>
+                      </a>
+                    </div>
+                  
+                    <div class="country-wrapper">
+                      <a class="country" href="https://www.olx.com.uy/" target="_self">
+                        <span class="country-title">Uruguay</span>
+                      </a>
+                    </div>
+                  
+                    <div class="country-wrapper">
+                      <a class="country" href="http://olx.uz/" target="_self">
+                        <span class="country-title">Uzbekistan</span>
+                      </a>
+                    </div>
+                  
+                    <div class="country-wrapper">
+                      <a class="country" href="https://www.olx.com.ve/" target="_self">
+                        <span class="country-title">Venezuela</span>
+                      </a>
+                    </div>
+                  
+                </div>
+            </div>
+        </div>
+    </section>
+  
+    <section class="about-us-section">
+      <div class="container">
+            <h1 class="title heading heading-primary heading-h3 heading-bold heading-black heading-center">OLX is part of the OLX Group, a network of trading platforms  present in more than 40 countries under 17 brands.</h1>
+            <div class="content-flex">
+              
+                <div class="image-container">
+                  <div class="image">
+                    <div class="inner">
+                      <img alt="Story of the OLX Group" src="/assets/styles/hero/public/2018-04/0.jpg?itok=U-h_xctY">
+                    </div>
+                  </div>
+                  <div class="button-wrapper">
+                    <a class="button button-dark" href="https://olxgroup-website-2017.live.dpdk.com/story">
+                      <span>
+                        More about us
+                      </span>
+                    </a>
+                    </div>
+                </div>
+              
+                <div class="image-container">
+                  <div class="image">
+                    <div class="inner">
+                      <img alt="image" src="/assets/styles/hero/public/2018-02/careers_img.png?itok=DPYR0GvR">
+                    </div>
+                  </div>
+                  <div class="button-wrapper">
+                    <a class="button button-dark" href="https://olxgroup-website-2017.live.dpdk.com/careers">
+                      <span>
+                        Join our team
+                      </span>
+                    </a>
+                    </div>
+                </div>
+              
+            </div>
+      </div>
+    </section>
+      <footer class="footer">
+        <span>
+          <p>
+            Copyright © 2018 OLX
+          </p>
+        </span>
+      </footer>
+    </div>
+    </body>
+  </html>

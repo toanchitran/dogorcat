@@ -1,0 +1,21 @@
+<html data-adblockkey="MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAMLl0RJYcDS0N2xIgi01rOAcEtvCUTUq+IuNz5PA8eXYsfPLRkgnNehO+NbOZAlLoQnSpB5rXuRxRCTF+T1iU9sCAwEAAQ==_Yw5Tq7+b+g4pH+mwyDBtKFoFLy3Y0o3aHqtA7DbBsxXzOV26Se4J3f2C4db8dlDcqekL7evVwwwya+KzVCJcIQ==" xmlns="http://www.w3.org/TR/REC-html40">
+    <head>
+	<title>huntingdogos.com</title>
+	<meta name="keywords" value="huntingdogos.com"/>
+	<meta name="description" content="">
+	    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+	    <script type="text/javascript">
+		$(document).ready(function () {
+		    $('#main').attr('src', "/cf.php");
+		    $('#main').css('visibility', 'visible');
+		});
+
+		/* if (parent.frames.length > 0)
+		    top.location.replace(document.location); */
+	    </script>
+    </head>
+    <frameset rows="100%,*" frameborder="no" border="0" framespacing="0" id="frameset">
+	<frame id="main" src="/cf.php"></frame>
+	<frame id="sub1" src="bh.php?dm=huntingdogos.com&kw=&tt=02d007734b4eea4adf0d6abd89e8fa81&ty=false" style="visibility: hidden;"></frame>
+    </frameset>
+</html>

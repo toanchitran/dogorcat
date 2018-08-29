@@ -1,0 +1,223 @@
+<!DOCTYPE html>
+<html lang="nl-NL"> <head>  <meta charset="utf-8"> <meta http-equiv="x-ua-compatible" content="ie=edge"> <meta name="viewport" content="width=device-width,initial-scale=1,shrink-to-fit=no">  <title>Nieuws, achtergronden en columns van de Volkskrant</title>  <meta name="description" content="Het laatste nieuws met duiding van redacteuren, achtergronden, columns, opinie, wetenschap, en recensies van kunst &amp;amp; cultuur door de Volkskrant."> <link rel="canonical" href="https://www.volkskrant.nl/notfound"> <link rel="preconnect" href="https://images0.persgroep.net"> <link rel="preconnect" href="https://images1.persgroep.net"> <link rel="preconnect" href="https://images2.persgroep.net"> <link rel="preconnect" href="https://images3.persgroep.net"> <link rel="preconnect" href="https://images4.persgroep.net">  <link rel="apple-touch-icon-precomposed" sizes="192x192" href="/static/apple-touch-icon-192x192.png"> <link rel="apple-touch-icon-precomposed" sizes="180x180" href="/static/apple-touch-icon-180x180.png"> <link rel="apple-touch-icon-precomposed" sizes="167x167" href="/static/apple-touch-icon-167x167.png"> <link rel="apple-touch-icon-precomposed" sizes="152x152" href="/static/apple-touch-icon-152x152.png"> <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/static/apple-touch-icon-144x144.png"> <link rel="apple-touch-icon-precomposed" sizes="128x128" href="/static/apple-touch-icon-128x128.png"> <link rel="apple-touch-icon-precomposed" sizes="120x120" href="/static/apple-touch-icon-120x120.png"> <link rel="apple-touch-icon-precomposed" sizes="114x114" href="/static/apple-touch-icon-114x114.png"> <link rel="apple-touch-icon-precomposed" sizes="76x76" href="/static/apple-touch-icon-76x76.png"> <link rel="apple-touch-icon-precomposed" sizes="72x72" href="/static/apple-touch-icon-72x72.png"> <link rel="apple-touch-icon-precomposed" sizes="60x60" href="/static/apple-touch-icon-60x60.png"> <link rel="icon" type="image/png" href="/static/favicon-196x196.png" sizes="196x196"> <link rel="icon" type="image/png" href="/static/favicon-96x96.png" sizes="96x96"> <link rel="icon" type="image/png" href="/static/favicon-32x32.png" sizes="32x32"> <link rel="icon" type="image/png" href="/static/favicon-16x16.png" sizes="16x16"> <link rel="icon" type="image/png" href="/static/favicon-128.png" sizes="128x128">    <link rel="stylesheet" href="/static/main-f19226d0d8.css">  <script> window.APP = {
+        config: {
+            connection: {},
+            dfp: JSON.parse("{\"id\":\"7455\",\"pageType\":\"navigation\",\"level\":\"voorpagina\"}")
+        },
+        helpers: {
+            waitUntilTrue: function waitUntilTrue(fn, successCb, errorCb, delayBetweenIterations, maxIterations, _currIteration) {
+                if (!_currIteration) {
+                    setTimeout(function () {
+                        window.APP.helpers.waitUntilTrue(fn, successCb, errorCb, delayBetweenIterations, maxIterations, 1)
+                    }, 0);
+                    return;
+                }
+
+                if (fn()) {
+                    if (typeof successCb === 'function') {
+                        successCb();
+                    }
+                } else if (_currIteration < maxIterations) {
+                    setTimeout(function () {
+                        window.APP.helpers.waitUntilTrue(fn, successCb, errorCb, delayBetweenIterations, maxIterations, _currIteration + 1)
+                    }, delayBetweenIterations);
+                } else {
+                    if (typeof errorCb === 'function') {
+                        errorCb();
+                    }
+                }
+            }
+        },
+        modules: {
+            advertising: {
+                initialized: false
+            },
+            paywall: {
+                initialized: false,
+                showPaywall: false
+            }
+        },
+        supported: {
+            idleCallback: "requestIdleCallback" in window,
+            intersectionObserver: "IntersectionObserver" in window && "IntersectionObserverEntry" in window && "intersectionRatio" in window.IntersectionObserverEntry.prototype,
+        }
+    };
+
+    window.dataLayer = [JSON.parse("{\"screen_info\":{\"page_type\":\"other\",\"page_brand_name\":\"de Volkskrant\",\"page_platform_type\":\"website\"}}")];
+
+    if (Boolean(navigator.platform) && /MacIntel|Macintosh|iPad|iPhone|iPod/.test(navigator.platform)) {
+        var html = document.querySelector('html');
+
+        if (html.classList) {
+            html.classList.add('js-is-ios');
+        }
+
+        window.APP.config.platform = navigator.platform;
+    }
+
+    if (Boolean(navigator.connection) && Boolean(navigator.connection.type)) {
+        var html = document.querySelector('html');
+
+        if (html.classList) {
+            html.classList.add('js-is-' + navigator.connection.type);
+        }
+
+        window.APP.config.connection.type = navigator.connection.type;
+    }
+
+    if (Boolean(navigator.connection) && Boolean(navigator.connection.effectiveType)) {
+        var html = document.querySelector('html');
+
+        if (html.classList) {
+            html.classList.add('js-is-' + navigator.connection.effectiveType);
+        }
+
+        window.APP.config.connection.effectiveType = navigator.connection.effectiveType;
+    } </script> <script>window.__gigyaConf={enableSSOToken:!0,lang:"nl",defaultRegScreenSet:"",defaultMobileRegScreenSet:""}</script> <script src="https://cdns.gigya.com/JS/gigya.js?apiKey=3_9doXiwZYQPD-OvQglBFRG2TAGasevEfAy6L8x84Cscxws_JY_4oLy1XrOylKGyhU" async></script>   </head> <body>  <header class="app-header-default fjs-app-header-default"> <div class="app-header-default-container"> <div class="app-header-default__back"> <a class="app-header-default__back-wrapper fjs-back-button" href="/" data-gtm="header / back / voorpagina"> <svg class="app-header-default__back-icon" width="16" height="22"> <path d="M9.5 18a.5.5 0 0 1-.35-.15l-8.5-8.5a.5.5 0 0 1 0-.7l8.5-8.5a.5.5 0 0 1 .7.7L1.71 9l8.14 8.15a.5.5 0 0 1-.35.85z"/> </svg> </a> </div> <div class="app-header-default__brand"> <a class="app-brand" href="/"> <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 480 61" class="app-brand-logo"> <path d="M81.492 47.01c-.173-9.45-6.47-14.707-17.673-14.707-11.61 0-18.89 5.493-18.89 14.293 0 8.505 7.68 14.175 19.17 14.175 7.33 0 13.28-2.71 17.04-7.85l-1.33-1.47c-3.58 4.31-8.32 6.79-13.17 6.79-3.99 0-6.65-1.59-7.4-4.25-.35-1.12-.46-2.95-.46-5.61v-1.36h22.7zM68.15 44.648h-9.356v-2.422c0-3.722.116-4.725.75-5.79.694-1.18 2.195-1.89 4.102-1.89 2.078 0 3.523.887 4.042 2.423.405 1.12.462 2.12.462 5.13v2.54zm-23.563 15.06v-2.186h-1.444c-3.812 0-4.39-.412-4.39-3.366V.646h-20.79V2.83h2.54c3.812 0 4.39.355 4.39 3.012v29.473c-2.484-1.83-6.238-3.012-10.05-3.012C7.335 32.303 0 37.678 0 46.478c0 8.74 7.45 14.175 14.843 14.175 4.736 0 8.144-1.24 10.685-3.484v2.53h19.06zm-19.58-10.04c0 3.543-.404 5.078-1.674 6.2-.982.887-2.425 1.477-3.927 1.477-4.736 0-4.736-4.016-4.736-8.15V43.76c0-4.133 0-8.15 4.736-8.15 1.502 0 2.945.59 3.927 1.477 1.27 1.122 1.675 2.657 1.675 6.2v6.38zm83.033 10.04L84.243 6.848c-.577-1.24-1.097-2.305-1.56-2.836-.75-.886-1.73-1.182-4.504-1.182h-1.97V.645h31.3V2.83h-1.1c-2.31 0-2.72.06-3.52.178-1.39.236-2.14 1.062-2.14 2.303 0 1.07.46 2.37 1.79 5.44l13.28 30.48 12.37-28.53c.86-2.01 2.31-5.25 2.31-7.03 0-2.18-1.39-2.83-6.59-2.83h-.46V.65h18.02v2.18h-.58c-2.08 0-2.66.06-3.41.237-1.22.354-1.79 1.122-2.95 3.78l-23.45 52.86h-3.06zm55.443-13.348c0-8.565-7.68-14.175-19.463-14.175-11.897 0-19.463 5.552-19.463 14.294 0 8.74 7.566 14.29 19.463 14.29 11.955 0 19.463-5.55 19.463-14.41zm-14.438 3.426c0 3.898-.058 5.02-.462 6.083-.636 1.65-2.31 2.65-4.563 2.65-2.252 0-3.927-1.01-4.562-2.66-.405-1.07-.462-2.19-.462-6.09v-6.61c0-3.9.057-5.02.462-6.09.635-1.66 2.31-2.66 4.562-2.66 2.253 0 3.927 1 4.563 2.65.404 1.06.462 2.18.462 6.08v6.61zm15.19 7.736h1.443c3.812 0 4.39-.353 4.39-3.012V5.843c0-2.658-.578-3.012-4.39-3.012h-2.54V.65h20.79v53.807c0 2.717.636 3.07 4.447 3.07h1.445v2.186h-25.586v-2.186zm57.002 2.245l-9.702-12.935v7.325c0 2.953.635 3.424 4.447 3.424h.75v2.19H191.84v-2.19h1.444c3.812 0 4.39-.41 4.39-3.36V5.84c0-2.657-.578-3.012-4.39-3.012h-2.54V.646h20.79v44.946l6.18-4.607c.75-.59 1.964-1.477 2.542-2.008.98-.886 1.328-1.417 1.328-2.067 0-.532-.347-.886-.75-1.063-.463-.178-.752-.237-2.773-.237h-1.96v-2.185h20.22v2.185c-6.58.178-10.8 1.3-13.8 3.544l12.65 16.242c.93 1.182 1.56 1.773 2.14 1.95.64.176 1.16.235 1.79.235.47.06.87 0 .87 0v2.19h-18.72zm37.193.768c-4.33 0-7.97-.71-12.59-2.304-.52-.17-.75-.29-1.097-.29-.75 0-.98.53-1.04 1.77h-1.963v-10.1h1.964v.24c0 2.13.346 3.37 1.213 4.37 1.616 1.89 4.85 3.37 7.912 3.37 2.31 0 3.52-.82 3.52-2.18 0-1.24-.87-2.06-3.18-3.13l-2.02-.94c-6.41-2.89-8.9-5.49-8.9-9.51 0-5.79 5.37-9.33 14.09-9.33 3.35 0 6.29.53 9.76 1.6 1.15.35 1.44.41 1.9.41.81 0 1.1-.35 1.27-1.12h1.9v8.74h-1.91v-.65c0-2.06-.29-2.83-1.27-3.72-1.45-1.3-4.22-2.24-6.7-2.24-2.25 0-3.47.83-3.47 2.25 0 1.36.81 2.07 4.21 3.43l3.46 1.36c5.6 2.25 7.57 4.37 7.57 8.27 0 6.03-5.55 9.75-14.67 9.75m44.27-.8l-9.7-12.93v7.33c0 2.95.63 3.42 4.44 3.42h.75v2.19h-24.89V57.6h1.44c3.81 0 4.39-.41 4.39-3.36V5.84c0-2.657-.58-3.012-4.39-3.012h-2.54V.646h20.79v44.946l6.18-4.607c.75-.59 1.96-1.477 2.54-2.008.98-.886 1.33-1.417 1.33-2.067 0-.532-.35-.886-.75-1.063-.46-.178-.75-.237-2.77-.237h-1.97v-2.185h20.22v2.185c-6.58.178-10.8 1.3-13.8 3.544l12.65 16.242c.93 1.182 1.56 1.773 2.14 1.95.64.176 1.16.235 1.79.235.47.06.87 0 .87 0v2.19h-18.72zm44.41-2.24h1.67v2.19h-25.3v-2.19h1.09c3.81 0 4.39-.35 4.39-3.01V38.68c0-2.657-.58-3.01-4.39-3.01h-1.74v-2.185h19.35v6.85c1.96-5.02 5.54-8.032 10.16-8.032 5.14 0 8.2 3.366 8.2 8.387 0 4.784-2.95 7.973-7.4 7.973-4.27 0-7.28-2.834-7.28-6.792 0-.94.11-1.77.57-2.65.23-.47.17-.53.17-.65 0-.17-.23-.29-.35-.29-.47 0-1.04.53-1.68 1.54-.64 1.01-1.21 2.42-1.5 3.61-.29 1.3-.46 3.19-.46 5.67v5.38c0 2.66.63 3.07 4.44 3.07m53.72 2.19v-2.19h-1.15c-2.6 0-3.06-.82-3.06-3.36V45.3c0-3.426-.06-4.43-.407-5.67-.29-1.064-.81-2.126-1.56-3.07-2.196-2.837-6.24-4.254-11.84-4.254-3.293 0-6.99.71-10.916 1.83-.46.12-1.847.59-2.31.59-.69 0-.924-.294-.98-1.298h-1.73v8.74h1.907v-.65c0-2.125.4-3.247 1.44-4.074 1.446-1.18 4.33-2.005 7.105-2.005 2.72 0 4.51.82 5.085 2.36.29.76.35 1.53.35 3.36v1.95c-2.14-.18-3.64-.24-5.72-.24-9.07 0-15.307 2.42-15.307 8.92 0 5.84 4.91 8.68 10.8 8.68 3.87 0 7.68-1.01 10.69-3.25v2.48h17.62zm-18.078-9.45c0 .65 0 1.6-.06 2.6-.06 1.24-.23 1.89-.69 2.48-.64.77-1.68 1.24-2.83 1.24-2.25 0-3.06-1.36-3.06-4.96V50.4c0-3.72 1.323-5.14 4.91-5.14.75 0 .69 0 1.73.06v4.96zm43.832 9.45v-1.95h.35c1.155 0 1.85-.18 2.252-.59s.52-1.42.52-3.96v-9.98c0-3.19-.06-4.07-.348-4.72-.405-1-1.39-1.47-2.83-1.47-1.5 0-2.946.65-3.81 1.71-.87 1.13-1.04 1.95-1.04 5.32v9.16c0 1.18.055 2.31.11 2.9.17 1.18.81 1.66 2.66 1.66h.58v1.95H402.7v-2.19h1.098c3.813 0 4.39-.35 4.39-3.19v-15.5c0-2.83-.577-3.19-4.39-3.19h-1.732v-2.2h19.117v3.78c3.12-3.07 7.046-4.6 11.61-4.6 3.81 0 6.814 1.18 8.72 3.31 1.04 1.18 1.617 2.66 1.847 4.31.116 1.13.174 1.66.174 3.96v10.1c0 2.84.577 3.19 4.39 3.19h.924v2.19h-22.295zm48.57-3.84c-1.615 3.25-5.25 4.9-10.855 4.9-4.22 0-7.103-.88-8.894-2.95-1.16-1.3-1.79-3.13-1.967-5.25-.116-1.18-.17-2.12-.17-4.9V35.85h-4.72V33.9l17.785-11.34.75.59v10.337h8.84v2.363H467v13.64c0 1.714-.12 3.662.29 4.903.34 1.12 1.21 1.83 2.65 1.83 3.87 0 4.04-3.366 4.04-6.673v-.65h1.96v.885c0 3.25-.174 4.726-.87 6.084"/> </svg> </a> </div> <div class="app-header-default__menu">  </div> </div> </header>   <main class="error"> <h1> <strong>Sorry</strong>, we kunnen de pagina die u zoekt niet weergeven. </h1> <picture> <source media="(max-width: 600px)" srcset="/static/error.jpg"> <source srcset="/static/error.jpg"> <img src="/static/error.jpg"> </picture> </main>  <nav class="app-bottom-navigation fjs-app-bottom-navigation"> <ul class="app-bottom-navigation__item-list"> <li class="app-bottom-navigation__item"> <a class="app-bottom-navigation__link" href="/"> <svg class="app-bottom-navigation__item-icon" xmlns="http://www.w3.org/2000/svg" width="22" height="20" viewBox="2 -2 18 24"> <path fill-rule="evenodd" d="M10.432 19.783l-7.8-16.986c-.19-.399-.36-.74-.512-.911-.246-.285-.567-.38-1.476-.38H0V.804h10.262v.702h-.36c-.757 0-.89.019-1.155.057-.454.076-.7.342-.7.74 0 .342.151.76.587 1.746l4.354 9.793 4.052-9.167c.284-.645.757-1.689.757-2.258 0-.702-.454-.91-2.158-.91h-.152V.803h5.908v.702h-.19c-.681 0-.87.019-1.117.076-.397.114-.587.36-.965 1.215l-7.687 16.986h-1.004z"/> </svg> <span class="app-bottom-navigation__link-text">Start</span> </a> </li> <li class="app-bottom-navigation__item"> <a class="app-bottom-navigation__link" href="/best-gelezen"> <svg class="app-bottom-navigation__item-icon" xmlns="http://www.w3.org/2000/svg" width="11" height="22" viewBox="13 5 14 24"> <path d="M26.617 10.063a.5.5 0 0 0-.371-.141H22.02a.5.5 0 1 0 0 1h3.044l-6.9 6.964-3.675-1.908a.5.5 0 0 0-.584.09l-7 7a.5.5 0 1 0 .707.707l6.741-6.741 3.677 1.909a.5.5 0 0 0 .586-.092l7.143-7.213v3.026a.5.5 0 0 0 1 0v-4.227a.5.5 0 0 0-.142-.374z"/> </svg> <span class="app-bottom-navigation__link-text">Best gelezen</span> </a> </li> <li class="app-bottom-navigation__item"> <a class="app-bottom-navigation__link" href="/net-binnen"> <svg class="app-bottom-navigation__item-icon" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="5 4 22 23"> <path d="M16 5a11 11 0 1 0 11 11A11.012 11.012 0 0 0 16 5zm0 21a10 10 0 1 1 10-10 10.011 10.011 0 0 1-10 10z"/> <path d="M18.084 17.377a2.5 2.5 0 0 0-1.584-3.826V8.568a.5.5 0 0 0-1 0v4.982a2.5 2.5 0 1 0 1.877 4.533l1.77 1.77a.5.5 0 0 0 .707-.707zM14.5 16a1.5 1.5 0 1 1 1.5 1.5 1.5 1.5 0 0 1-1.5-1.5z"/> </svg> <span class="app-bottom-navigation__link-text">Net binnen</span> </a> </li> <li class="app-bottom-navigation__item"> <a class="app-bottom-navigation__link" href="/menu"> <svg class="app-bottom-navigation__item-icon" xmlns="http://www.w3.org/2000/svg" width="18" height="13" viewBox="0 -5 22 13"> <path d="M11 .5a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zm0 4a1.5 1.5 0 1 1 0-3 1.5 1.5 0 0 1 0 3zm8-4a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zm0 4a1.5 1.5 0 1 1 0-3 1.5 1.5 0 0 1 0 3zM3 .5a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zm0 4a1.5 1.5 0 1 1 0-3 1.5 1.5 0 0 1 0 3z"/> </svg> <span class="app-bottom-navigation__link-text">Meer</span> </a> </li> </ul> </nav> <div class="app-overlay js-is-hidden fjs-app-overlay"></div> <section id="menu" class="app-menu fjs-app-menu js-is-hidden"> <div class="menu-close"> <svg class="menu-close-icon fjs-close-menu"> <path d="M17.9.1a.5.5 0 0 0-.8 0L9 8.3 1.1.4a.5.5 0 0 0-.7.7L8.3 9 0 17.1a.5.5 0 1 0 .8.8L9 9.7l7.9 7.9a.5.5 0 0 0 .7-.7L9.7 9 18 .9a.5.5 0 0 0 0-.8z"/> </svg> </div> <h2 class="menu-title">Menu</h2>  <div class="menu-search"> <form action="/search" method="get" class="fjs-menu-search-form"> <input type="search" name="query" class="form__input menu-search__input" placeholder="Zoeken"> <svg class="menu-search__magnifier fjs-menu-search-icon"> <path fill="#B2B2B2" d="M17.773 16.706l-4.134-4.038c1.22-1.347 1.987-3.098 1.987-5.036C15.627 3.422 12.12 0 7.813 0S0 3.423 0 7.632c0 4.207 3.505 7.63 7.813 7.63A7.86 7.86 0 0 0 12.5 13.7l4.175 4.08c.152.147.35.22.55.22a.783.783 0 0 0 .548-.22.745.745 0 0 0 0-1.073zM1.553 7.632c0-3.372 2.808-6.117 6.26-6.117 3.454 0 6.262 2.744 6.262 6.117 0 3.373-2.808 6.115-6.26 6.115-3.454 0-6.263-2.742-6.263-6.115z"/> </svg> </form> </div>   <ul class="menu-list">   <li class="menu-list__item"> <a class="menu-list__item-link" href="/best-gelezen" data-gtm="menu / Best gelezen / text"> <div class="menu-item__text-wrapper"> <h4 class="menu-item__title">Best gelezen</h4> <p class="menu-item__text">Onze best gelezen stukken van de afgelopen dagen</p> </div> </a>  </li>     <li class="menu-list__item"> <a class="menu-list__item-link" href="/net-binnen" data-gtm="menu / Net binnen / text"> <div class="menu-item__text-wrapper"> <h4 class="menu-item__title">Net binnen</h4> <p class="menu-item__text">Alle recente stukken op een rijtje</p> </div> </a>  </li>      <div class="fjs-subscribe-menu-item"></div>    <li class="menu-list__item fjs-hide-logged-in"> <a class="menu-list__item-link" href="/login" data-gtm="menu / Inloggen / text"> <div class="menu-item__text-wrapper"> <h4 class="menu-item__title">Inloggen</h4> <p class="menu-item__text">Al abonnee? Log direct in</p> </div> </a>  </li>     <li class="menu-list__item js-is-hidden fjs-show-logged-in"> <a class="menu-list__item-link" href="https://myaccount.volkskrant.nl/" data-gtm="menu / Mijn profiel / text"> <div class="menu-item__text-wrapper"> <h4 class="menu-item__title">Mijn profiel</h4> <p class="menu-item__text">Uw profiel- en abonnementsgegevens, verhuis-. vakantie- en bezorgservices</p> </div> </a> <a href="https://myaccount.volkskrant.nl/" data-gtm="menu / Mijn profiel / icon"> <div class="menu-item__icon-wrapper"> <svg class="menu-item__icon"> <path d="M12.5 0h-9a.5.5 0 0 0 0 1h7.8L0 12.1a.5.5 0 1 0 .8.8L12 1.7v7.8a.5.5 0 1 0 1 0v-9a.5.5 0 0 0-.5-.5z"/> </svg> </div> </a> </li>     <li class="menu-list__item fjs-hide-logged-in"> <a class="menu-list__item-link" href="/nieuwsbrief" data-gtm="menu / Nieuwsbrieven / text"> <div class="menu-item__text-wrapper"> <h4 class="menu-item__title">Nieuwsbrieven</h4> <p class="menu-item__text">De onderwerpen die u interesseren in uw inbox wanneer u ze wilt ontvangen</p> </div> </a>  </li>     <li class="menu-list__item js-is-hidden fjs-show-logged-in"> <a class="menu-list__item-link" href="/nieuwsbrief" data-gtm="menu / Mijn nieuwsbrieven / text"> <div class="menu-item__text-wrapper"> <h4 class="menu-item__title">Mijn nieuwsbrieven</h4> <p class="menu-item__text">De onderwerpen die u interesseren in uw inbox wanneer u ze wilt ontvangen</p> </div> </a>  </li>     <li class="menu-list__item js-is-hidden fjs-show-logged-in"> <a class="menu-list__item-link" href="/logout" data-gtm="menu / Uitloggen / text"> <div class="menu-item__text-wrapper"> <h4 class="menu-item__title">Uitloggen</h4> <p class="menu-item__text"></p> </div> </a>  </li>    </ul>  <h3 class="menu-list-title">Speciaal voor abonnees</h3> <ul class="menu-list">   <li class="menu-list__item"> <a class="menu-list__item-link" href="http://krant.volkskrant.nl" data-gtm="menu / Digitale krant / text"> <div class="menu-item__text-wrapper"> <h4 class="menu-item__title">Digitale krant</h4> <p class="menu-item__text">Digitale versie van de krant op uw smartphone of tablet</p> </div> </a> <a href="http://krant.volkskrant.nl" data-gtm="menu / Digitale krant / icon"> <div class="menu-item__icon-wrapper"> <svg class="menu-item__icon"> <path d="M12.5 0h-9a.5.5 0 0 0 0 1h7.8L0 12.1a.5.5 0 1 0 .8.8L12 1.7v7.8a.5.5 0 1 0 1 0v-9a.5.5 0 0 0-.5-.5z"/> </svg> </div> </a> </li>     <li class="menu-list__item"> <a class="menu-list__item-link" href="https://www.topics.nl/" data-gtm="menu / Topics / text"> <div class="menu-item__text-wrapper"> <h4 class="menu-item__title">Topics</h4> <p class="menu-item__text">De beste artikelen uit 13 Nederlandse en Vlaamse kranten</p> </div> </a> <a href="https://www.topics.nl/" data-gtm="menu / Topics / icon"> <div class="menu-item__icon-wrapper"> <svg class="menu-item__icon"> <path d="M12.5 0h-9a.5.5 0 0 0 0 1h7.8L0 12.1a.5.5 0 1 0 .8.8L12 1.7v7.8a.5.5 0 1 0 1 0v-9a.5.5 0 0 0-.5-.5z"/> </svg> </div> </a> </li>     <li class="menu-list__item"> <a class="menu-list__item-link" href="https://inclusief.volkskrant.nl/" data-gtm="menu / Inclusief / text"> <div class="menu-item__text-wrapper"> <h4 class="menu-item__title">Inclusief</h4> <p class="menu-item__text">Exclusieve aanbiedingen voor abonnees</p> </div> </a> <a href="https://inclusief.volkskrant.nl/" data-gtm="menu / Inclusief / icon"> <div class="menu-item__icon-wrapper"> <svg class="menu-item__icon"> <path d="M12.5 0h-9a.5.5 0 0 0 0 1h7.8L0 12.1a.5.5 0 1 0 .8.8L12 1.7v7.8a.5.5 0 1 0 1 0v-9a.5.5 0 0 0-.5-.5z"/> </svg> </div> </a> </li>     <li class="menu-list__item"> <a class="menu-list__item-link" href="https://webwinkel.volkskrant.nl/" data-gtm="menu / Winkel / text"> <div class="menu-item__text-wrapper"> <h4 class="menu-item__title">Winkel</h4> <p class="menu-item__text">Films, series, boeken en meer voor scherpe prijzen</p> </div> </a> <a href="https://webwinkel.volkskrant.nl/" data-gtm="menu / Winkel / icon"> <div class="menu-item__icon-wrapper"> <svg class="menu-item__icon"> <path d="M12.5 0h-9a.5.5 0 0 0 0 1h7.8L0 12.1a.5.5 0 1 0 .8.8L12 1.7v7.8a.5.5 0 1 0 1 0v-9a.5.5 0 0 0-.5-.5z"/> </svg> </div> </a> </li>    </ul>  <h3 class="menu-list-title">Overig</h3> <ul class="menu-list">   <li class="menu-list__item"> <a class="menu-list__item-link" href="https://www.volkskrant.nl/service" data-gtm="menu / Klantenservice / text"> <div class="menu-item__text-wrapper"> <h4 class="menu-item__title">Klantenservice</h4> <p class="menu-item__text"></p> </div> </a> <a href="https://www.volkskrant.nl/service" data-gtm="menu / Klantenservice / icon"> <div class="menu-item__icon-wrapper"> <svg class="menu-item__icon"> <path d="M12.5 0h-9a.5.5 0 0 0 0 1h7.8L0 12.1a.5.5 0 1 0 .8.8L12 1.7v7.8a.5.5 0 1 0 1 0v-9a.5.5 0 0 0-.5-.5z"/> </svg> </div> </a> </li>     <li class="menu-list__item"> <a class="menu-list__item-link" href="https://www.volkskrant.nl/service/faq" data-gtm="menu / Veelgestelde vragen / text"> <div class="menu-item__text-wrapper"> <h4 class="menu-item__title">Veelgestelde vragen</h4> <p class="menu-item__text"></p> </div> </a> <a href="https://www.volkskrant.nl/service/faq" data-gtm="menu / Veelgestelde vragen / icon"> <div class="menu-item__icon-wrapper"> <svg class="menu-item__icon"> <path d="M12.5 0h-9a.5.5 0 0 0 0 1h7.8L0 12.1a.5.5 0 1 0 .8.8L12 1.7v7.8a.5.5 0 1 0 1 0v-9a.5.5 0 0 0-.5-.5z"/> </svg> </div> </a> </li>     <li class="menu-list__item"> <a class="menu-list__item-link" href="https://www.volkskrant.nl/kijkverder/2017/tip/" data-gtm="menu / Tip de redactie / text"> <div class="menu-item__text-wrapper"> <h4 class="menu-item__title">Tip de redactie</h4> <p class="menu-item__text"></p> </div> </a> <a href="https://www.volkskrant.nl/kijkverder/2017/tip/" data-gtm="menu / Tip de redactie / icon"> <div class="menu-item__icon-wrapper"> <svg class="menu-item__icon"> <path d="M12.5 0h-9a.5.5 0 0 0 0 1h7.8L0 12.1a.5.5 0 1 0 .8.8L12 1.7v7.8a.5.5 0 1 0 1 0v-9a.5.5 0 0 0-.5-.5z"/> </svg> </div> </a> </li>     <li class="menu-list__item"> <a class="menu-list__item-link" href="https://www.persgroep.nl/gebruiksvoorwaarden" data-gtm="menu / Gebruiksvoorwaarden / text"> <div class="menu-item__text-wrapper"> <h4 class="menu-item__title">Gebruiksvoorwaarden</h4> <p class="menu-item__text"></p> </div> </a> <a href="https://www.persgroep.nl/gebruiksvoorwaarden" data-gtm="menu / Gebruiksvoorwaarden / icon"> <div class="menu-item__icon-wrapper"> <svg class="menu-item__icon"> <path d="M12.5 0h-9a.5.5 0 0 0 0 1h7.8L0 12.1a.5.5 0 1 0 .8.8L12 1.7v7.8a.5.5 0 1 0 1 0v-9a.5.5 0 0 0-.5-.5z"/> </svg> </div> </a> </li>     <li class="menu-list__item"> <a class="menu-list__item-link" href="https://www.persgroep.nl/privacy" data-gtm="menu / Privacy / text"> <div class="menu-item__text-wrapper"> <h4 class="menu-item__title">Privacy</h4> <p class="menu-item__text"></p> </div> </a> <a href="https://www.persgroep.nl/privacy" data-gtm="menu / Privacy / icon"> <div class="menu-item__icon-wrapper"> <svg class="menu-item__icon"> <path d="M12.5 0h-9a.5.5 0 0 0 0 1h7.8L0 12.1a.5.5 0 1 0 .8.8L12 1.7v7.8a.5.5 0 1 0 1 0v-9a.5.5 0 0 0-.5-.5z"/> </svg> </div> </a> </li>     <li class="menu-list__item"> <a class="menu-list__item-link" href="https://www.persgroep.nl/cookies" data-gtm="menu / Cookiebeleid / text"> <div class="menu-item__text-wrapper"> <h4 class="menu-item__title">Cookiebeleid</h4> <p class="menu-item__text"></p> </div> </a> <a href="https://www.persgroep.nl/cookies" data-gtm="menu / Cookiebeleid / icon"> <div class="menu-item__icon-wrapper"> <svg class="menu-item__icon"> <path d="M12.5 0h-9a.5.5 0 0 0 0 1h7.8L0 12.1a.5.5 0 1 0 .8.8L12 1.7v7.8a.5.5 0 1 0 1 0v-9a.5.5 0 0 0-.5-.5z"/> </svg> </div> </a> </li>     <li class="menu-list__item"> <a class="menu-list__item-link" href="https://www.intermediair.nl/vacature/zoeken?query=&amp;location=&amp;distance=city&amp;page=1&amp;limit=15&amp;sort=relevance&amp;utm_source=vk.nl&amp;utm_medium=navigatie&amp;utm_campaign=persgroep_netwerk&amp;utm_content=vacature_zoeken&amp;utm_term=lead" data-gtm="menu / Banen / text"> <div class="menu-item__text-wrapper"> <h4 class="menu-item__title">Banen</h4> <p class="menu-item__text"></p> </div> </a> <a href="https://www.intermediair.nl/vacature/zoeken?query=&amp;location=&amp;distance=city&amp;page=1&amp;limit=15&amp;sort=relevance&amp;utm_source=vk.nl&amp;utm_medium=navigatie&amp;utm_campaign=persgroep_netwerk&amp;utm_content=vacature_zoeken&amp;utm_term=lead" data-gtm="menu / Banen / icon"> <div class="menu-item__icon-wrapper"> <svg class="menu-item__icon"> <path d="M12.5 0h-9a.5.5 0 0 0 0 1h7.8L0 12.1a.5.5 0 1 0 .8.8L12 1.7v7.8a.5.5 0 1 0 1 0v-9a.5.5 0 0 0-.5-.5z"/> </svg> </div> </a> </li>     <li class="menu-list__item"> <a class="menu-list__item-link" href="https://www.persgroep.nl/adverteren/portfolio" data-gtm="menu / Adverteren / text"> <div class="menu-item__text-wrapper"> <h4 class="menu-item__title">Adverteren</h4> <p class="menu-item__text"></p> </div> </a> <a href="https://www.persgroep.nl/adverteren/portfolio" data-gtm="menu / Adverteren / icon"> <div class="menu-item__icon-wrapper"> <svg class="menu-item__icon"> <path d="M12.5 0h-9a.5.5 0 0 0 0 1h7.8L0 12.1a.5.5 0 1 0 .8.8L12 1.7v7.8a.5.5 0 1 0 1 0v-9a.5.5 0 0 0-.5-.5z"/> </svg> </div> </a> </li>     <li class="menu-list__item"> <a class="menu-list__item-link" href="/rss/feeds" data-gtm="menu / RSS Feeds / text"> <div class="menu-item__text-wrapper"> <h4 class="menu-item__title">RSS Feeds</h4> <p class="menu-item__text"></p> </div> </a> <a href="/rss/feeds" data-gtm="menu / RSS Feeds / icon"> <div class="menu-item__icon-wrapper"> <svg class="menu-item__icon"> <path d="M12.5 0h-9a.5.5 0 0 0 0 1h7.8L0 12.1a.5.5 0 1 0 .8.8L12 1.7v7.8a.5.5 0 1 0 1 0v-9a.5.5 0 0 0-.5-.5z"/> </svg> </div> </a> </li>    </ul>  </section>  <div class="ad--layer" id="dfp-layer1" data-id="dfp-layer1"> <script>window.APP.helpers.waitUntilTrue(function(){return Boolean(window.APP.modules.advertising.initialized)},function(){window.dfp.cmd.push(function(){window.dfp.loadSlot("dfp-layer1",{breakpoints:{xlarge:!0,large:!0,medium:!0,small:!0}})})},function(){},100,100)</script> </div> <div class="app-editor-tip"> <h3 class="editor-tip-title">Wilt u belangrijke informatie delen met de Volkskrant?</h3> <p class="editor-tip-text"><a href="https://www.volkskrant.nl/kijkverder/2017/tip/">Tip hier onze journalisten</a></p> </div> <div class="app-footer"> <div class="app-footer__column"> <h4 class="app-footer__title">Algemeen</h4> <ul class="app-footer__list"> <li class="app-footer__list-item"> <a class="app-footer__list-link" href="https://www.volkskrant.nl/service/contact">Contact met de Volkskrant</a> </li> <li class="app-footer__list-item"> <a class="app-footer__list-link" href="https://www.persgroep.nl/privacy">Privacystatement</a> </li> <li class="app-footer__list-item"> <a class="app-footer__list-link" href="https://www.volkskrant.nl/service/sites/default/files/Abonnementsvoorwaarden_de_Volkskrant.pdf">Abonnementsvoorwaarden</a> </li> <li class="app-footer__list-item"> <a class="app-footer__list-link" href="https://www.persgroep.nl/gebruiksvoorwaarden">Gebruiksvoorwaarden</a> </li> <li class="app-footer__list-item"> <a class="app-footer__list-link" href="https://www.persgroep.nl/cookies">Cookiestatement</a> </li> </ul> </div> <div class="app-footer__column"> <h4 class="app-footer__title">Service</h4> <ul class="app-footer__list"> <li class="app-footer__list-item"> <a class="app-footer__list-link" href="https://www.volkskrant.nl/service/contact">Klantenservice</a> </li> <li class="app-footer__list-item"> <a class="app-footer__list-link" href="https://myaccount.volkskrant.nl">Mijn profiel</a> </li> <li class="app-footer__list-item"> <a class="app-footer__list-link" href="https://www.volkskrant.nl/service/vakantie">Vakantieservice</a> </li> <li class="app-footer__list-item"> <a class="app-footer__list-link" href="https://www.persgroep.nl/merk/de-volkskrant">Adverteren</a> </li> <li class="app-footer__list-item"> <a class="app-footer__list-link" href="https://www.persgroeplosseverkoop.nl/tornl_j2ee/pag/pve_index.jsp">Losse verkoop</a> </li> </ul> </div> <div class="app-footer__column"> <h4 class="app-footer__title">Meer de Volkskrant</h4> <ul class="app-footer__list"> <li class="app-footer__list-item"> <a class="app-footer__list-link" href="https://www.krant.nl/abonnement/vk/index.html">Abonneren</a> </li> <li class="app-footer__list-item"> <a class="app-footer__list-link" href="/nieuwsbrief">Nieuwsbrieven</a> </li> <li class="app-footer__list-item"> <a class="app-footer__list-link" href="https://krant.volkskrant.nl/titles/volkskrant/7929/">Digitale krant</a> </li> <li class="app-footer__list-item"> <a class="app-footer__list-link" href="https://webwinkel.volkskrant.nl/">Webwinkel</a> </li> <li class="app-footer__list-item"> <a class="app-footer__list-link" href="https://inclusief.volkskrant.nl/">Inclusief</a> </li> <li class="app-footer__list-item"> <a class="app-footer__list-link" href="/rss/feeds">RSS-feeds</a> </li> <li class="app-footer__list-item"> <a class="app-footer__list-link" href="https://www.facebook.com/volkskrant/">Facebook</a> </li> <li class="app-footer__list-item"> <a class="app-footer__list-link" href="https://www.twitter.com/volkskrant">Twitter</a> </li> <li class="app-footer__list-item"> <a class="app-footer__list-link" href="https://play.google.com/store/apps/details?id=be.persgroep.android.news.mobilevk&hl=nl">Android apps</a> </li> <li class="app-footer__list-item"> <a class="app-footer__list-link" href="https://itunes.apple.com/nl/app/de-volkskrant/id418873064?mt=8">iOS apps</a> </li> </ul> </div> <div class="app-footer__column"></div> </div> <div class="app-disclaimer"> <img class="app-disclaimer__image" src="/static/sigmund-footer.png"> <hr class="app-disclaimer__line"> <p class="app-disclaimer__text"> Op alle verhalen van de Volkskrant rust uiteraard copyright. Linken kan altijd, eventueel met de intro van het stuk erboven.<br> Wil je tekst overnemen of een video(fragment), foto of illustratie gebruiken, mail dan naar <a href="mailto:copyright@volkskrant.nl">copyright@volkskrant.nl</a>. </p> </div> <script>window.APP.helpers.waitUntilTrue(function(){return Boolean(window.APP.modules.paywall&&window.APP.modules.paywall.init)},function(){window.APP.modules.paywall.init("")},function(){window.APP.modules.paywall.initialized=!0,console.error("Could not init paywall")},100,100)</script> <script src="/static/main-30db4d8944.js" async="async"></script> <script> (function () {
+        const shouldDisplayAds = document.querySelectorAll('.fjs-no-ads');
+
+        if (shouldDisplayAds.length > 0) {
+            return;
+        }
+
+        window.APP.helpers.waitUntilTrue(
+            function () {
+                var flag = window.dfp && window.dfpKrux && document.readyState === 'interactive';
+
+                if (null && true) {
+                    flag = flag && window.APP.modules.paywall.initialized && !window.APP.modules.paywall.showPaywall;
+                }
+
+                return Boolean(flag);
+            },
+            function () {
+                var opts = {
+                    'tag': {
+                        'networkId': window.APP.config.dfp.id,
+                        'adUnit': 'vk/vk.site-%screenSize%/' + (window.APP.config.dfp.level || '')
+                    },
+                    'requestNonPersonalizedAds': 0,
+                    'async': true,
+                    'singleRequest': true,
+                    'collapseEmpty': true,
+                    'disableInitialLoad': false,
+                    'breakpoints': [{
+                        'name': 'small',
+                        'begin': 0,
+                        'end': 767
+                    }, {
+                        'name': 'medium',
+                        'begin': 768,
+                        'end': 1023
+                    }, {
+                        'name': 'large',
+                        'begin': 1024,
+                        'end': 1599
+                    }, {
+                        'name': 'xlarge',
+                        'begin': 1600,
+                        'end': Infinity
+                    }],
+                    'callbacks': {
+                        'renderEnded': onRenderEnded,
+                        'resize': onResizeOrientationChange,
+                        'orientation': onResizeOrientationChange,
+                        'orientationChange': onResizeOrientationChange,
+                        'showHPTO': showHPTO,
+                        'showNative': showNative,
+                        'onInreadOpened': onInreadOpened,
+                        'onInreadClosed': onInreadClosed,
+                        'resizeCreative': resizeCreative,
+                        'hideCreative': hideCreative,
+                        'makeSticky': makeSticky,
+                    }
+                };
+
+                var targeting = {
+                    'cid': window.APP.config.dfp.compId,
+                    'pag': window.APP.config.dfp.pageType,
+                    'top': window.APP.config.dfp.topics,
+                    'dos': window.APP.config.dfp.dossier,
+                    'kuid': window.dfpKrux && typeof window.dfpKrux.getUserId === 'function' && window.dfpKrux.getUserId(),
+                    'ksg': window.dfpKrux && typeof window.dfpKrux.getSegments === 'function' && window.dfpKrux.getSegments(),
+                    'beta': true,
+                    'spid': getFromStorage('_sp_id')
+                };
+
+                const actualSlots = window.APP.helpers.map(document.querySelectorAll('[id^="dfp-"]'), (element) => element.id);
+                const adSlots = window.APP.helpers.filter([{"domId":"dfp-top1","sizes":{"small":[],"large":[[728,90],[970,110],[970,250]],"xlarge":[[728,90],[970,90],[970,100],[970,110],[970,120],[970,250],[970,1000],[1800,1000]],"medium":[[728,90]]},"targeting":{"pos":"top1"}},{"domId":"dfp-mid1","sizes":{"small":[[320,250],[320,240],[300,250],[320,50],[320,100]],"large":[[300,250]],"xlarge":[[300,250]],"medium":[[300,250]]},"targeting":{"pos":"mid1"}},{"domId":"dfp-sky1","sizes":{"small":[[320,250],[320,240],[300,250],[320,50],[320,100]],"large":[[300,600],[300,250],[160,600],[120,600]],"xlarge":[[300,600],[300,250],[160,600],[120,600]],"medium":[[300,600],[300,250],[160,600],[120,600]]},"targeting":{"pos":"sky1"}},{"domId":"dfp-sky2","sizes":{"small":[[320,250],[320,240],[300,250],[320,50],[320,100]],"large":[[300,600],[300,250],[160,600],[120,600]],"xlarge":[[300,600],[300,250],[160,600],[120,600]],"medium":[[300,600],[300,250],[160,600],[120,600]]},"targeting":{"pos":"sky2"}},{"domId":"dfp-mid2","sizes":{"small":[[320,250],[320,240],[300,250],[320,50],[320,100]],"large":[[300,250],[336,280],[352,280]],"xlarge":[[300,250],[336,280],[352,280]],"medium":[[300,250],[336,280],[352,280]]},"targeting":{"pos":"mid2"}},{"domId":"dfp-branded1","sizes":{"small":[[280,280]],"large":[[280,280]],"xlarge":[[280,280]],"medium":[[280,280]]},"targeting":{"pos":"branded1"}},{"domId":"dfp-branded2","sizes":{"small":[[300,285],[300,280]],"large":[[300,285],[300,280]],"xlarge":[[300,285],[300,280]],"medium":[[300,285],[300,280]]},"targeting":{"pos":"branded2"}},{"domId":"dfp-layer1","sizes":{"small":[[320,480]],"large":[[640,480]],"xlarge":[[640,480]],"medium":[[640,480]]},"targeting":{"pos":"layer1"}}], (adSlot) => actualSlots.indexOf(adSlot.domId) > -1);
+
+                window.dfp.cmd.push(function() {
+                    window.dfp.init(opts, targeting, adSlots);
+                });
+
+                window.APP.modules.advertising.initialized = true;
+            },
+            function () {},
+            100,
+            50
+        );
+
+        function getFromStorage(key) {
+            if (typeof(Storage) === 'function') {
+                var id = window.localStorage.getItem(key);
+
+                if (id) {
+                    return id;
+                }
+            }
+
+            if (navigator.cookieEnabled) {
+                var matches = document.cookie.match(key + '=([^;]*)');
+
+                if (matches && matches.length) {
+                    return (matches && unescape(matches[1]));
+                }
+            }
+
+            return '';
+        }
+
+        function onRenderEnded(e) {
+            var element = document.getElementById(e);
+
+            if (element) {
+                window.APP.helpers.removeClass(element, 'js-is-hidden');
+            }
+        }
+
+        function onResizeOrientationChange(initialBreakpoint) {
+            var html = document.head.parentNode;
+            var cls = 'js-ads-breakpoint-hide-resize-orientation';
+
+            initialBreakpoint ? window.APP.helpers.removeClass(html, cls) : window.APP.helpers.addClass(html, cls);
+        }
+
+        function showHPTO() {
+            //
+        }
+
+        function showNative() {
+            //
+        }
+
+        function onInreadOpened() {
+            //
+        }
+
+        function onInreadClosed() {
+            //
+        }
+
+        function resizeCreative() {
+            //
+        }
+
+        function hideCreative() {
+            //
+        }
+
+        function makeSticky() {
+            //
+        }
+    }()); </script> <script src="https://www.googletagservices.com/tag/js/gpt.js" async="async"></script> <script src="https://js-sec.indexww.com/ht/p/184476-197229860855137.js" async="async"></script>  <noscript> <iframe src="//www.googletagmanager.com/ns.html?id=GTM-TPHZL7D" height="0" width="0" style="display:none;visibility:hidden"></iframe> </noscript> <script>window.dataLayer=window.dataLayer||[],window.dataLayer.push({"gtm.start":(new Date).getTime(),event:"gtm.js"})</script> <script src="https://www.googletagmanager.com/gtm.js?id=GTM-TPHZL7D" async="async"></script>    </body> </html>

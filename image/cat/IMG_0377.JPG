@@ -1,0 +1,464 @@
+<!DOCTYPE html>
+<html lang="en-US" prefix="og: http://ogp.me/ns#">
+<head>
+<meta charset="UTF-8" />
+<title>Page Not Found - Kiss My Gumbo</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link rel="pingback" href="http://www.kissmygumbo.com/xmlrpc.php" />
+
+<!--  Mobile viewport scale -->
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+
+<!-- This site is optimized with the Yoast SEO plugin v8.0 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="robots" content="noindex,follow"/>
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="object" />
+<meta property="og:title" content="Page Not Found - Kiss My Gumbo" />
+<meta property="og:site_name" content="Kiss My Gumbo" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="Page Not Found - Kiss My Gumbo" />
+<meta name="twitter:site" content="@kissmygumbo" />
+<script type='application/ld+json'>{"@context":"https:\/\/schema.org","@type":"Person","url":"http:\/\/www.kissmygumbo.com\/","sameAs":["https:\/\/www.facebook.com\/gretaperry","https:\/\/www.linkedin.com\/in\/gretaperry","https:\/\/twitter.com\/kissmygumbo"],"@id":"#person","name":"Greta Perry"}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel='dns-prefetch' href='//apps.shareaholic.com' />
+<link rel='dns-prefetch' href='//grace.shareaholic.com' />
+<link rel='dns-prefetch' href='//analytics.shareaholic.com' />
+<link rel='dns-prefetch' href='//recs.shareaholic.com' />
+<link rel='dns-prefetch' href='//go.shareaholic.com' />
+<link rel='dns-prefetch' href='//partner.shareaholic.com' />
+<link rel="alternate" type="application/rss+xml" title="Kiss My Gumbo &raquo; Feed" href="http://www.kissmygumbo.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Kiss My Gumbo &raquo; Comments Feed" href="http://www.kissmygumbo.com/comments/feed/" />
+<!-- Powered by Shareaholic; Grow your audience faster - https://www.shareaholic.com -->
+<link rel='preload' href='//apps.shareaholic.com/assets/pub/shareaholic.js' as='script'>
+<script type='text/javascript' data-cfasync='false'>
+  //<![CDATA[
+    _SHR_SETTINGS = {"endpoints":{"local_recs_url":"http:\/\/www.kissmygumbo.com\/wp-admin\/admin-ajax.php?action=shareaholic_permalink_related","ajax_url":"http:\/\/www.kissmygumbo.com\/wp-admin\/admin-ajax.php","share_counts_url":"http:\/\/www.kissmygumbo.com\/wp-admin\/admin-ajax.php?action=shareaholic_share_counts_api"}};
+  //]]>
+</script>
+<script type='text/javascript' data-cfasync='false'
+        src='//apps.shareaholic.com/assets/pub/shareaholic.js'
+        data-shr-siteid='3aa1a5ca43aae30549310be89048bc16' async='async' >
+</script>
+
+<!-- Shareaholic Content Tags -->
+<meta name='shareaholic:site_name' content='Kiss My Gumbo' />
+<meta name='shareaholic:language' content='en-US' />
+<meta name='shareaholic:article_visibility' content='private' />
+<meta name='shareaholic:site_id' content='3aa1a5ca43aae30549310be89048bc16' />
+<meta name='shareaholic:wp_version' content='8.8.2' />
+
+<!-- Shareaholic Content Tags End -->
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.kissmygumbo.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.8"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<style type="text/css">
+@media only screen and (min-width: 980px) {
+body.two-col-left-1200 #main-sidebar-container { width: 100%; }
+body.two-col-left-1200 #main-sidebar-container #sidebar { width: 23.385%; }
+body.two-col-left-1200 #main-sidebar-container #main { width: 73.385%; }
+}
+</style>
+<link rel='stylesheet' id='theme-stylesheet-css'  href='http://www.kissmygumbo.com/wp-content/themes/canvas-child/style.css?ver=0.1' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<link href="http://www.kissmygumbo.com/wp-content/themes/canvas/css/non-responsive.css" rel="stylesheet" type="text/css" />
+<style type="text/css">.col-full, #wrapper { width: 1200px; max-width: 1200px; } #inner-wrapper { padding: 0; } body.full-width #header, #nav-container, body.full-width #content, body.full-width #footer-widgets, body.full-width #footer { padding-left: 0; padding-right: 0; } body.fixed-mobile #top, body.fixed-mobile #header-container, body.fixed-mobile #footer-container, body.fixed-mobile #nav-container, body.fixed-mobile #footer-widgets-container { min-width: 1200px; padding: 0 1em; } body.full-width #content { width: auto; padding: 0 1em;}</style>
+<![endif]-->
+<script type='text/javascript' src='http://www.kissmygumbo.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://www.kissmygumbo.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='http://www.kissmygumbo.com/wp-content/themes/canvas/includes/js/third-party.min.js?ver=4.9.8'></script>
+<script type='text/javascript' src='http://www.kissmygumbo.com/wp-content/themes/canvas/includes/js/modernizr.min.js?ver=2.6.2'></script>
+<script type='text/javascript' src='http://www.kissmygumbo.com/wp-content/themes/canvas/includes/js/general.min.js?ver=4.9.8'></script>
+
+<!-- Adjust the website width -->
+<style type="text/css">
+	.col-full, #wrapper { max-width: 1200px !important; }
+</style>
+
+<link rel='https://api.w.org/' href='http://www.kissmygumbo.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.kissmygumbo.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.kissmygumbo.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.9.8" />
+<!-- Stream WordPress user activity plugin v3.2.3 -->
+<!-- <meta name="NextGEN" version="3.0.7" /> -->
+
+<!-- Custom CSS Styling -->
+<style type="text/css">
+body {background-color:#f2f098;background-repeat:no-repeat;background-position:top left;background-attachment:scroll;border-top:0px solid #000000;}
+#header {background-image:url(http://www.kissmygumbo.com/wp-content/uploads/2015/08/kissmygumbo_headernew2.jpg);background-repeat:no-repeat;background-position:left top;margin-top:0px;margin-bottom:0px;padding-top:40px;padding-bottom:40px;border:0px solid ;}
+#logo .site-title a {font:bold 40px/1em Arial, sans-serif;color:#222222;}
+#logo .site-description {font:300 13px/1em Arial, sans-serif;color:#999999;}
+#inner-wrapper {padding-left:30px; padding-right:30px;background-color:#ffffff;border-top:1px solid #dbdbdb;border-bottom:1px solid #dbdbdb;border-left:1px solid #dbdbdb;border-right:1px solid #dbdbdb;border-radius:0px;box-shadow: 0px 1px 5px rgba(0,0,0,.1);} .col-full { width: auto; } @media only screen and (max-width:767px) { #inner-wrapper { margin:0; border-radius:none; padding-left:1em; padding-right: 1em; border: none; } } 
+body, p { font:300 14px/1.5em Arial, sans-serif;color:#555555; }
+h1 { font:bold 28px/1.2em Arial, sans-serif;color:#222222; }h2 { font:bold 24px/1.2em Arial, sans-serif;color:#222222; }h3 { font:bold 20px/1.2em Arial, sans-serif;color:#222222; }h4 { font:bold 16px/1.2em Arial, sans-serif;color:#222222; }h5 { font:bold 14px/1.2em Arial, sans-serif;color:#222222; }h6 { font:bold 12px/1.2em Arial, sans-serif;color:#222222; }
+.page-title, .post .title, .page .title {font:bold 28px/1.1em Helvetica, Arial, sans-serif;color:#222222;}
+.post .title a:link, .post .title a:visited, .page .title a:link, .page .title a:visited {color:#222222}
+.post-meta { font:thin 12px/1.5em Helvetica, Arial, sans-serif;color:#999999; }
+.entry, .entry p{ font:300 15px/1.5em Helvetica, Arial, sans-serif;color:#555555; }
+.post-more {font:thin 13px/1.5em Helvetica, Arial, sans-serif;color:;border-top:0px solid #e6e6e6;border-bottom:0px solid #e6e6e6;}
+#post-author, #connect {border-top:1px solid #e6e6e6;border-bottom:1px solid #e6e6e6;border-left:1px solid #e6e6e6;border-right:1px solid #e6e6e6;border-radius:5px;-moz-border-radius:5px;-webkit-border-radius:5px;background-color:#fafafa}
+.nav-entries a, .woo-pagination { font:thin 13px/1em Helvetica, Arial, sans-serif;color:#888; }
+.woo-pagination a, .woo-pagination a:hover {color:#888!important}
+.widget h3 {font:bold 17px/1.2em Arial, sans-serif;color:#0c7f06;border-bottom:1px solid #e6e6e6;}
+.widget_recent_comments li, #twitter li { border-color: #e6e6e6;}
+.widget p, .widget .textwidget { font:300 13px/1.5em Arial, sans-serif;color:#555555; }
+.widget {font:300 13px/1.5em Arial, sans-serif;color:#555555;border-radius:0px;-moz-border-radius:0px;-webkit-border-radius:0px;}
+#tabs .inside li a, .widget_woodojo_tabs .tabbable .tab-pane li a { font:bold 12px/1.5em Arial, sans-serif;color:#555555; }
+#tabs .inside li span.meta, .widget_woodojo_tabs .tabbable .tab-pane li span.meta { font:300 11px/1.5em Arial, sans-serif;color:#999999; }
+#tabs ul.wooTabs li a, .widget_woodojo_tabs .tabbable .nav-tabs li a { font:300 11px/2em Arial, sans-serif;color:#999999; }
+@media only screen and (min-width:768px) {
+ul.nav li a, #navigation ul.rss a, #navigation ul.cart a.cart-contents, #navigation .cart-contents #navigation ul.rss, #navigation ul.nav-search, #navigation ul.nav-search a { font:normal 16px/1.2em Arial, sans-serif;color:#ffffff; } #navigation ul.rss li a:before, #navigation ul.nav-search a.search-contents:before { color:#ffffff;}
+#navigation ul.nav > li a:hover, #navigation ul.nav > li:hover a, #navigation ul.nav li ul li a, #navigation ul.cart > li:hover > a, #navigation ul.cart > li > ul > div, #navigation ul.cart > li > ul > div p, #navigation ul.cart > li > ul span, #navigation ul.cart .cart_list a, #navigation ul.nav li.current_page_item a, #navigation ul.nav li.current_page_parent a, #navigation ul.nav li.current-menu-ancestor a, #navigation ul.nav li.current-cat a, #navigation ul.nav li.current-menu-item a { color:#000000!important; }
+#navigation ul.nav > li a:hover, #navigation ul.nav > li:hover, #navigation ul.nav li ul, #navigation ul.cart li:hover a.cart-contents, #navigation ul.nav-search li:hover a.search-contents, #navigation ul.nav-search a.search-contents + ul, #navigation ul.cart a.cart-contents + ul, #navigation ul.nav li.current_page_item a, #navigation ul.nav li.current_page_parent a, #navigation ul.nav li.current-menu-ancestor a, #navigation ul.nav li.current-cat a, #navigation ul.nav li.current-menu-item a{background-color:#eeee22!important}
+#navigation ul.nav li ul, #navigation ul.cart > li > ul > div  { border: 0px solid #dbdbdb; }
+#navigation ul.nav > li:hover > ul  { left: 0; }
+#navigation ul.nav > li  { border-right: 0px solid #dbdbdb; }#navigation ul.nav > li:hover > ul  { left: 0; }
+#navigation { box-shadow: none; -moz-box-shadow: none; -webkit-box-shadow: none; }#navigation ul li:first-child, #navigation ul li:first-child a { border-radius:0px 0 0 0px; -moz-border-radius:0px 0 0 0px; -webkit-border-radius:0px 0 0 0px; }
+#navigation {background:#000000;border-top:0px solid #dbdbdb;border-bottom:0px solid #dbdbdb;border-left:0px solid #dbdbdb;border-right:0px solid #dbdbdb;border-radius:0px; -moz-border-radius:0px; -webkit-border-radius:0px;}
+#top ul.nav li a { font:300 12px/1.6em Arial, sans-serif;color:#ddd; }
+}
+#footer, #footer p { font:300 13px/1.4em Arial, sans-serif;color:#999999; }
+#footer {border-top:1px solid #dbdbdb;border-bottom:0px solid ;border-left:0px solid ;border-right:0px solid ;border-radius:0px; -moz-border-radius:0px; -webkit-border-radius:0px;}
+.magazine #loopedSlider .content h2.title a { font:bold 24px/1em Arial, sans-serif;color:#ffffff; }
+.wooslider-theme-magazine .slide-title a { font:bold 24px/1em Arial, sans-serif;color:#ffffff; }
+.magazine #loopedSlider .content .excerpt p { font:thin 13px/1.5em Arial, sans-serif;color:#cccccc; }
+.wooslider-theme-magazine .slide-content p, .wooslider-theme-magazine .slide-excerpt p { font:thin 13px/1.5em Arial, sans-serif;color:#cccccc; }
+.magazine .block .post .title a {font:bold 18px/1.2em Helvetica, Arial, sans-serif;color:#222222; }
+#loopedSlider.business-slider .content h2 { font:bold 24px/1em Arial, sans-serif;color:#ffffff; }
+#loopedSlider.business-slider .content h2.title a { font:bold 24px/1em Arial, sans-serif;color:#ffffff; }
+.wooslider-theme-business .has-featured-image .slide-title { font:bold 24px/1em Arial, sans-serif;color:#ffffff; }
+.wooslider-theme-business .has-featured-image .slide-title a { font:bold 24px/1em Arial, sans-serif;color:#ffffff; }
+#wrapper #loopedSlider.business-slider .content p { font:thin 13px/1.5em Arial, sans-serif;color:#cccccc; }
+.wooslider-theme-business .has-featured-image .slide-content p { font:thin 13px/1.5em Arial, sans-serif;color:#cccccc; }
+.wooslider-theme-business .has-featured-image .slide-excerpt p { font:thin 13px/1.5em Arial, sans-serif;color:#cccccc; }
+.archive_header { font:bold 18px/1em Arial, sans-serif;color:#222222; }
+.archive_header {border-bottom:1px solid #e6e6e6;}
+</style>
+
+<!-- Custom Favicon -->
+<link rel="shortcut icon" href="http://www.kissmygumbo.com/wp-content/uploads/2015/08/favicon.ico"/>
+<!-- Options Panel Custom CSS -->
+<style type="text/css">
+@media (min-width:760px) {
+#header {
+    height: 230px;
+}
+#sidebar {
+    text-align:center;
+    border-left: 2px solid #ccc;
+    padding-left: 20px;
+}
+#navigation {
+position: relative;
+}
+#main-nav {
+clear: left;
+float: left;
+list-style: none;
+margin: 0;
+padding: 0;
+position: relative;
+left: 50%;
+text-align: center;
+}
+.nav li {
+display: block;
+float: left;
+list-style: none;
+margin: 0;
+padding: 0;
+position: relative;
+right: 50%;
+}
+.nav li:hover, .nav li.hover {
+position: relative;
+}
+.nav li ul li {
+left: 0;
+}
+.rightad img {
+    margin: 10px;
+}
+}
+
+</style>
+
+
+<!-- Woo Shortcodes CSS -->
+<link href="http://www.kissmygumbo.com/wp-content/themes/canvas/functions/css/shortcodes.css" rel="stylesheet" type="text/css" />
+
+<!-- Custom Stylesheet -->
+<link href="http://www.kissmygumbo.com/wp-content/themes/canvas/custom.css" rel="stylesheet" type="text/css" />
+
+<!-- Theme version -->
+<meta name="generator" content="Kiss My Gumbo 0.1" />
+<meta name="generator" content="Canvas 5.12.0" />
+<meta name="generator" content="WooFramework 6.2.8" />
+		<style type="text/css" id="woo-header-css">
+					.site-title,
+			.site-description {
+				clip: rect(1px 1px 1px 1px); /* IE7 */
+				clip: rect(1px, 1px, 1px, 1px);
+				position: absolute;
+			}
+				</style>
+		<style type="text/css">
+@media only screen and (min-width: 980px) {
+body.two-col-left-1200 #main-sidebar-container { width: 100%; }
+body.two-col-left-1200 #main-sidebar-container #sidebar { width: 23.385%; }
+body.two-col-left-1200 #main-sidebar-container #main { width: 73.385%; }
+}
+</style>
+</head>
+<body class="error404 unknown alt-style-default boxed-layout two-col-left width-1200 two-col-left-1200">
+<div id="wrapper">
+
+	<div id="inner-wrapper">
+
+	<h3 class="nav-toggle icon"><a href="#navigation">Navigation</a></h3>
+
+	<header id="header" class="col-full">
+
+		<div id="logo">
+<span class="site-title"><a href="http://www.kissmygumbo.com/">Kiss My Gumbo</a></span>
+<span class="site-description">Pontifications from the Princess of Positive</span>
+</div>
+
+	</header>
+	<nav id="navigation" class="col-full" role="navigation">
+
+	
+	<section class="menus">
+
+		<a href="http://www.kissmygumbo.com" class="nav-home"><span>Home</span></a>
+
+	<h3>Main Menu</h3><ul id="main-nav" class="nav fl"><li id="menu-item-7515" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-7515"><a href="http://www.kissmygumbo.com/">Home</a></li>
+<li id="menu-item-7516" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7516"><a href="http://www.kissmygumbo.com/advertise-here/">Advertise here</a></li>
+<li id="menu-item-7519" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7519"><a href="http://www.kissmygumbo.com/about/">About Greta</a></li>
+<li id="menu-item-7517" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7517"><a href="http://www.kissmygumbo.com/alzheimers/">Alzheimer&#8217;s</a></li>
+<li id="menu-item-7518" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7518"><a href="http://www.kissmygumbo.com/contact/">Contact</a></li>
+</ul>	<div class="side-nav">
+		</div><!-- /#side-nav -->
+
+	</section><!-- /.menus -->
+
+	<a href="#top" class="nav-close"><span>Return to Content</span></a>
+
+</nav>
+
+    <!-- #content Starts -->
+	    <div id="content" class="col-full">
+		
+    	<div id="main-sidebar-container">
+
+            <!-- #main Starts -->
+                        <section id="main" class="col-left">
+<article class="">
+
+	<header>
+		<h1 class="title entry-title">Error 404 - Page not found!</h1>	</header>
+
+	<section class="entry">
+	    The page you are trying to reach does not exist, or has been moved. Please use the menus or the search box to find what you are looking for.	</section><!-- /.entry -->
+</article><!-- /.post -->
+            </section><!-- /#main -->
+                
+            <aside id="sidebar">
+<div id="search-3" class="widget widget_search"><h3>Search Kiss My Gumbo</h3><div class="search_main">
+    <form method="get" class="searchform" action="http://www.kissmygumbo.com/" >
+        <input type="text" class="field s" name="s" value="Search..." onfocus="if (this.value == 'Search...') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Search...';}" />
+        <button type="submit" class="fa fa-search submit" name="submit" value="Search"></button>
+    </form>
+    <div class="fix"></div>
+</div></div><div id="text-426820989" class="widget widget_text"><h3>Follow Me!</h3>			<div class="textwidget"><div><a href="http://www.facebook.com/people/Greta-Perry/595344327" title="Greta Perry's Facebook profile" target=_TOP><img src="http://badge.facebook.com/badge/595344327.653.1243745993.png" border=0 alt="Greta Perry's Facebook profile"></a></div>
+<div style="padding:10px;">
+<a href="http://pinterest.com/gretaperry/"><img style="padding:10px;" src="http://passets-cdn.pinterest.com/images/follow-on-pinterest-button.png" width="156" height="26" alt="Follow Me on Pinterest" /></a>
+
+<a name="tini7y0" href="http://www.twitter-buttons.biz/" title="twitter buttons"><img style="padding:10px;" src="http://www.twitter-buttons.biz/buttons/new/057.png" alt="twitter buttons" border="0"/></a><script type="text/javascript">t="twitter";x=document.getElementsByName('tini7y0');y=new Array(104,116,116,112,58,47,47,116,119,105,116,116,101,114,46,99,111,109,47);z='';for(i in y){z+=String.fromCharCode(y[i]);}for(i in x){x[i].href=z+t;}</script>
+</div>
+</div>
+		</div><div id="text-426820988" class="widget widget_text">			<div class="textwidget"><div align="center" class="mailsubscribe"><form method="post" action="http://www.feedblitz.com/feedblitz.exe?BurnUser"><p><label for="email">Enter your email and get Kiss My Gumbo delivered to your inbox:</label><br /><input name="email" maxlength="100" type="text" size="24" id="email" /><br /><input name="uri" type="hidden" value="http://feeds.feedburner.com/kissmygumbo/mqsU" /> <input type="submit" value="Subscribe me!" /></p><p id="poweredByFeedBlitz">Powered by <a href="http://www.feedblitz.com">FeedBlitz</a></p></form></div>
+<div class="rightad"><a href="http://kickify.com"><img src="http://www.kissmygumbo.com/wp-content/uploads/2012/05/KickAd4.jpg"></a>
+</div>
+<div class="rightad"><!--<a href="http://kissmygumbo.com"><img src="http://hooahwife.com/wp-content/uploads/2009/11/KMG4.jpg" alt="Kiss My Gumbo"></a>--><a href="http://www.hooahwife.com"><img src="http://www.kissmygumbo.com/wp-content/uploads/2014/01/hooah-wife-ad-140x270.jpg" /></a></div>
+<div style="text-align:center;margin-left:-10px;">
+
+
+<div class="rightsuicide">
+<a href="http://www.suicidepreventionlifeline.org"><img src="http://www.kissmygumbo.com/wp-content/uploads/2016/06/suicide-hotline.png" border="1" alt="Suicide Prevention Lifeline"></a>
+<br />Veterans Press "1"
+</div>
+
+
+
+<div class="rightds">
+<a href="http://dsart.com"><img src="http://hooahwife.com/wp-content/uploads/2011/08/DSart.jpg" alt="Don Stewart - DS Art"></a></div>
+<div style="clear:both;"></div>
+
+
+<div style="text-align:center;"><a href="http://www.kissmygumbo.com/advertise-here/"><img src="http://www.kissmygumbo.com/wp-content/uploads/2014/01/kissmygumbo-ad.png" alt=""></a></div></div>
+		</div><div id="archives-3" class="widget widget_archive"><h3>Archives</h3>		<label class="screen-reader-text" for="archives-dropdown-3">Archives</label>
+		<select id="archives-dropdown-3" name="archive-dropdown" onchange='document.location.href=this.options[this.selectedIndex].value;'>
+			
+			<option value="">Select Month</option>
+				<option value='http://www.kissmygumbo.com/2018/04/'> April 2018 &nbsp;(2)</option>
+	<option value='http://www.kissmygumbo.com/2017/01/'> January 2017 &nbsp;(1)</option>
+	<option value='http://www.kissmygumbo.com/2016/10/'> October 2016 &nbsp;(1)</option>
+	<option value='http://www.kissmygumbo.com/2016/09/'> September 2016 &nbsp;(1)</option>
+	<option value='http://www.kissmygumbo.com/2016/08/'> August 2016 &nbsp;(1)</option>
+	<option value='http://www.kissmygumbo.com/2016/06/'> June 2016 &nbsp;(1)</option>
+	<option value='http://www.kissmygumbo.com/2016/04/'> April 2016 &nbsp;(1)</option>
+	<option value='http://www.kissmygumbo.com/2016/02/'> February 2016 &nbsp;(2)</option>
+	<option value='http://www.kissmygumbo.com/2016/01/'> January 2016 &nbsp;(2)</option>
+	<option value='http://www.kissmygumbo.com/2015/12/'> December 2015 &nbsp;(2)</option>
+	<option value='http://www.kissmygumbo.com/2015/11/'> November 2015 &nbsp;(1)</option>
+	<option value='http://www.kissmygumbo.com/2015/10/'> October 2015 &nbsp;(2)</option>
+	<option value='http://www.kissmygumbo.com/2015/09/'> September 2015 &nbsp;(1)</option>
+	<option value='http://www.kissmygumbo.com/2015/08/'> August 2015 &nbsp;(2)</option>
+	<option value='http://www.kissmygumbo.com/2015/04/'> April 2015 &nbsp;(1)</option>
+	<option value='http://www.kissmygumbo.com/2014/09/'> September 2014 &nbsp;(1)</option>
+	<option value='http://www.kissmygumbo.com/2014/06/'> June 2014 &nbsp;(1)</option>
+	<option value='http://www.kissmygumbo.com/2014/04/'> April 2014 &nbsp;(1)</option>
+	<option value='http://www.kissmygumbo.com/2014/03/'> March 2014 &nbsp;(1)</option>
+	<option value='http://www.kissmygumbo.com/2014/02/'> February 2014 &nbsp;(3)</option>
+	<option value='http://www.kissmygumbo.com/2014/01/'> January 2014 &nbsp;(3)</option>
+	<option value='http://www.kissmygumbo.com/2013/12/'> December 2013 &nbsp;(1)</option>
+	<option value='http://www.kissmygumbo.com/2013/11/'> November 2013 &nbsp;(3)</option>
+	<option value='http://www.kissmygumbo.com/2013/10/'> October 2013 &nbsp;(2)</option>
+	<option value='http://www.kissmygumbo.com/2013/09/'> September 2013 &nbsp;(3)</option>
+	<option value='http://www.kissmygumbo.com/2013/08/'> August 2013 &nbsp;(2)</option>
+	<option value='http://www.kissmygumbo.com/2013/07/'> July 2013 &nbsp;(3)</option>
+	<option value='http://www.kissmygumbo.com/2013/06/'> June 2013 &nbsp;(6)</option>
+	<option value='http://www.kissmygumbo.com/2013/05/'> May 2013 &nbsp;(3)</option>
+	<option value='http://www.kissmygumbo.com/2013/04/'> April 2013 &nbsp;(4)</option>
+	<option value='http://www.kissmygumbo.com/2013/03/'> March 2013 &nbsp;(3)</option>
+	<option value='http://www.kissmygumbo.com/2013/02/'> February 2013 &nbsp;(2)</option>
+	<option value='http://www.kissmygumbo.com/2013/01/'> January 2013 &nbsp;(2)</option>
+	<option value='http://www.kissmygumbo.com/2012/12/'> December 2012 &nbsp;(2)</option>
+	<option value='http://www.kissmygumbo.com/2012/11/'> November 2012 &nbsp;(2)</option>
+	<option value='http://www.kissmygumbo.com/2012/10/'> October 2012 &nbsp;(4)</option>
+	<option value='http://www.kissmygumbo.com/2012/09/'> September 2012 &nbsp;(3)</option>
+	<option value='http://www.kissmygumbo.com/2012/08/'> August 2012 &nbsp;(3)</option>
+	<option value='http://www.kissmygumbo.com/2012/07/'> July 2012 &nbsp;(2)</option>
+	<option value='http://www.kissmygumbo.com/2012/06/'> June 2012 &nbsp;(3)</option>
+	<option value='http://www.kissmygumbo.com/2012/05/'> May 2012 &nbsp;(3)</option>
+	<option value='http://www.kissmygumbo.com/2012/04/'> April 2012 &nbsp;(5)</option>
+	<option value='http://www.kissmygumbo.com/2012/03/'> March 2012 &nbsp;(6)</option>
+	<option value='http://www.kissmygumbo.com/2012/02/'> February 2012 &nbsp;(2)</option>
+	<option value='http://www.kissmygumbo.com/2012/01/'> January 2012 &nbsp;(6)</option>
+	<option value='http://www.kissmygumbo.com/2011/12/'> December 2011 &nbsp;(5)</option>
+	<option value='http://www.kissmygumbo.com/2011/11/'> November 2011 &nbsp;(8)</option>
+	<option value='http://www.kissmygumbo.com/2011/10/'> October 2011 &nbsp;(9)</option>
+	<option value='http://www.kissmygumbo.com/2011/09/'> September 2011 &nbsp;(3)</option>
+	<option value='http://www.kissmygumbo.com/2011/08/'> August 2011 &nbsp;(4)</option>
+	<option value='http://www.kissmygumbo.com/2011/07/'> July 2011 &nbsp;(6)</option>
+	<option value='http://www.kissmygumbo.com/2011/06/'> June 2011 &nbsp;(4)</option>
+	<option value='http://www.kissmygumbo.com/2011/05/'> May 2011 &nbsp;(13)</option>
+	<option value='http://www.kissmygumbo.com/2011/04/'> April 2011 &nbsp;(6)</option>
+	<option value='http://www.kissmygumbo.com/2011/03/'> March 2011 &nbsp;(5)</option>
+	<option value='http://www.kissmygumbo.com/2011/02/'> February 2011 &nbsp;(7)</option>
+	<option value='http://www.kissmygumbo.com/2011/01/'> January 2011 &nbsp;(16)</option>
+	<option value='http://www.kissmygumbo.com/2010/12/'> December 2010 &nbsp;(10)</option>
+	<option value='http://www.kissmygumbo.com/2010/11/'> November 2010 &nbsp;(16)</option>
+	<option value='http://www.kissmygumbo.com/2010/10/'> October 2010 &nbsp;(9)</option>
+	<option value='http://www.kissmygumbo.com/2010/09/'> September 2010 &nbsp;(10)</option>
+	<option value='http://www.kissmygumbo.com/2010/08/'> August 2010 &nbsp;(8)</option>
+	<option value='http://www.kissmygumbo.com/2010/07/'> July 2010 &nbsp;(11)</option>
+	<option value='http://www.kissmygumbo.com/2010/06/'> June 2010 &nbsp;(10)</option>
+	<option value='http://www.kissmygumbo.com/2010/05/'> May 2010 &nbsp;(15)</option>
+	<option value='http://www.kissmygumbo.com/2010/04/'> April 2010 &nbsp;(16)</option>
+	<option value='http://www.kissmygumbo.com/2010/03/'> March 2010 &nbsp;(18)</option>
+	<option value='http://www.kissmygumbo.com/2010/02/'> February 2010 &nbsp;(17)</option>
+	<option value='http://www.kissmygumbo.com/2010/01/'> January 2010 &nbsp;(22)</option>
+	<option value='http://www.kissmygumbo.com/2009/12/'> December 2009 &nbsp;(23)</option>
+	<option value='http://www.kissmygumbo.com/2009/11/'> November 2009 &nbsp;(28)</option>
+	<option value='http://www.kissmygumbo.com/2009/10/'> October 2009 &nbsp;(36)</option>
+	<option value='http://www.kissmygumbo.com/2009/09/'> September 2009 &nbsp;(36)</option>
+	<option value='http://www.kissmygumbo.com/2009/08/'> August 2009 &nbsp;(37)</option>
+	<option value='http://www.kissmygumbo.com/2009/07/'> July 2009 &nbsp;(30)</option>
+	<option value='http://www.kissmygumbo.com/2009/06/'> June 2009 &nbsp;(25)</option>
+	<option value='http://www.kissmygumbo.com/2009/05/'> May 2009 &nbsp;(34)</option>
+	<option value='http://www.kissmygumbo.com/2009/04/'> April 2009 &nbsp;(28)</option>
+	<option value='http://www.kissmygumbo.com/2009/03/'> March 2009 &nbsp;(35)</option>
+	<option value='http://www.kissmygumbo.com/2009/02/'> February 2009 &nbsp;(28)</option>
+	<option value='http://www.kissmygumbo.com/2009/01/'> January 2009 &nbsp;(37)</option>
+	<option value='http://www.kissmygumbo.com/2008/12/'> December 2008 &nbsp;(43)</option>
+	<option value='http://www.kissmygumbo.com/2008/11/'> November 2008 &nbsp;(40)</option>
+	<option value='http://www.kissmygumbo.com/2008/10/'> October 2008 &nbsp;(65)</option>
+	<option value='http://www.kissmygumbo.com/2008/09/'> September 2008 &nbsp;(58)</option>
+	<option value='http://www.kissmygumbo.com/2008/08/'> August 2008 &nbsp;(66)</option>
+	<option value='http://www.kissmygumbo.com/2008/07/'> July 2008 &nbsp;(30)</option>
+	<option value='http://www.kissmygumbo.com/2008/06/'> June 2008 &nbsp;(35)</option>
+	<option value='http://www.kissmygumbo.com/2008/05/'> May 2008 &nbsp;(39)</option>
+	<option value='http://www.kissmygumbo.com/2008/04/'> April 2008 &nbsp;(33)</option>
+	<option value='http://www.kissmygumbo.com/2008/03/'> March 2008 &nbsp;(32)</option>
+	<option value='http://www.kissmygumbo.com/2008/02/'> February 2008 &nbsp;(29)</option>
+	<option value='http://www.kissmygumbo.com/2008/01/'> January 2008 &nbsp;(35)</option>
+	<option value='http://www.kissmygumbo.com/2007/12/'> December 2007 &nbsp;(30)</option>
+	<option value='http://www.kissmygumbo.com/2007/11/'> November 2007 &nbsp;(39)</option>
+	<option value='http://www.kissmygumbo.com/2007/10/'> October 2007 &nbsp;(38)</option>
+	<option value='http://www.kissmygumbo.com/2007/09/'> September 2007 &nbsp;(43)</option>
+	<option value='http://www.kissmygumbo.com/2007/08/'> August 2007 &nbsp;(44)</option>
+	<option value='http://www.kissmygumbo.com/2007/07/'> July 2007 &nbsp;(37)</option>
+	<option value='http://www.kissmygumbo.com/2007/06/'> June 2007 &nbsp;(43)</option>
+	<option value='http://www.kissmygumbo.com/2007/05/'> May 2007 &nbsp;(49)</option>
+	<option value='http://www.kissmygumbo.com/2007/04/'> April 2007 &nbsp;(34)</option>
+	<option value='http://www.kissmygumbo.com/2007/03/'> March 2007 &nbsp;(59)</option>
+	<option value='http://www.kissmygumbo.com/2007/02/'> February 2007 &nbsp;(27)</option>
+	<option value='http://www.kissmygumbo.com/2007/01/'> January 2007 &nbsp;(9)</option>
+
+		</select>
+		</div></aside><!-- /#sidebar -->
+
+		</div><!-- /#main-sidebar-container -->         
+
+		        
+    </div><!-- /#content -->
+			
+	<footer id="footer" class="col-full">
+
+		
+		<div id="copyright" class="col-left">
+			<p></p>		</div>
+
+		<div id="credit" class="col-right">
+			<p><p>Site Design by <a href="http://www.kickify.com" target="_blank">Kickify</a></p></p>		</div>
+
+	</footer>
+
+	
+	</div><!-- /#inner-wrapper -->
+
+</div><!-- /#wrapper -->
+
+<div class="fix"></div><!--/.fix-->
+
+<!-- ngg_resource_manager_marker --><script type='text/javascript' src='http://www.kissmygumbo.com/wp-includes/js/wp-embed.min.js?ver=4.9.8'></script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-6147504-2', 'auto');
+  ga('send', 'pageview');
+
+</script>
+</body>
+</html>

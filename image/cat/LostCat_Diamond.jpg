@@ -1,0 +1,414 @@
+<!DOCTYPE html>
+<html lang="en-US" prefix="og: http://ogp.me/ns#">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
+<script data-cfasync="false" type="text/javascript">WebFontConfig={google:{families:['Source+Sans+Pro:400,600,900'] },classes:false, events:false, timeout:1500};(function() {var wf = document.createElement('script');wf.src='https://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';wf.type='text/javascript';wf.defer='true';var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(wf, s);})();</script><link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="pingback" href="https://nhspca.org/xmlrpc.php">
+<link rel="shortcut icon" href="https://nhspca.org/wp-content/themes/_/assets/img/nhspca-fav.png">
+<link type="text/css" media="all" href="https://nhspca.org/wp-content/cache/autoptimize/css/autoptimize_26a634475bbd22380e7b95467eb83511.css" rel="stylesheet" /><title>NHSPCA | New Hampshire SPCA</title>
+
+<meta name="description" content="A safe and loving home for every animal. New Hampshire&#039;s oldest and largest animal shelter dedicated to helping people and pets across NH through pet adoption services, cruelty intervention, dog training classes, summer camp and clubs for kids, low cost spay/ neuter clinics and much more." />
+<link rel="canonical" href="https://nhspca.org/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="NHSPCA | New Hampshire SPCA" />
+<meta property="og:description" content="A safe and loving home for every animal. New Hampshire&#039;s oldest and largest animal shelter dedicated to helping people and pets across NH through pet adoption services, cruelty intervention, dog training classes, summer camp and clubs for kids, low cost spay/ neuter clinics and much more." />
+<meta property="og:url" content="https://nhspca.org/" />
+<meta property="og:site_name" content="NHSPCA" />
+<meta property="og:image" content="https://nhspca.org/assets/Adopt-me-today.jpg" />
+<meta property="og:image:secure_url" content="https://nhspca.org/assets/Adopt-me-today.jpg" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:description" content="A safe and loving home for every animal. New Hampshire&#039;s oldest and largest animal shelter dedicated to helping people and pets across NH through pet adoption services, cruelty intervention, dog training classes, summer camp and clubs for kids, low cost spay/ neuter clinics and much more." />
+<meta name="twitter:title" content="NHSPCA | New Hampshire SPCA" />
+<meta name="twitter:site" content="@nhspca" />
+<meta name="twitter:image" content="https://nhspca.org/assets/Adopt-me-today.jpg" />
+<meta name="twitter:creator" content="@nhspca" />
+<script type='application/ld+json'>{"@context":"https:\/\/schema.org","@type":"WebSite","@id":"#website","url":"https:\/\/nhspca.org\/","name":"NHSPCA","potentialAction":{"@type":"SearchAction","target":"https:\/\/nhspca.org\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<script type='application/ld+json'>{"@context":"https:\/\/schema.org","@type":"Organization","url":"https:\/\/nhspca.org\/","sameAs":["https:\/\/www.facebook.com\/NewHampshireSPCA","https:\/\/www.instagram.com\/nhspca\/","https:\/\/www.linkedin.com\/company\/new-hampshire-spca","https:\/\/www.youtube.com\/user\/NHSPCA","https:\/\/twitter.com\/nhspca"],"@id":"https:\/\/nhspca.org\/#organization","name":"NHSPCA | New Hampshire SPCA","logo":"https:\/\/nhspca.org\/assets\/nhspca_logo_1459368627__90551.gif"}</script>
+
+<link rel='dns-prefetch' href='//s.w.org' />
+<link href='https://fonts.gstatic.com' crossorigin='anonymous' rel='preconnect' />
+<link href='https://ajax.googleapis.com' rel='preconnect' />
+<link href='https://fonts.googleapis.com' rel='preconnect' />
+<link rel="alternate" type="application/rss+xml" title="NHSPCA &raquo; Feed" href="https://nhspca.org/feed/" />
+<link rel="alternate" type="application/rss+xml" title="NHSPCA &raquo; Comments Feed" href="https://nhspca.org/comments/feed/" />
+<link rel="alternate" type="text/calendar" title="NHSPCA &raquo; iCal Feed" href="https://nhspca.org/calendar/?ical=1" />
+<link rel="alternate" type="application/rss+xml" title="NHSPCA &raquo; Home Comments Feed" href="https://nhspca.org/home/feed/" />
+<link rel='stylesheet' id='dashicons-css' href='https://nhspca.org/wp-includes/css/dashicons.min.css' type='text/css' media='all' />
+<script type='text/javascript' src='https://nhspca.org/wp-includes/js/jquery/jquery.js'></script>
+<link rel='shortlink' href='https://nhspca.org/' />
+<meta name="tec-api-version" content="v1"><meta name="tec-api-origin" content="https://nhspca.org"><link rel="https://theeventscalendar.com/" href="https://nhspca.org/wp-json/tribe/events/v1/" /> <noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+</head>
+<body class="home page-template-default page page-id-2 tribe-no-js ctct-_ tribe-bar-is-disabled group-blog">
+<svg style="display:none;">
+<defs>
+<symbol id="menu-icon" viewBox="0 0 424 424"><path d="M35 89C15 89 0 74 0 54s15-36 35-36h353c20 0 36 16 36 36s-16 35-36 35H35zM388 176c20 0 36 16 36 36s-16 35-36 35H35c-20 0-35-15-35-35s15-36 35-36H388zM388 335c20 0 36 15 36 35s-16 36-36 36H35c-20 0-35-16-35-36s15-35 35-35H388z" /></symbol>
+<symbol id="close-icon" viewBox="0 0 348.3 348.3"><path d="M336.6 68.6L231 174.2l105.5 105.5c15.7 15.7 15.7 41.1 0 56.9 -7.8 7.8-18.1 11.8-28.4 11.8 -10.3 0-20.6-3.9-28.4-11.8L174.2 231 68.6 336.6c-7.8 7.8-18.1 11.8-28.4 11.8 -10.3 0-20.6-3.9-28.4-11.8 -15.7-15.7-15.7-41.1 0-56.8l105.5-105.5L11.8 68.6c-15.7-15.7-15.7-41.1 0-56.8 15.7-15.7 41.1-15.7 56.8 0l105.6 105.6L279.7 11.8c15.7-15.7 41.1-15.7 56.8 0C352.3 27.5 352.3 52.9 336.6 68.6z" /></symbol>
+<symbol id="search-icon" viewBox="0 0 31.61 32.1"><path d="M13.69,7.58a5.3,5.3,0,1,1-5.3,5.29A5.27,5.27,0,0,1,13.69,7.58Zm0-2.89a8.19,8.19,0,1,0,4.66,14.9L22.78,24a1.45,1.45,0,1,0,2-2L20.4,17.54a8.1,8.1,0,0,0,1.47-4.67,8.2,8.2,0,0,0-8.18-8.18Z" /></symbol>
+<symbol id="heart-icon" viewBox="0 0 510.5 510.5"><path d="M510.5 167.4c0 14.7-2.1 29.3-6.3 43.6 -4.2 14.3-9.4 27.5-15.5 39.4 -6.2 12-14.8 24.8-26 38.5 -11.2 13.7-21.8 25.8-32 36.2 -10.2 10.4-23.2 22.5-39.1 36.5 -15.9 13.9-30 25.8-42.1 35.6 -12.2 9.8-27.6 22.1-46.3 37.1 -18.7 14.9-34.3 27.4-46.6 37.4 -13.5-12.4-31.7-27.7-54.4-46 -22.7-18.3-42.5-34.3-59.5-47.8 -16.9-13.5-35.1-29.5-54.4-47.8 -19.3-18.3-35.2-35.5-47.5-51.4C28.4 262.6 18.3 244.9 10.6 225.4 2.8 205.9-0.7 186.5 0.1 167.4c0-35.5 12.6-65.7 37.7-90.8s55.4-37.7 90.8-37.7c13.1 0 26.6 3.8 40.3 11.4s25.3 15.9 34.7 25.1c9.4 9.2 18.6 19.7 27.8 31.7s15.1 20.3 17.9 25.1c2.8 4.8 5 8.6 6.6 11.4l6.6-10.8c4-7.2 10.2-15.8 18.5-26 8.4-10.2 17.6-20.4 27.8-30.8 10.2-10.4 22.1-19.1 35.9-26.3 13.7-7.2 27.2-10.8 40.3-10.8 35.5 0 65.2 12.5 89.4 37.4C498.5 101.2 510.5 131.5 510.5 167.4z" /></symbol>
+<symbol id="facebook-icon" viewBox="0 0 430.1 430.1" xml:space="preserve"><path d="M158.1 83.3c0 10.8 0 59.2 0 59.2h-43.4v72.4h43.4v215.2h89.1V214.9h59.8c0 0 5.6-34.7 8.3-72.7 -7.8 0-67.8 0-67.8 0s0-42.1 0-49.5c0-7.4 9.7-17.4 19.3-17.4 9.6 0 29.8 0 48.6 0 0-9.9 0-43.9 0-75.4 -25 0-53.5 0-66 0C155.9 0 158.1 72.5 158.1 83.3z" /></symbol>
+<symbol id="twitter-icon" viewBox="0 0 612 612" xml:space="preserve"><path d="M612 116.3c-22.5 10-46.7 16.8-72.1 19.8 25.9-15.5 45.8-40.2 55.2-69.4 -24.3 14.4-51.2 24.8-79.8 30.5 -22.9-24.4-55.5-39.7-91.6-39.7 -69.3 0-125.6 56.2-125.6 125.5 0 9.8 1.1 19.4 3.3 28.6C197.1 206.3 104.6 156.3 42.6 80.4c-10.8 18.5-17 40.1-17 63.1 0 43.6 22.2 82 55.8 104.5 -20.6-0.7-39.9-6.3-56.9-15.8v1.6c0 60.8 43.3 111.6 100.7 123.1 -10.5 2.8-21.6 4.4-33.1 4.4 -8.1 0-15.9-0.8-23.6-2.3 16 49.9 62.3 86.2 117.3 87.2 -42.9 33.7-97.1 53.7-155.9 53.7 -10.1 0-20.1-0.6-29.9-1.7 55.6 35.7 121.5 56.5 192.4 56.5 230.9 0 357.2-191.3 357.2-357.2l-0.4-16.3C573.9 163.5 595.2 141.4 612 116.3z" /></symbol>
+<symbol id="linkedin-icon" viewBox="0 0 430.1 430.1" xml:space="preserve"><path d="M430.1 261.5V420.6h-92.2V272.2c0-37.3-13.3-62.7-46.7-62.7 -25.5 0-40.6 17.1-47.3 33.7 -2.4 5.9-3.1 14.2-3.1 22.5V420.6h-92.2c0 0 1.2-251.3 0-277.3h92.2v39.3c-0.2 0.3-0.4 0.6-0.6 0.9h0.6v-0.9c12.3-18.9 34.1-45.8 83.1-45.8C384.6 136.7 430.1 176.4 430.1 261.5zM52.2 9.6C20.6 9.6 0 30.3 0 57.5c0 26.6 20 47.9 51 47.9h0.6c32.2 0 52.2-21.3 52.2-47.9C103.1 30.3 83.7 9.6 52.2 9.6zM5.5 420.6h92.2v-277.3H5.5V420.6z" /></symbol>
+<symbol id="instagram-icon" viewBox="0 0 169.1 169.1" xml:space="preserve"><path d="M122.4 0H46.7C20.9 0 0 20.9 0 46.7v75.8c0 25.7 20.9 46.7 46.7 46.7h75.8c25.7 0 46.7-20.9 46.7-46.7V46.7C169.1 20.9 148.1 0 122.4 0zM154.1 122.4c0 17.5-14.2 31.7-31.7 31.7H46.7C29.2 154.1 15 139.9 15 122.4V46.7C15 29.2 29.2 15 46.7 15h75.8c17.5 0 31.7 14.2 31.7 31.7V122.4zM84.5 41c-24 0-43.6 19.5-43.6 43.6 0 24 19.5 43.6 43.6 43.6s43.6-19.5 43.6-43.6C128.1 60.5 108.6 41 84.5 41zM84.5 113.1c-15.7 0-28.6-12.8-28.6-28.6 0-15.7 12.8-28.6 28.6-28.6s28.6 12.8 28.6 28.6C113.1 100.3 100.3 113.1 84.5 113.1zM129.9 28.3c-2.9 0-5.7 1.2-7.8 3.2 -2.1 2-3.2 4.9-3.2 7.8 0 2.9 1.2 5.7 3.2 7.8 2 2 4.9 3.2 7.8 3.2 2.9 0 5.7-1.2 7.8-3.2 2.1-2 3.2-4.9 3.2-7.8 0-2.9-1.2-5.7-3.2-7.8C135.7 29.4 132.8 28.3 129.9 28.3z" /></symbol>
+<symbol id="youtube-icon" viewBox="0 0 310 310" xml:space="preserve"><path d="M297.9 64.6c-11.2-13.3-31.8-18.7-71.3-18.7H83.4c-40.4 0-61.4 5.8-72.5 19.9C0 79.7 0 100 0 128.2v53.7c0 54.6 12.9 82.2 83.4 82.2h143.2c34.2 0 53.2-4.8 65.4-16.5C304.6 235.5 310 215.9 310 181.8v-53.7C310 98.5 309.2 78 297.9 64.6zM199 162.4l-65 34c-1.5 0.8-3 1.1-4.6 1.1 -1.8 0-3.6-0.5-5.2-1.4 -3-1.8-4.8-5.1-4.8-8.6v-67.8c0-3.5 1.8-6.7 4.8-8.5 3-1.8 6.7-1.9 9.8-0.3l65 33.8c3.3 1.7 5.4 5.1 5.4 8.9C204.4 157.3 202.3 160.7 199 162.4z" /></symbol>
+</defs>
+</svg><div class="site">
+<header class="site-header" role="banner">
+<div class="wrap">
+<div class="site-links">
+<a class="search-link" href="#search" data-featherlight="#search_lightbox">
+<svg><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#search-icon"></use></svg>
+</a>
+<div class="site-links-menu"><ul id="menu-site-links" class="menu"><li id="menu-item-413" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-413"><a href="https://nhspca.org/contact/">Contact</a></li>
+<li id="menu-item-414" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-414"><a href="https://nhspca.org/hours-and-location/">Hours</a></li>
+<li id="menu-item-1910" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1910"><a href="https://nhspca.org/about/">About Us</a></li>
+</ul></div> <a class="secondary-button" href="https://nhspca.org/report-cruelty/">Report Cruelty</a>
+<a class="primary-button donate-link" href="https://nhspca.org/donate-today/"><svg><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#heart-icon"></use></svg> Donate</a>
+</div>
+<div class="site-logo"><a href="https://nhspca.org/" rel="home"><img src="https://nhspca.org/assets/nhspca-logo.svg" alt="NHSPCA" /></a></div>
+<nav class="site-navigation" role="navigation">
+<div class="menu-top-bar-menu-container">
+<div class="menu-top-bar-menu-container-inner">
+<ul id="primary-menu" class="menu"><li id="menu-item-33" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-33"><a href="#">Adoption</a>
+<ul class="sub-menu">
+<li id="menu-item-368" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-368"><a href="https://nhspca.org/adoptable-animals/">Adoptable Animals</a></li>
+<li id="menu-item-384" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-384"><a href="https://nhspca.org/adoptable-animals/how-to-adopt/">How To Adopt</a></li>
+<li id="menu-item-5201" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5201"><a href="https://nhspca.org/adoptable-animals/adoption-fees/">Adoption Fees</a></li>
+</ul>
+</li>
+<li id="menu-item-886" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-886"><a href="#">Training</a>
+<ul class="sub-menu">
+<li id="menu-item-34" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-34"><a href="http://nhspca.org/behavior-training-new-hampshire-spca/">Training Classes</a></li>
+<li id="menu-item-491" class="menu-item menu-item-type-taxonomy menu-item-object-tribe_events_cat menu-item-491"><a href="https://nhspca.org/calendar/category/classes/">Training Calendar</a></li>
+<li id="menu-item-684" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-684"><a href="https://nhspca.org/our-training-methods/">Our Training Methods</a></li>
+<li id="menu-item-665" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-665"><a href="https://nhspca.org/behavior-resources/">Behavior Resources</a></li>
+</ul>
+</li>
+<li id="menu-item-884" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-884"><a href="http://nhspca.org/donate-today/">Donate</a>
+<ul class="sub-menu">
+<li id="menu-item-703" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-703"><a href="https://nhspca.org/donate-today/">Donate Today</a></li>
+<li id="menu-item-1455" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1455"><a href="https://nhspca.planmylegacy.org/">Legacy Giving</a></li>
+<li id="menu-item-718" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-718"><a href="https://nhspca.org/adoption-angel-sponsorship/">Sponsor an Animal</a></li>
+<li id="menu-item-3901" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3901"><a href="https://nhspca.org/wish-list/">Wish List</a></li>
+</ul>
+</li>
+<li id="menu-item-37" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-37"><a href="#">Get Involved</a>
+<ul class="sub-menu">
+<li id="menu-item-328" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-328"><a href="https://nhspca.org/volunteering/">Volunteering</a></li>
+<li id="menu-item-327" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-327"><a href="https://nhspca.org/volunteer-opportunities/">Volunteer Opportunities</a></li>
+<li id="menu-item-324" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-324"><a href="https://nhspca.org/employment-opportunities/">Employment Opportunities</a></li>
+<li id="menu-item-325" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-325"><a href="https://nhspca.org/fostering-application/">Fostering Application</a></li>
+<li id="menu-item-323" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-323"><a href="https://nhspca.org/animal-legislation/">Animal Legislation</a></li>
+</ul>
+</li>
+<li id="menu-item-39" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-39"><a href="#">Community Services</a>
+<ul class="sub-menu">
+<li id="menu-item-1322" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1322"><a href="https://nhspca.org/community-overview/">Community Overview</a></li>
+<li id="menu-item-298" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-298"><a href="https://nhspca.org/pet-help-and-resources/">Pet Help and Resources</a></li>
+<li id="menu-item-278" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-278"><a href="https://nhspca.org/surrender-your-pet/">Surrender Your Pet</a></li>
+<li id="menu-item-300" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-300"><a href="https://nhspca.org/low-cost-spay-neuter-clinics/">Low Cost Spay/ Neuter Clinics</a></li>
+<li id="menu-item-279" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-279"><a href="https://nhspca.org/low-cost-rabies-clinics/">Low Cost Rabies Clinics</a></li>
+<li id="menu-item-266" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-266"><a href="https://nhspca.org/lost-pets/">Lost Pets</a></li>
+<li id="menu-item-301" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-301"><a href="https://nhspca.org/rolling-meadows-pet-cemetery/">Rolling Meadows Pet Cemetery</a></li>
+</ul>
+</li>
+<li id="menu-item-1668" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1668"><a href="http://nhspca.org/field-services/">Field Services</a>
+<ul class="sub-menu">
+<li id="menu-item-1669" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1669"><a href="https://nhspca.org/field-services/">Field Services</a></li>
+</ul>
+</li>
+<li id="menu-item-35" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-35"><a href="#">News &#038; Events</a>
+<ul class="sub-menu">
+<li id="menu-item-450" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-450"><a href="http://nhspca.org/calendar/category/events/">Event Calendar</a></li>
+<li id="menu-item-132" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-132"><a href="https://nhspca.org/news/">NHSPCA Blog</a></li>
+<li id="menu-item-791" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-791"><a href="https://nhspca.org/yappy-hour/">Yappy Hour</a></li>
+<li id="menu-item-4795" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4795"><a href="https://nhspca.org/charity-motorcycle-ride/">Charity Motorcycle Ride</a></li>
+<li id="menu-item-4701" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4701"><a href="https://nhspca.org/auction-for-the-animals/">Auction for the Animals</a></li>
+<li id="menu-item-5077" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5077"><a href="https://nhspca.org/an-afternoon-with-john-holland/">An Afternoon with John Holland</a></li>
+<li id="menu-item-844" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-844"><a href="https://nhspca.org/paws-walk/">Paws Walk</a></li>
+<li id="menu-item-4875" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4875"><a href="https://nhspca.org/nhspca-newsletter/">NHSPCA Newsletter</a></li>
+</ul>
+</li>
+<li id="menu-item-38" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-38"><a href="#">Youth Programs</a>
+<ul class="sub-menu">
+<li id="menu-item-908" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-908"><a href="https://nhspca.org/programs-for-kids/">Programs for Kids</a></li>
+<li id="menu-item-915" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-915"><a href="https://nhspca.org/summer-camp/">Summer Camp</a></li>
+<li id="menu-item-923" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-923"><a href="https://nhspca.org/junior-volunteers/">Junior Volunteers</a></li>
+<li id="menu-item-892" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-892"><a href="https://nhspca.org/birthday-parties/">Birthday Parties</a></li>
+</ul>
+</li>
+</ul> <div class="site-links-mobile">
+<div class="site-links-menu"><ul id="menu-site-links-1" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-413"><a href="https://nhspca.org/contact/">Contact</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-414"><a href="https://nhspca.org/hours-and-location/">Hours</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1910"><a href="https://nhspca.org/about/">About Us</a></li>
+</ul></div> <a class="search-link" href="#search" data-featherlight="#search_lightbox">
+<svg><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#search-icon"></use></svg>
+</a>
+</div>
+</div>
+</div>
+<a class="mobile-nav-open" href="javascript:void(0);">
+<span>Menu</span>
+<svg><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#menu-icon"></use></svg>
+</a>
+<a class="mobile-nav-close" href="javascript:void(0);">
+<svg><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#close-icon"></use></svg>
+</a>
+</nav>
+</div>
+</header>
+<div class="site-content" role="main">
+<section class="site-banner">
+<div class="site-banner-image" style="background-image:url('https://nhspca.org/assets/family2.jpg');"></div>
+<div class="site-banner-inner">
+<div class="wrap">
+<h1><span class="underline long">Complete your family. Adopt. </span></h1>
+<a class="primary-button" href="http://nhspca.org/adoptable-animals/">Search available animals now</a>
+</div>
+</div>
+</section>
+<div class="flexible-grid module bg-color-grey">
+<div class="wrap">
+<div class="row ">
+<div class="xsmall-12 small-12 medium-6 columns">
+<p><img class="alignnone size-full wp-image-3796" src="https://nhspca.org/assets/Summer-Fund-Drive-18.jpg" alt="" width="600" height="400" /></p>
+</div>
+<div class="xsmall-12 small-12 medium-6 columns">
+<h1>Summer Fund Drive</h1>
+<p>Hundreds of lost, sick and abandoned animals will turn to the New Hampshire SPCA in the coming months.   Your gift will help us respond immediately to their most urgent needs.</p>
+<p><a class="primary-button" href="https://www.classy.org/give/161992/#!/donation/checkout">More Info</a></p>
+</div>
+</div>
+</div>
+</div>
+<div class="flexible-grid module ">
+<div class="wrap">
+<div class="row ">
+<div class="xsmall-12 small-12 medium-6 columns">
+<h2>Upcoming Events</h2>
+<div class="events-list-container"><ul class="events-list"><li><a href="https://nhspca.org/calendar/yappy-hour-6/"><div class="event-date">9/05</div><div class="event-details"><h3 class="event-details--title">Yappy Hour</h3><span class="event-details-content">9/05 @ 6:00 pm - 8:00 pm</span></a></li><li><a href="https://nhspca.org/calendar/yappy-hour-2/"><div class="event-date">9/12</div><div class="event-details"><h3 class="event-details--title">Yappy Hour</h3><span class="event-details-content">9/12 @ 6:00 pm - 8:00 pm</span></a></li><li><a href="https://nhspca.org/calendar/petsmart-national-adoption-event/"><div class="event-date">9/14</div><div class="event-details"><h3 class="event-details--title">Petsmart National Adoption Event</h3><span class="event-details-content">9/14 - 9/16</span></a></li><li><a href="https://nhspca.org/calendar/5th-annual-charity-motorcycle-ride/"><div class="event-date">9/16</div><div class="event-details"><h3 class="event-details--title">5th Annual Charity Motorcycle Ride</h3><span class="event-details-content">9/16 @ 10:00 am - 2:00 pm</span></a></li></ul><a class="primary-button" href="https://nhspca.org/calendar/category/events">All Events</a></div>
+</div>
+<div class="xsmall-12 small-12 medium-6 columns">
+<h2>News</h2>
+<div class="posts-list-container"><ul class="posts-list"><li><a href="https://nhspca.org/clear-the-shelters-success/"><h3>Clear the Shelters Success!</h3><span class="post-category">News</span></a></li><li><a href="https://nhspca.org/governor-sununu-signs-commendation-for-executive-director/"><h3>Governor Sununu Signs Commendation for Executive Director</h3><span class="post-category">News</span></a></li><li><a href="https://nhspca.org/clear-the-shelters/"><h3>Clear the Shelters Adoption Promotion!</h3><span class="post-category">News</span></a></li><li><a href="https://nhspca.org/summer-school-projects-at-the-shelter/"><h3>Summer School Projects at the Shelter</h3><span class="post-category">Humane Education</span></a></li></ul><a class="primary-button" href="https://nhspca.org/news/">All News</a></div>
+<p>&nbsp;</p>
+</div>
+</div>
+</div>
+</div>
+<div class="flexible-grid module bg-color-grey">
+<div class="wrap">
+<div class="row ">
+<div class="xsmall-12 small-12 medium-12 columns">
+<h1 style="text-align: center;">NHSPCA Services &amp; Programs</h1>
+<p>The New Hampshire SPCA serves people and pets from across the state of New Hampshire through its programs, which include pet adoption, pet behavior training, humane education, animal cruelty intervention, low cost spay/neuter clinics and much more.</p>
+</div>
+</div>
+</div>
+</div>
+<section class="quick-links module">
+<ul class="five-wide">
+<li>
+<a href="http://nhspca.org/behavior-training-new-hampshire-spca/" style="background-image:url('https://nhspca.org/assets/Behavior-and-Training-768x1152.jpg');">
+<h2><span class="underline">Behavior Training</span></h2>
+</a>
+</li>
+<li>
+<a href="http://nhspca.org/programs-for-kids/" style="background-image:url('https://nhspca.org/assets/girl-with-kitten-768x1022.jpg');">
+<h2><span class="underline">Humane Education</span></h2>
+</a>
+</li>
+<li>
+<a href="http://nhspca.org/donate-today/" style="background-image:url('https://nhspca.org/assets/summerfund-drive-18.jpg');">
+<h2><span class="underline">Help Now</span></h2>
+</a>
+</li>
+<li>
+<a href="http://nhspca.org/report-cruelty/" style="background-image:url('https://nhspca.org/assets/AnimalCruelty_jpg.jpg');">
+<h2><span class="underline">Animal Cruelty Intervention</span></h2>
+</a>
+</li>
+<li>
+<a href="http://nhspca.org/community-overview/" style="background-image:url('https://nhspca.org/assets/community-services-768x1152.jpg');">
+<h2><span class="underline">Community Services</span></h2>
+</a>
+</li>
+</ul>
+</section>
+</div>
+<div class="newsletter-signup module bg-color-grey">
+<div class="wrap">
+<h1>Join our E-Newsletter</h1>
+<div id="ctct-form-1535" class="ctct-form-wrapper"><form class="ctct-form ctct-form-1535" id="ctct-form-9443705" data-doajax="off" action="" method="post"><span class="ctct-form-description"><p>Thank you for keeping in touch! We'll periodically send you emails regarding the latest shelter news, events, programs, pictures/videos of cute animals and other exciting things happening at the New Hampshire SPCA. Thank you for your support.</p>
+</span><p class="ctct-form-field ctct-form-field-email ctct-form-field-required"><label for="email___c534294fa74575f3aaa39ae2d66458a9">Email <abbr title="required">*</abbr></label><input required type="email" name="email___c534294fa74575f3aaa39ae2d66458a9" id="email___c534294fa74575f3aaa39ae2d66458a9" value="" placeholder="Email Address" class="ctct-email" /></p><p class="ctct-form-field ctct-form-field-text ctct-form-field-required"><label for="first_name___521ad57ef9bb28ff81c398e42f1c1f45">First Name <abbr title="required">*</abbr></label><input required type="text" name="first_name___521ad57ef9bb28ff81c398e42f1c1f45" id="first_name___521ad57ef9bb28ff81c398e42f1c1f45" value="" placeholder="First Name" class="ctct-text" /></p><p class="ctct-form-field ctct-form-field-text ctct-form-field-required"><label for="last_name___36071ecbc1441b6f988c4932cf4ff1fe">Last Name <abbr title="required">*</abbr></label><input required type="text" name="last_name___36071ecbc1441b6f988c4932cf4ff1fe" id="last_name___36071ecbc1441b6f988c4932cf4ff1fe" value="" placeholder="Last Name" class="ctct-text" /></p><div class="ctct-optin-hide" style="display:none;"><p class="ctct-form-field ctct-form-field-checkbox"><span class="ctct-input-container"><input type="checkbox" checked name="ctct-opt-in" id="ctct-opt-in" class="ctct-checkbox ctct-opt-in" value="2015158615" /><label for="ctct-opt-in"> Example: Yes, I would like to receive emails from NHSPCA. (You can unsubscribe anytime)</label></span></p></div><div id="ctct_usage"><label for="ctct_usage_field">Constant Contact Use.</label><input type="text" value="" name="ctct_usage_field" id="ctct_usage_field" /></div><input type="hidden" name="ctct-id" id="ctct-id" value="1535" placeholder="" class="ctct-hidden" /><input type="hidden" name="ctct-verify" id="ctct-verify" value="3OZ4DPaPKhBtqhRTWXWfaZGVN" placeholder="" class="ctct-hidden" /><input type="hidden" name="ctct_time" value="1535572101" /><p class="ctct-form-field ctct-form-field-submit"><input type="submit" name="ctct-submitted" id="ctct-submitted" value="Go" placeholder="" class="ctct-submit" /></p><input type="hidden" id="ctct_form" name="ctct_form" value="90b04f56dc" /><input type="hidden" name="_wp_http_referer" value="/" /><div class="ctct-disclosure"><hr><sub>By submitting this form, you are consenting to receive marketing emails from: New Hampshire SPCA, 104 Portsmouth Avenue, Stratham, NH, 03885, http://www.nhspca.org. You can revoke your consent to receive emails at any time by using the SafeUnsubscribe&reg; link, found at the bottom of every email. <a href="https://www.constantcontact.com/legal/service-provider" target="_blank">Emails are serviced by Constant Contact</a></sub></div></form><script type="text/javascript">var ajaxurl = "https://nhspca.org/wp-admin/admin-ajax.php";</script></div> <ul class="social-links">
+<li>
+<a class="facebook-link" href="https://www.facebook.com/NewHampshireSPCA">
+<svg><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#facebook-icon"></use></svg>
+</a>
+</li>
+<li>
+<a class="twitter-link" href="http://twitter.com/nhspca">
+<svg><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#twitter-icon"></use></svg>
+</a>
+</li>
+<li>
+<a class="linkedin-link" href=" https://www.linkedin.com/company/new-hampshire-spca">
+<svg><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#linkedin-icon"></use></svg>
+</a>
+</li>
+<li>
+<a class="instagram-link" href="https://instagram.com/nhspca/">
+<svg><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#instagram-icon"></use></svg>
+</a>
+</li>
+<li>
+<a class="youtube-link" href="http://www.youtube.com/nhspca/">
+<svg><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#youtube-icon"></use></svg>
+</a>
+</li>
+</ul> </div>
+</div>
+<footer class="site-footer" role="contentinfo">
+<div class="wrap">
+<div class="row">
+<div class="small-12 medium-6 large-3 columns">
+<img width="1" height="1" src="https://nhspca.org/assets/nhspca-logo-footer.svg" class="image wp-image-118 nhspca-logo attachment-medium size-medium" alt="" style="max-width: 100%; height: auto;" /> <div class="textwidget"><h4>The New Hampshire Society for the Prevention of Cruelty to Animals</h4>
+<p>PO Box 196<br />
+104 Portsmouth Avenue<br />
+Stratham, NH 03885</p>
+</div>
+<ul class="social-links">
+<li>
+<a class="facebook-link" href="https://www.facebook.com/NewHampshireSPCA">
+<svg><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#facebook-icon"></use></svg>
+</a>
+</li>
+<li>
+<a class="twitter-link" href="http://twitter.com/nhspca">
+<svg><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#twitter-icon"></use></svg>
+</a>
+</li>
+<li>
+<a class="linkedin-link" href=" https://www.linkedin.com/company/new-hampshire-spca">
+<svg><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#linkedin-icon"></use></svg>
+</a>
+</li>
+<li>
+<a class="instagram-link" href="https://instagram.com/nhspca/">
+<svg><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#instagram-icon"></use></svg>
+</a>
+</li>
+<li>
+<a class="youtube-link" href="http://www.youtube.com/nhspca/">
+<svg><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#youtube-icon"></use></svg>
+</a>
+</li>
+</ul> </div>
+<div class="xsmall-12 small-12 medium-6 large-3 columns">
+<h3>Hours</h3> <div class="textwidget"><h4>Adoption Center</h4>
+<p>11AM to 4PM &#8211; Friday through Monday<br />
+11AM to 7PM &#8211; Tuesday &amp; Thursday<br />
+Closed Wednesday</p>
+<h4>Learning Center</h4>
+<p>Open for Programing Hours</p>
+<h4>Business Hours</h4>
+<p>9AM to 5PM &#8211; Monday through Friday</p>
+</div>
+</div>
+<div class="xsmall-12 small-12 medium-6 large-3 columns">
+<h3>Contact</h3> <div class="textwidget"><h4>Email</h4>
+<p><a href="/cdn-cgi/l/email-protection#6f060109002f01071c1f0c0e41001d08" style="color:white;"> <span class="__cf_email__" data-cfemail="fa93949c95ba9492898a999bd495889d">[email&#160;protected]</span></a></p>
+<h4>Phone</h4>
+<p>603-772-2921</p>
+<h4>Adoption Center Fax</h4>
+<p>603-772-5920</p>
+<h4>Office Fax</h4>
+<p>603-778-7804</p>
+<h4></h4>
+<p><a style="color: white;" href="http://nhspca.org/privacy-policy/">Privacy Policy</a></p>
+<p><a style="color: white;" href="http://nhspca.org/terms-and-conditions/">Terms &amp; Conditions</a></p>
+</div>
+</div>
+<div class="xsmall-12 small-12 medium-6 large-3 columns">
+<h3>Location</h3> <div class="textwidget"><p><img class="location-graphic alignnone size-medium wp-image-119" src="//nhspca.org/assets/nhspca-map.svg" alt="" /></p>
+<p>104 Portsmouth Avenue<br />
+Stratham, NH 03885</p>
+<p><a href="https://www.charitynavigator.org/index.cfm?bay=search.summary&amp;orgid=5958"><img class="alignnone wp-image-2464" src="//nhspca.org/assets/charity-navigator.png" alt="" width="232" height="118" /></a></p>
+</div>
+</div>
+</div>
+</div>
+</footer>
+</div>
+
+<div class="search-lightbox" id="search_lightbox">
+<div class="search-lightbox--inner">
+<form role="search" method="get" class="search-form" action="https://nhspca.org/">
+<input type="search" class="search-field" placeholder="Search …" value="" name="s" title="Search for:" />
+</form>
+</div>
+</div>
+
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>
+		( function ( body ) {
+			'use strict';
+			body.className = body.className.replace( /\btribe-no-js\b/, 'tribe-js' );
+		} )( document.body );
+		</script>
+<script> /* <![CDATA[ */var tribe_l10n_datatables = {"aria":{"sort_ascending":": activate to sort column ascending","sort_descending":": activate to sort column descending"},"length_menu":"Show _MENU_ entries","empty_table":"No data available in table","info":"Showing _START_ to _END_ of _TOTAL_ entries","info_empty":"Showing 0 to 0 of 0 entries","info_filtered":"(filtered from _MAX_ total entries)","zero_records":"No matching records found","search":"Search:","all_selected_text":"All items on this page were selected. ","select_all_link":"Select all pages","clear_selection":"Clear Selection.","pagination":{"all":"All","next":"Next","previous":"Previous"},"select":{"rows":{"0":"","_":": Selected %d rows","1":": Selected 1 row"}},"datepicker":{"dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["January","February","March","April","May","June","July","August","September","October","November","December"],"nextText":"Next","prevText":"Prev","currentText":"Today","closeText":"Done"}};/* ]]> */ </script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_authorize_net_aim_params = {"accept_js_enabled":"","login_id":"5UZk36Mv68","client_key":"","general_error":"An error occurred, please try again or try an alternate form of payment.","ajax_url":"https:\/\/nhspca.org\/wp-admin\/admin-ajax.php","ajax_log":"","ajax_log_nonce":"89fb85d311"};
+/* ]]> */
+</script>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-25216075-1"></script>
+<script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
+
+	  gtag('config', 'UA-25216075-1');
+	</script>
+
+<script>
+	!function(f,b,e,v,n,t,s)
+	{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+	n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+	if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+	n.queue=[];t=b.createElement(e);t.async=!0;
+	t.src=v;s=b.getElementsByTagName(e)[0];
+	s.parentNode.insertBefore(t,s)}(window,document,'script',
+	'https://connect.facebook.net/en_US/fbevents.js');
+	fbq('init', '740443542721740');
+	fbq('track', 'PageView');
+	</script>
+<noscript>
+	<img height="1" width="1"
+	src="https://www.facebook.com/tr?id=740443542721740&ev=PageView
+	&noscript=1"/>
+	</noscript>
+
+<script type="text/javascript">
+	  adroll_adv_id = "FH6NL3RMSNAMXJA4HDMFOJ";
+	  adroll_pix_id = "OQNRBSSC4ZHYLLCQ4SVCQO";
+	  (function () {
+	    var _onload = function(){
+	      if (document.readyState && !/loaded|complete/.test(document.readyState)){setTimeout(_onload, 10);return}
+	      if (!window.__adroll_loaded){__adroll_loaded=true;setTimeout(_onload, 50);return}
+	      var scr = document.createElement("script");
+	      var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+	      scr.setAttribute('async', 'true');
+	      scr.type = "text/javascript";
+	      scr.src = host + "/j/roundtrip.js";
+	      ((document.getElementsByTagName('head') || [null])[0] ||
+	          document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+	    };
+	    if (window.addEventListener) {window.addEventListener('load', _onload, false);}
+	    else {window.attachEvent('onload', _onload)}
+	  }());
+	</script>
+<script type="text/javascript" defer src="https://nhspca.org/wp-content/cache/autoptimize/js/autoptimize_741d55736439ac9bb01c23c20eab8946.js"></script></body>
+</html>

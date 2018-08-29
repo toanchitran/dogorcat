@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<!--[if IE 6]>
+<html id="ie6" class="ie"lang="es-ES">
+<![endif]-->
+<!--[if IE 7]>
+<html id="ie7" class="ie"lang="es-ES">
+<![endif]-->
+<!--[if IE 8]>
+<html id="ie8" class="ie"lang="es-ES">
+<![endif]-->
+<!--[if IE 9]>
+<html id="ie9" class="ie"lang="es-ES">
+<![endif]-->
+<!--[if gt IE 9]>
+<html class="ie"lang="es-ES">
+<![endif]-->
+<!--[if !IE]>
+<html lang="es-ES">
+<![endif]-->
+
+<!-- START HEAD -->
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>No se encontró la página |  | Alambre</title>
+    <link rel="profile" href="http://gmpg.org/xfn/11" />
+    <link rel="Shortcut Icon" type="image/x-icon" href="http://alambre.info/favicon.ico" />
+    
+    <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Kreon%3A300%2C400%2C700" type="text/css" />
+    <link rel="stylesheet" href="http://alambre.info/wp-content/plugins/yith-maintenance-mode/assets/css/style-skin4.css" type="text/css" />
+    
+    <style type="text/css">
+        body {
+            background-color: #ffffff;
+background-image: url('http://alambre.info/wp-content/uploads/2018/05/bg-pattern.png');
+background-repeat: no-repeat;
+background-position: top left;
+background-attachment: scroll;        }
+
+        .logo .tagline {
+            color: #8e8e8e;
+font-size: 17px;
+font-family: 'Kreon';
+font-weight: 400;
+font-style: normal;
+        }
+
+        h1, h2, h3, h4, h5, h6 {
+            color: #808080;
+font-size: 25px;
+font-family: 'Kreon';
+font-weight: 700;
+font-style: normal;
+        }
+
+       p, li {
+            color: #8e8e8e;
+font-size: 15px;
+font-family: 'Kreon';
+font-weight: 400;
+font-style: normal;
+        }
+
+       .yit-box h3 { <br />
+<b>Notice</b>:  Undefined variable: h3_font in <b>/nfs/c01/h13/mnt/32197/domains/alambre.info/html/wp-content/plugins/yith-maintenance-mode/templates/maintenance-skin4.php</b> on line <b>66</b><br />
+}
+
+        form.newsletter input.text-field {
+            color: #b8b8b8;
+font-size: 18px;
+font-family: 'Kreon';
+font-weight: 400;
+font-style: normal;
+        }
+
+        form.newsletter input.submit-field {
+            background: #c0c0c0;
+            color: #ffffff;
+font-size: 15px;
+font-family: 'Kreon';
+font-weight: 700;
+font-style: normal;
+        }
+
+        form.newsletter .submit:hover input.submit-field {
+            background: #9b9b9b;
+        }
+
+        form.newsletter .submit:after {
+            border-right-color: #c0c0c0;
+         }
+
+        form.newsletter .submit:hover:after {
+            border-right-color: #9b9b9b;
+        }
+
+    	    </style>
+</head>
+<!-- END HEAD -->
+<!-- START BODY -->
+<body class="error404">
+	
+    <div class="container">
+
+        <a class="logo" href="http://alambre.info">
+            <img src="http://alambre.info/wp-content/uploads/2018/05/logo-alambre.png" alt="Logo" />
+                    </a>
+
+        <div class="yit-box">
+
+            <div class="message">
+                <h3>EN REMODELACI�N</h3>
+<p>Estamos remodelando nuestro sitio, por favor vuelva pronto.</p>            </div>
+
+            <div class="socials">
+                            </div>
+
+            
+        </div>
+
+    </div>
+	
+	<script type="text/javascript">
+        //<![CDATA[
+        
+      !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
+      
+      window.___gcfg = {lang: "en"};
+		  (function() {
+		    var po = document.createElement("script"); po.type = "text/javascript"; po.async = true;
+		    po.src = "https://apis.google.com/js/plusone.js";
+		    var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(po, s);
+		  })();
+      
+        //]]>
+  		</script></body>
+</html>

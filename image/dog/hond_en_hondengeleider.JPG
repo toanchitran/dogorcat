@@ -1,0 +1,324 @@
+
+
+<!DOCTYPE html>
+<html lang="nl" dir="ltr" xmlns:dc="http://purl.org/dc/terms/" xmlns:og="http://ogp.me/ns#" xmlns:article="http://ogp.me/ns/article#" xmlns:book="http://ogp.me/ns/book#" xmlns:product="http://ogp.me/ns/product#" xmlns:profile="http://ogp.me/ns/profile#" xmlns:video="http://ogp.me/ns/video#">
+  <head>
+    <link rel="apple-touch-icon" sizes="152x152" href="/themes/base_police/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="themes/base_police/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="themes/base_police/favicon-16x16.png">
+    <link rel="manifest" href="themes/base_police/site.webmanifest">
+    <link rel="mask-icon" href="themes/base_police/safari-pinned-tab.svg" color="#5bbad5">
+    <meta name="msapplication-TileColor" content="#2b5797">
+    <meta name="theme-color" content="#004d9f">
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-3FKS927');</script>
+    <!-- End Google Tag Manager -->
+    <meta charset="utf-8" />
+<meta name="title" content="Zones | Webplatform Police" />
+<link rel="canonical" href="http://www.politie.be/nl" />
+<link rel="shortlink" href="http://www.politie.be/nl" />
+<meta name="description" content="Welkom op de politie website. Voor dringende politiehulp bel 101." />
+<meta name="Generator" content="Drupal 8 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<script>function euCookieComplianceLoadScripts() {}</script>
+<style>div#sliding-popup, div#sliding-popup .eu-cookie-withdraw-banner, .eu-cookie-withdraw-tab {background: #004d9f} div#sliding-popup.eu-cookie-withdraw-wrapper { background: transparent; } #sliding-popup h1, #sliding-popup h2, #sliding-popup h3, #sliding-popup p, .eu-cookie-compliance-more-button, .eu-cookie-compliance-secondary-button, .eu-cookie-withdraw-tab { color: #ffffff;} .eu-cookie-withdraw-tab { border-color: #ffffff;}</style>
+<meta http-equiv="x-ua-compatible" content="IE=edge,chrome=1" />
+<meta http-equiv="cleartype" content="on" />
+<link rel="alternate" hreflang="nl" href="http://www.politie.be/nl/zones" />
+<link rel="alternate" hreflang="fr" href="http://www.politie.be/fr/zones" />
+<link rel="alternate" hreflang="de" href="http://www.politie.be/de/zones" />
+<link rel="alternate" hreflang="en" href="http://www.politie.be/en/zones" />
+<link rel="shortcut icon" href="/themes/port_police/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="revision" href="/nl/zones" />
+
+    <title>Zones | Webplatform Police</title>
+    <link rel="stylesheet" href="/sites/default/files/css/css_OiafWf8atx-jxL2XN97qksNbOYSFGH1AiFLyzTuLwO8.css?pe43yw" media="all" />
+<link rel="stylesheet" href="/sites/default/files/css/css_suBKixfovgEgLlE0XxPhpg4P8f5XV-Rdb9cO735URxg.css?pe43yw" media="all" />
+
+    
+<!--[if lte IE 8]>
+<script src="/sites/default/files/js/js_VtafjXmRvoUgAzqzYTA3Wrjkx9wcWhjP0G4ZnnqRamA.js"></script>
+<![endif]-->
+
+  </head>
+  <body   class="landing-page- node-359 front page-zones path-frontpage page-node-type-page" >
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-3FKS927"
+                    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+    <a href="#main-content" class="visually-hidden focusable">
+      Overslaan en naar de inhoud gaan
+    </a>
+    
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    
+<header class="region region--header-wrapper">
+  <div class="container">
+      <section id="block-sitebranding" class="block block-system block-system-branding-block clearfix">
+  
+    
+
+      <a href="/nl" title="Startpagina" rel="home">
+                    <div class="site-logo">
+                <img src="/themes/port_police/images/local/logo-nl.svg" onerror="this.src='/themes/port_police/images/local/logo-nl.png';this.onerror=null;">
+            </div>
+            <div class="site-logo-white">
+                <img src="/themes/port_police/images/local/logo-white-nl.svg" onerror="this.src='/themes/port_police/images/local/logo-white-nl.png';this.onerror=null;">
+            </div>
+            <div class="site-logo-mobile">
+                <img src="/themes/port_police/images/local/logo-mob.svg" onerror="this.src='/themes/port_police/images/local/logo-mob.png';this.onerror=null;">
+            </div>
+            </a>
+    <div class="header-emergency">
+        <span>Bel voor dringende politiehulp 101 / 112</span>
+    </div>
+</section>
+
+
+
+  </div>
+</header>
+
+  <div class="region region--top">
+    <div class="container">
+        <section id="block-searchzoneblock" class="block block-police-portal block-search-zone-block clearfix">
+  
+    
+
+      <div class="block-content">
+      <form class="search-zone" data-drupal-selector="search-zone" novalidate="novalidate" action="/nl" method="post" id="search-zone" accept-charset="UTF-8">
+  <div class="search-container form-group js-form-wrapper form-wrapper" data-drupal-selector="edit-search-container" id="edit-search-container"><div class="form-item js-form-item form-type-textfield js-form-type-textfield form-item-search js-form-item-search form-group">
+      <label for="edit-search" class="control-label">Zoek uw lokale politie via uw woonplaats of postcode:</label>
+  
+  
+  <input data-drupal-selector="edit-search" class="form-text form-control" type="text" id="edit-search" name="search" value="" size="60" maxlength="128" placeholder="Woonplaats van postcode" />
+
+  
+  
+  </div>
+<input id="edit-latitude" data-drupal-selector="edit-latitude" type="hidden" name="latitude" value="" /><input id="edit-longitude" data-drupal-selector="edit-longitude" type="hidden" name="longitude" value="" /><div data-drupal-selector="edit-actions" class="form-actions form-group js-form-wrapper form-wrapper" id="edit-actions"><button class="geo-location-form-submit button button--primary js-form-submit form-submit btn-default btn" data-drupal-selector="edit-submit" type="submit" id="edit-submit" value="Zoeken" name="">Zoeken</button></div>
+</div>
+<div class="nearest-container form-group js-form-wrapper form-wrapper" data-drupal-selector="edit-nearest-container" id="edit-nearest-container">of <a href="" class="geo-location-trigger btn-link">ga naar de dichtstbijzijnde politiezone</a></div>
+<input autocomplete="off" data-drupal-selector="form-5z3uronssba3h9jqfal9an-95i52qjzhw-raibd4xpm" type="hidden" name="form_build_id" value="form-5z3UrOnssBa3H9JQfaL9An_95I52QJZHW-RaIBD4XpM" /><input data-drupal-selector="edit-search-zone" type="hidden" name="form_id" value="search_zone" />
+</form>
+
+    </div>
+  </section>
+
+
+
+    </div>
+  </div>
+
+<div class="region--content-wrapper">
+      <div class="region region--content-top">
+      <div class="container">
+          <section class="views-element-container block block-views block-views-blocknotices-block-notices clearfix" id="block-views-block-notices-block-notices">
+  
+    
+
+      <div class="block-content">
+      <div class="form-group"><div class="view view-notices view-id-notices view-display-id-block_notices js-view-dom-id-c94dad0378959fe57261d9f9f165bddd769e660837ddca12015890c1f92bf552">
+  
+    
+      
+  
+        </div>
+</div>
+
+    </div>
+  </section>
+
+
+
+      </div>
+    </div>
+  
+      <div class="region region--content">
+      <div class="container">
+        <a id="main-content" tabindex="-1"></a>
+        <div class="row">
+            <section id="block-police-quicklink-block-4" class="block block-police-quicklinks block-police-quicklink-block clearfix">
+  
+    
+
+      <div class="block-content">
+      <div class="node node--type-quicklinks node--view-mode-portal ds-1col clearfix">
+
+  
+
+  
+            <div class="field field--name-node-title field--type-ds field--label-hidden field--item"><h2>
+  Police-on-web
+</h2>
+</div>
+      
+            <div class="field field--name-field-content field--type-text-long field--label-hidden field--item"><p>Online klacht indienen voor kleine misdrijven, uw alarmsysteem aanmelden en politietoezicht aanvragen voor uw woning tijdens uw vakantie of afwezigheid.</p>
+</div>
+      
+            <div class="field field--name-field-link field--type-link field--label-hidden field--item"><a href="https://policeonweb.belgium.be/eloket/selectComplaintTypeAndAuthentication.action?lang=nl">https://policeonweb.belgium.be/eloket/selectComplaintTypeAndAuthentication.acti…</a></div>
+      
+
+</div>
+
+
+    </div>
+  </section>
+
+<section id="block-police-quicklink-block-2" class="block block-police-quicklinks block-police-quicklink-block clearfix">
+  
+    
+
+      <div class="block-content">
+      <div class="node node--type-quicklinks node--view-mode-portal ds-1col clearfix">
+
+  
+
+  
+            <div class="field field--name-node-title field--type-ds field--label-hidden field--item"><h2>
+  Noodnummers
+</h2>
+</div>
+      
+            <div class="field field--name-field-content field--type-text-long field--label-hidden field--item"><p>Een noodgeval? Bel 101 voor dringende hulp of raadpleeg het overzicht van Belgische noodnummers, hulpdiensten en andere nuttige telefoonnummers.</p>
+</div>
+      
+            <div class="field field--name-field-link field--type-link field--label-hidden field--item"><a href="https://www.politie.be/5998/nl/contact/noodnummers">https://www.politie.be/5998/nl/contact/noodnummers</a></div>
+      
+
+</div>
+
+
+    </div>
+  </section>
+
+<section id="block-police-quicklink-block-3" class="block block-police-quicklinks block-police-quicklink-block clearfix">
+  
+    
+
+      <div class="block-content">
+      <div class="node node--type-quicklinks node--view-mode-portal ds-1col clearfix">
+
+  
+
+  
+            <div class="field field--name-node-title field--type-ds field--label-hidden field--item"><h2>
+  Opsporingen
+</h2>
+</div>
+      
+            <div class="field field--name-field-content field--type-text-long field--label-hidden field--item"><p>Help ons bij het zoeken naar vermiste personen en daders of slachtoffers van een misdrijf. Hebt u tips?</p>
+</div>
+      
+            <div class="field field--name-field-link field--type-link field--label-hidden field--item"><a href="https://www.politie.be/5998/nl/opsporingen">https://www.politie.be/5998/nl/opsporingen</a></div>
+      
+
+</div>
+
+
+    </div>
+  </section>
+
+<section id="block-police-quicklink-block" class="block block-police-quicklinks block-police-quicklink-block clearfix">
+  
+    
+
+      <div class="block-content">
+      <div class="node node--type-quicklinks node--view-mode-portal ds-1col clearfix">
+
+  
+
+  
+            <div class="field field--name-node-title field--type-ds field--label-hidden field--item"><h2>
+  Federale Politie
+</h2>
+</div>
+      
+            <div class="field field--name-field-content field--type-text-long field--label-hidden field--item"><p>Op federaal niveau staat één politiekorps, de federale politie, in voor de gespecialiseerde politiezorg en de ondersteunende opdrachten.</p>
+</div>
+      
+            <div class="field field--name-field-link field--type-link field--label-hidden field--item"><a href="https://www.politie.be/5998/nl">https://www.politie.be/5998/nl</a></div>
+      
+
+</div>
+
+
+    </div>
+  </section>
+
+<section id="block-police-quicklink-block-5" class="block block-police-quicklinks block-police-quicklink-block clearfix">
+  
+    
+
+      <div class="block-content">
+      <div class="node node--type-quicklinks node--view-mode-portal ds-1col clearfix">
+
+  
+
+  
+            <div class="field field--name-node-title field--type-ds field--label-hidden field--item"><h2>
+  Vaste Commissie van de Lokale Politie
+</h2>
+</div>
+      
+            <div class="field field--name-field-content field--type-text-long field--label-hidden field--item"><p>De Vaste Commissie van de Lokale Politie adviseert in alle domeinen en thema's die betrekking hebben of een weerslag hebben op de lokale politie.</p>
+</div>
+      
+            <div class="field field--name-field-link field--type-link field--label-hidden field--item"><a href="http://www.lokalepolitie.be/5806/nl">http://www.lokalepolitie.be/5806/nl</a></div>
+      
+
+</div>
+
+
+    </div>
+  </section>
+
+  <div class="view-mode-full ds-1col clearfix">
+
+  
+
+  
+
+</div>
+
+
+
+
+        </div>
+      </div>
+    </div>
+  
+  </div>
+
+  <div class="region region--bottom">
+    <div class="container">
+        <section class="language-switcher-language-url block block-police-portal block-languageswitcher-2language-interface clearfix" id="block-languageswitcher-2">
+  
+    
+
+      <div class="block-content">
+      <ul class="links"><li hreflang="nl" data-drupal-link-system-path="&lt;front&gt;" class="nl is-active"><a href="/nl" class="language-link active-language is-active" hreflang="nl" data-drupal-link-system-path="&lt;front&gt;">Nederlands</a></li><li hreflang="fr" data-drupal-link-system-path="&lt;front&gt;" class="fr"><a href="/fr" class="language-link" hreflang="fr" data-drupal-link-system-path="&lt;front&gt;">Français</a></li><li hreflang="de" data-drupal-link-system-path="&lt;front&gt;" class="de"><a href="/de" class="language-link" hreflang="de" data-drupal-link-system-path="&lt;front&gt;">Deutsch</a></li><li hreflang="en" data-drupal-link-system-path="&lt;front&gt;" class="en"><a href="/en" class="language-link" hreflang="en" data-drupal-link-system-path="&lt;front&gt;">English</a></li></ul>
+    </div>
+  </section>
+
+
+
+    </div>
+  </div>
+
+
+
+  </div>
+
+    
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"nl\/","currentPath":"node\/359","currentPathIsAdmin":false,"isFront":true,"currentLanguage":"nl"},"pluralDelimiter":"\u0003","eu_cookie_compliance":{"popup_enabled":true,"popup_agreed_enabled":false,"popup_hide_agreed":false,"popup_clicking_confirmation":false,"popup_scrolling_confirmation":false,"popup_html_info":"\u003Cdiv class=\u0022eu-cookie-compliance-banner eu-cookie-compliance-banner-info\u0022\u003E\n  \u003Cdiv class =\u0022popup-content info eu-cookie-compliance-content\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022 class=\u0022eu-cookie-compliance-message\u0022\u003E\n      \u003Ch2\u003EWij gebruiken cookies op deze site om uw gebruikerservaring te verbeteren\u003C\/h2\u003E\n\u003Cp\u003EDoor te klikken op een link op deze pagina geeft u ons toestemming om cookies in te stellen.\u003C\/p\u003E\n\n              \u003Cbutton type=\u0022button\u0022 class=\u0022find-more-button eu-cookie-compliance-more-button\u0022\u003EMeer informatie\u003C\/button\u003E\n          \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022 class=\u0022eu-cookie-compliance-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022agree-button eu-cookie-compliance-default-button\u0022\u003EOK, Ik ga akkoord\u003C\/button\u003E\n          \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","use_mobile_message":false,"mobile_popup_html_info":"\u003Cdiv class=\u0022eu-cookie-compliance-banner eu-cookie-compliance-banner-info\u0022\u003E\n  \u003Cdiv class =\u0022popup-content info eu-cookie-compliance-content\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022 class=\u0022eu-cookie-compliance-message\u0022\u003E\n      \n              \u003Cbutton type=\u0022button\u0022 class=\u0022find-more-button eu-cookie-compliance-more-button\u0022\u003EMeer informatie\u003C\/button\u003E\n          \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022 class=\u0022eu-cookie-compliance-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022agree-button eu-cookie-compliance-default-button\u0022\u003EOK, Ik ga akkoord\u003C\/button\u003E\n          \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","mobile_breakpoint":768,"popup_html_agreed":false,"popup_use_bare_css":false,"popup_height":"auto","popup_width":"100%","popup_delay":1,"popup_link":"\/nl\/privacy","popup_link_new_window":true,"popup_position":false,"popup_language":"nl","store_consent":true,"better_support_for_screen_readers":false,"cookie_name":"","reload_page":false,"domain":"","popup_eu_only_js":false,"cookie_lifetime":3650,"cookie_session":0,"disagree_do_not_show_popup":false,"method":"default","whitelisted_cookies":"","withdraw_markup":"\u003Cbutton type=\u0022button\u0022 class=\u0022eu-cookie-withdraw-tab\u0022\u003E\u003C\/button\u003E\n\u003Cdiv class=\u0022eu-cookie-withdraw-banner\u0022\u003E\n  \u003Cdiv class=\u0022popup-content info eu-cookie-compliance-content\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022 class=\u0022eu-cookie-compliance-message\u0022\u003E\n      \n    \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022 class=\u0022eu-cookie-compliance-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022eu-cookie-withdraw-button\u0022\u003E\u003C\/button\u003E\n    \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","withdraw_enabled":false},"bootstrap":{"forms_has_error_value_toggle":1,"modal_animation":1,"modal_backdrop":"true","modal_keyboard":1,"modal_show":1,"modal_size":"","popover_enabled":1,"popover_animation":1,"popover_container":"body","popover_content":"","popover_delay":"0","popover_html":0,"popover_placement":"right","popover_selector":"","popover_title":"","popover_trigger":"click","popover_trigger_autoclose":1,"tooltip_enabled":1,"tooltip_animation":1,"tooltip_container":"body","tooltip_delay":"0","tooltip_html":0,"tooltip_placement":"auto left","tooltip_selector":"","tooltip_trigger":"hover"},"ajaxTrustedUrl":{"form_action_p_pvdeGsVG5zNF_XLGPTvYSKCf43t8qZYSwcfZl2uzM":true},"user":{"uid":0,"permissionsHash":"96074a9e6cd0af12b2e8797806e537f4ecb05924c246082e3fc29e5043945c5d"}}</script>
+<script src="/sites/default/files/js/js_GoloCuqQcJZmIcVNPgu5J4wuSq5KqtDzOrDHVRNpxYc.js"></script>
+
+  </body>
+</html>

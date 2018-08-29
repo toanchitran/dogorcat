@@ -1,0 +1,121 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head profile="http://gmpg.org/xfn/11">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>A Little Jones Logic</title><meta name="description" content="A Bit of Common Sense Helps" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/><link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="A Little Jones Logic &raquo; Feed" href="https://newton-dunn.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="A Little Jones Logic &raquo; Comments Feed" href="https://newton-dunn.com/comments/feed/" />
+<link rel="canonical" href="https://newton-dunn.com/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/newton-dunn.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.8"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='focus-child-theme-css'  href='https://newton-dunn.com/wp-content/themes/focus/style.css?ver=2.5.2' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<script type='text/javascript' src='https://newton-dunn.com/wp-content/themes/genesis/lib/js/html5shiv.js?ver=3.7.3'></script>
+<![endif]-->
+<link rel='https://api.w.org/' href='https://newton-dunn.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://newton-dunn.com/xmlrpc.php?rsd" />
+<script type="text/javascript">
+(function(url){
+	if(/(?:Chrome\/26\.0\.1410\.63 Safari\/537\.31|WordfenceTestMonBot)/.test(navigator.userAgent)){ return; }
+	var addEvent = function(evt, handler) {
+		if (window.addEventListener) {
+			document.addEventListener(evt, handler, false);
+		} else if (window.attachEvent) {
+			document.attachEvent('on' + evt, handler);
+		}
+	};
+	var removeEvent = function(evt, handler) {
+		if (window.removeEventListener) {
+			document.removeEventListener(evt, handler, false);
+		} else if (window.detachEvent) {
+			document.detachEvent('on' + evt, handler);
+		}
+	};
+	var evts = 'contextmenu dblclick drag dragend dragenter dragleave dragover dragstart drop keydown keypress keyup mousedown mousemove mouseout mouseover mouseup mousewheel scroll'.split(' ');
+	var logHuman = function() {
+		if (window.wfLogHumanRan) { return; }
+		window.wfLogHumanRan = true;
+		var wfscr = document.createElement('script');
+		wfscr.type = 'text/javascript';
+		wfscr.async = true;
+		wfscr.src = url + '&r=' + Math.random();
+		(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(wfscr);
+		for (var i = 0; i < evts.length; i++) {
+			removeEvent(evts[i], logHuman);
+		}
+	};
+	for (var i = 0; i < evts.length; i++) {
+		addEvent(evts[i], logHuman);
+	}
+})('//newton-dunn.com/?wordfence_lh=1&hid=A1114072F21456BFDBA7BF21B9F28B5E');
+</script><link rel="icon" href="https://newton-dunn.com/wp-content/themes/focus/images/favicon.ico" />
+<link rel="pingback" href="https://newton-dunn.com/xmlrpc.php" />
+<style type="text/css">#header { background: url(https://newton-dunn.com/wp-content/themes/focus/images/header.png) no-repeat !important; }</style>
+<link rel="alternate" type="application/rss+xml" title="RSS" href="https://newton-dunn.com/rsslatest.xml" /><meta name="google-site-verification" content="KdCD30EIVv3rkyDKN_88cjy5-kxycYrWC5Ma_Bga85U" />
+</head>
+
+<body class="home blog header-full-width content-sidebar"><div id="wrap"><div id="header"><div class="wrap"><div id="title-area"><h1 id="title"><a href="https://newton-dunn.com/">A Little Jones Logic</a></h1><p id="description">A Bit of Common Sense Helps</p></div></div></div><div id="inner"><div class="wrap"><div id="content-sidebar-wrap"><div id="content" class="hfeed"><div class="post-14 post type-post status-publish format-standard sticky hentry category-fire-damage-restoration entry genesis-feature genesis-feature-1 genesis-feature-odd"><h2 class="entry-title"><a href="https://newton-dunn.com/recovering-from-a-fire/" rel="bookmark">Recovering From A Fire</a></h2>
+<div class="post-info">Posted on <span class="date published time" title="2018-03-09T18:50:39+00:00">March 9, 2018</span>  Written by <span class="author vcard"><span class="fn"><a href="https://newton-dunn.com/author/admin/" rel="author">J Jones</a></span></span>  </div><div class="entry-content"><h3>Fire Damage Restoration</h3>
+<p>A fire not only damages the interior of the home or property but can also damage the integrity of the supporting structures making entry a dangerous proposition. It is essential to have a professional fire damage restoration company with trained and experienced technicians come in and set up the proper protocol to clean up after a fire. There will several types of damage to deal with. You&#8217;ll have fire damage, water damage , smoke and soot damage, and possibly mold contamination.</p>
+<h3>Water Damage</h3>
+<p>The water used to extinguish the flames adds to the damage endured by the structure and personal belongings. It is important to address the water damage quickly. Water may be trapped in the hidden areas and should be treated right away to reduce the possibility of mold growth. Allowing mold to take a foothold will require the additional service of mold remediation.</p>
+<h2><a href="https://newton-dunn.com/wp-content/uploads/2018/03/Leander-Fire.png"><img class="alignnone size-large wp-image-16" src="https://newton-dunn.com/wp-content/uploads/2018/03/Leander-Fire-1024x512.png" alt="Leander Fire Damage" width="1024" height="512" srcset="https://newton-dunn.com/wp-content/uploads/2018/03/Leander-Fire-1024x512.png 1024w, https://newton-dunn.com/wp-content/uploads/2018/03/Leander-Fire-300x150.png 300w, https://newton-dunn.com/wp-content/uploads/2018/03/Leander-Fire-768x384.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></h2>
+<h3>Smoke Damage</h3>
+<p>The unique behavior of smoke leads to hidden damage and causes a lasting odor that is difficult to remove. It is essential that the cleanup begin as quickly as possible and to have trained personnel to commence the cleaning process. A professional  team of fire damage specialists can provide effective cleaning measures to save many of your valuable items. There are special cleaning processes  for various fabrics and materials that will be damaged by the smoke and soot.</p>
+<p>&nbsp;</p>
+<h3>Sewage Clean-Up</h3>
+<p>First, come to a loss assessment and evaluation activities to determine the extent of the damage. The contaminated area is contained and treated following the industry standards and guidelines. Following decontamination, we proceed to dry the structure to eliminate the possibility of bacterial or microbial contamination. For black, grey and clean water losses, the ANSI/IICRC S500 &#8211; Standards and Reference Guide for Professional Water Damage Restoration should always be followed.</p>
+<h3> Bio-Hazard Materials</h3>
+<p>A Bio-Hazard can include any infectious microorganism that constitutes a threat to humans. Bio Hazard cleanup will require trained, certified and experienced professionals to return any property or business to a safe environment. Business operations such as management companies, cities, hotels, private businesses, and homeowners rely on professionals for discreet handling the Bio-Hazard cleanup</p>
+</div><div class="post-meta"><span class="categories">Filed Under: <a href="https://newton-dunn.com/category/fire-damage-restoration/" rel="category tag">Fire Damage Restoration</a></span> </div></div></div><div id="sidebar" class="sidebar widget-area"><div id="search-2" class="widget widget_search"><div class="widget-wrap"><form method="get" class="searchform search-form" action="https://newton-dunn.com/" role="search" ><input type="text" value="Search this website &#x2026;" name="s" class="s search-input" onfocus="if (&#039;Search this website &#x2026;&#039; === this.value) {this.value = &#039;&#039;;}" onblur="if (&#039;&#039; === this.value) {this.value = &#039;Search this website &#x2026;&#039;;}" /><input type="submit" class="searchsubmit search-submit" value="Search" /></form></div></div>
+		<div id="recent-posts-2" class="widget widget_recent_entries"><div class="widget-wrap">		<h4 class="widget-title widgettitle">Recent Posts</h4>
+		<ul>
+											<li>
+					<a href="https://newton-dunn.com/recovering-from-a-fire/">Recovering From A Fire</a>
+									</li>
+					</ul>
+		</div></div>
+<div id="archives-2" class="widget widget_archive"><div class="widget-wrap"><h4 class="widget-title widgettitle">Archives</h4>
+		<ul>
+			<li><a href='https://newton-dunn.com/2018/03/'>March 2018</a></li>
+		</ul>
+		</div></div>
+<div id="categories-2" class="widget widget_categories"><div class="widget-wrap"><h4 class="widget-title widgettitle">Categories</h4>
+		<ul>
+	<li class="cat-item cat-item-3"><a href="https://newton-dunn.com/category/fire-damage-restoration/" >Fire Damage Restoration</a>
+</li>
+		</ul>
+</div></div>
+</div></div></div></div><div id="footer" class="footer"><div class="wrap"><div class="gototop"><p><a href="#wrap" rel="nofollow">Return to top of page</a></p></div><div class="creds"><p>Copyright &#x000A9;&nbsp;2018 &#x000B7; <a href="http://www.studiopress.com/themes/focus">Focus Child Theme</a> on <a href="http://www.studiopress.com/">Genesis Framework</a> &#x000B7; <a href="http://wordpress.org/">WordPress</a> &#x000B7; <a href="https://newton-dunn.com/wp-login.php">Log in</a></p></div></div></div></div>
+<!-- This site is optimized with Phil Singleton's WP SEO Structured Data Plugin v2.5 - https://kcseopro.com/wordpress-seo-structured-data-schema-plugin/ -->
+<script type="application/ld+json">{
+    "@context": "http://schema.org/",
+    "@type": "WebSite",
+    "url": "https://newton-dunn.com",
+    "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https://newton-dunn.com/?s={query}",
+        "query-input": "required name=query"
+    }
+}</script>
+<!-- / WP SEO Structured Data Plugin. -->
+
+<script type='text/javascript' src='https://newton-dunn.com/wp-includes/js/wp-embed.min.js?ver=4.9.8'></script>
+</body></html>

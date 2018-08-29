@@ -1,0 +1,316 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title></title>
+<link type="text/css" href="http://tuftsjournal.tufts.edu/wp-content/themes/periodica/reset.css" rel="stylesheet" />
+<link type="text/css" href="http://tuftsjournal.tufts.edu/wp-content/themes/periodica/style.css" rel="stylesheet" />
+<link type="text/css" href="http://tuftsjournal.tufts.edu/wp-content/themes/periodica/print.css" rel="stylesheet" media="print" />
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js" type="text/javascript"></script>
+<link rel="shortcut icon" href="http://tufts.edu/favicon.ico" type="image/x-icon" /> 
+<script type="text/javascript">
+$(document).ready(function() {
+/*  if( $("#sidebar").height() > $("#main").height() ) {
+    $("#main").height( $("#sidebar").height() );
+    }*/
+  function equalize(first, second) {
+    if( $(first).height() > $(second).height() ) {
+      $(second).height( $(first).height() );
+      }
+    else {
+      $(first).height( $(second).height() );
+      }
+    }
+  equalize("#main","#sidebar");
+  equalize(".splits",".home1");
+  //equalize("#splits","#main","#content");
+  $("a.nav1").click( function() {
+    $("#feature .images").animate({ left:'0em' });
+    $(".featurenav ul li a").removeClass("active");
+    $(this).addClass("active");
+    });
+  $("a.nav2").click( function() {
+    $("#feature .images").animate({ left:'-40em' });
+    $(".featurenav ul li a").removeClass("active");
+    $(this).addClass("active");
+    });
+  $("a.nav3").click( function() {
+    $("#feature .images").animate({ left:'-80em' });
+    $(".featurenav ul li a").removeClass("active");
+    $(this).addClass("active");
+    });
+  $("a.nav4").click( function() {
+    $("#feature .images").animate({ left:'-120em' });
+    $(".featurenav ul li a").removeClass("active");
+    $(this).addClass("active");
+    });
+  $("a.nav5").click( function() {
+    $("#feature .images").animate({ left:'-160em' });
+    $(".featurenav ul li a").removeClass("active");
+    $(this).addClass("active");
+    });
+});
+
+function mailpage()
+{
+mail_str = "mailto:?subject=" + document.title;
+mail_str += "&body=Check out this article at: " + location.href; 
+location.href = mail_str;
+}
+</script>
+  <script src="http://www.google-analytics.com/urchin.js" 
+type="text/javascript"> 
+</script> 
+<script type="text/javascript"> 
+_uacct = "UA-71834-13";
+urchinTracker();
+</script> 
+</head>
+
+<body>
+<img src="http://tuftsjournal.tufts.edu/wp-content/themes/periodica/images/logo.png" id="printlogo" />
+<div id="wrapper">
+  <div id="logo"><a href="/">Tufts Journal: News and Information from Tufts University </a></div>
+    <div id="nav">
+    <ul>
+      <li class=""><a href="/top/" class='active' >Top Stories</a></li>
+        <li class="x1 double end"><a href="/ask/">Ask the Professor</a></li>
+        <li class="y1"><a href="/briefs/">Briefs</a></li>
+        <li class="x1 y1"><a href="/calendar/">Calendar</a></li>
+        <li class="x2 y1 end"><span>&nbsp;</span></li>
+        <li class="y2"><a href="/people/">People</a></li>
+        <li class="x1 y2 "><a href="/archives/">Archives</a></li>
+        <li class="x2 y2 end"><span>&nbsp;</span></li>
+        <li class="y3 bottom"><span>&nbsp;</span></li>
+        <li class="x1 y3 bottom"><a href="/contact/">Contact Us</a></li>
+        <li class="x2 y3 bottom end"><a href="http://tufts.edu/">Tufts Home</a></li>
+        <li class="x1 y4 bottom end"><a href="/">Home</a></li>
+    </ul>
+    </div>
+  <div id="date"><span>Wednesday, August 29, 2018</span></div>    <div id="content">
+      <div id="main" class="homepage">
+          <div id="feature">
+                <div class="images">
+                  <div class="feature1">
+                    <div class="caption">
+                            <a href="http://tuftsjournal.tufts.edu/archives/1902/another-fine-mess" id="post-1902"><h1>Another Fine Mess</h1>
+                            <h2>Fletcher professor exposes the limits of financial models and calls for a return to old-fashioned banking values</h2></a>
+                        </div>
+                    <img src="http://tuftsjournal.tufts.edu/wp-content/files_flutter/1299773478TJ_bhide_FP.JPG" width="640" height="272" />
+                    </div>
+                  <div class="feature2">
+                    <div class="caption">
+                            <a href="http://tuftsjournal.tufts.edu/archives/1929/the-right-whey" id="post-1929"><h1>The Right Whey</h1>
+                            <h2>Molly Pindell, N05, took her own path to making scrumptious, sustainable goat cheese</h2></a>
+                        </div>
+                    <img src="http://tuftsjournal.tufts.edu/wp-content/files_flutter/1299786830TJ_goats_FP.JPG" width="640" height="272" />
+                    </div>
+                  <div class="feature3">
+                    <div class="caption">
+                            <a href="http://tuftsjournal.tufts.edu/archives/1926/new-accolade-for-the-dental-school" id="post-1926"><h1>New Accolade for the Dental School</h1>
+                            <h2>William J. Gies Award recognizes leadership in teaching, research, community service and diversity</h2></a>
+                        </div>
+                    <img src="http://tuftsjournal.tufts.edu/wp-content/files_flutter/1299786850TJ_dental_FP.JPG" width="640" height="272" />
+                    </div>
+                  <div class="feature4">
+                    <div class="caption">
+                            <a href="http://tuftsjournal.tufts.edu/archives/1891/combating-a-brand-new-superbug" id="post-1891"><h1>Combating a Brand-New Superbug</h1>
+                            <h2>Biomedical researchers launch a three-front assault on a potentially lethal bacterium</h2></a>
+                        </div>
+                    <img src="http://tuftsjournal.tufts.edu/wp-content/files_flutter/1299189684TJ_FP_hanping_feng.JPG" width="640" height="272" />
+                    </div>
+                  <div class="feature5">
+                    <div class="caption">
+                            <a href="http://tuftsjournal.tufts.edu/archives/1815/pow-women-pop-artists-get-their-day" id="post-1815"><h1>Pow! Women Pop Artists Get Their Day</h1>
+                            <h2>SLIDESHOW: New Tufts Art Gallery exhibition highlights works hidden in the shadows for decades</h2></a>
+                        </div>
+                    <img src="http://tuftsjournal.tufts.edu/wp-content/files_flutter/1296760555pop_carousel_2.JPG" width="640" height="272" />
+                    </div>
+                </div>
+              <div class="featurenav">
+                  <ul>
+                      <li><a class="nav1 active" href="#">1</a></li>
+                                              <li><a class="nav2" href="#">2</a></li>
+                                              <li><a class="nav3" href="#">3</a></li>
+                                              <li><a class="nav4" href="#">4</a></li>
+                                              <li><a class="nav5" href="#">5</a></li>
+                                            </ul>
+                </div>
+            </div>
+            <div class="row top-row">
+              <div class="cell cell1-of-2">
+                    <div class="story storyleft home1">
+                        <h1><a href="http://tuftsjournal.tufts.edu/archives/1819/burn-like-the-sun" id="post-1819">Burn Like the Sun</a></h1>
+                        <h3>By Chris Berdik</h3>
+                        <h2>Luisa Chiesa is testing superconducting cables for fusion power plants of the future</h2>
+                        <p>When most people think about using the sun’s energy, they envision dark solar panels quietly soaking up rays. But scientists such as Chiesa see a better way.</p>
+                                           </div>
+                </div>
+                <div class="cell cell1-of-2 noright">
+                  <div class="splits">
+                      <div class="splitleft">
+                          <h4>Event Highlights</h4>
+                            <div>
+                                <a href="http://tuftsjournal.tufts.edu/archives/1842/february-2011-events-calendar#1" id="post-1842">Seductive Subversion: Women Pop Artists, 1958-1968</a>                                <a href="http://tuftsjournal.tufts.edu/archives/1842/february-2011-events-calendar#9" id="post-1842">Lyon & Bendheim Alumni Lecture</a>                                <a href="http://tuftsjournal.tufts.edu/archives/1842/february-2011-events-calendar#17" id="post-1842">The Threepenny Opera</a>                                <a href="http://tuftsjournal.tufts.edu/archives/1842/february-2011-events-calendar#17" id="post-1842">The Importance of Being Earnest</a>                            </div>
+                                      </div>
+                        <div class="splitright">
+                          <h4>Briefs</h4>
+                                          <div>
+                                <a href="http://tuftsjournal.tufts.edu/archives/1786/new-senior-associate-dean-at-fletcher-school" id="post-1786">New Senior Associate Dean at Fletcher School</a>
+                                <p>Bhaskar Chakravorti will oversee international business and finance</p>
+                            </div>
+                                          <div>
+                                <a href="http://tuftsjournal.tufts.edu/archives/1443/exchange-with-india" id="post-1443">Exchange with India</a>
+                                <p>Tufts residents gain a world view of dental practice</p>
+                            </div>
+                                      </div>
+                  </div>
+                </div>
+            </div>
+            <div class="row last bottom-row">
+              <div class="cell cell2-of-3">
+                  <div class="row">
+                      <div class="cell">
+                        <div class="story storyleft">
+                        <h1><a href="http://tuftsjournal.tufts.edu/archives/1738/hidden-in-plain-sight" id="post-1738">Hidden in Plain Sight</a></h1>
+                                                <h3>By Helene Ragovin</h3>
+                        <h2>VIDEO: Remco Chang uses visual analytics to puzzle out secrets from financial fraud to terrorism</h2>
+                        <p>The emerging field is a way of sorting through a sea of data to find patterns and outliers that might otherwise have gone undetected.</p>
+                                                            </div>
+                      </div>
+                    </div>
+                  <div class="row">
+                      <div class="cell">
+                        <div class="story storyleft">
+                        <h1><a href="http://tuftsjournal.tufts.edu/archives/1733/the-first-self-help-guide" id="post-1733">The First Self-Help Guide</a></h1>
+                                                <div class="thumbleft">
+                        <h3>By Helene Ragovin</h3>
+                        <h2>In his new book, psychiatrist Ronald Pies looks to the Talmud for lessons on how to become a mensch</h2>
+                        <p><em>Mensch</em> is the Yiddish term for a person worth admiring and emulating, says Pies.</p>
+                        </div>
+                        <div class="thumbright">
+                        <img src="http://tuftsjournal.tufts.edu/wp-content/files_flutter/1295039189FE_mensch_FP_small.jpg" />
+                        </div>
+                                                            </div>
+                      </div>
+                    </div>
+                    <div class="row last">
+                      <div class="cell">
+                        <div class="story storyleft">
+                            <h1><a href="http://tuftsjournal.tufts.edu/archives/1657/crude-awakening" id="post-1657">Crude Awakening</a></h1>
+                                          <h3>By Julie Flaherty</h3>
+                            <h2>What veterinarians are learning about rescuing wildlife trapped in our oily messes</h2>
+                            <p>On a sunny morning in mid-August, about 50 miles from the source of the Deepwater Horizon oil spill, a fishing boat commandeered for wildlife rescue edged up to a small island in Louisiana’s shallow Barataria Bay.</p>
+                                                                                </div>
+                      </div>
+                    </div>
+                </div>
+                <div class="cell cell1-of-3 noright">
+                  <div class="row">
+                      <div class="cell noright greenbg">
+                            <div class="story">
+                              <h4>People</h4>
+                            <h1><a href="http://tuftsjournal.tufts.edu/archives/1699/an-eye-for-detail" id="post-1699">An Eye for Detail</a></h1>
+                            <h3>By Marjorie Howard</h3>
+                            <h2>SLIDESHOW: On her daily photography excursions, Lynn Wiles finds beauty in the ordinary</h2>
+                            <p>At lunchtime, Wiles leaves the filing cabinets and computer screen in her office in Eaton Hall in search of a different view.</p>
+                                          <img src="http://tuftsjournal.tufts.edu/wp-content/files_flutter/1294327140FE_wiles_FP.jpg" class="peoplethumb" />
+                                                                                    </div>
+            </div>
+          </div>
+                    <div class="row last">
+                      <div class="cell noright">
+                            <div class="story">
+                            <h1><a href="http://tuftsjournal.tufts.edu/archives/1958/a-life-of-firsts" id="post-1958">A Life of Firsts</a></h1>
+                            <h3>By Laura Ferguson</h3>
+                            <h2>Temba Mudenda, D71, a pioneer in Zambian health care, comes back to Boston</h2>
+                            <p>Forty years ago, Mudenda graduated from Tufts School of Dental Medicine and embarked on a career his American classmates could not begin to imagine. He returned to his native Zambia to work as that African nation’s first dentist.</p>
+                                                                      </div>
+            </div>
+                    </div>                
+                </div>
+            </div>
+        </div>
+        <div id="sidebar">
+            <div class="module search ">
+<form action="http://www.tuftsjournal.com/search" id="cse-search-box">
+  <div>
+    <input type="hidden" name="cx" value="004046774823964071752:3xrb4zf90gu" />
+    <input type="hidden" name="cof" value="FORID:9" />
+    <input type="hidden" name="ie" value="UTF-8" />
+    <p><input type="text" name="q" id="searchtext" />
+    <input type="submit" name="sa" id="searchbutton" value="Go" />
+      <input type="radio" checked id="searchsite" /> <span id="searchsitecap">This site</span></p>
+  </div>
+</form></script>
+            </div>
+          <div class="module professor">
+              <h4>Ask The Professor</h4>
+                <div>
+                  <h2>You ask the questions</h2>
+                  <p>Tufts experts give the answers</p>
+                </div>
+                <div>
+                  <h2><a href="http://tuftsjournal.tufts.edu/archives/1757/will-eating-fruits-and-vegetables-prevent-cancers" id="post-1757">Will eating fruits and vegetables prevent cancers?</a></h2>
+                  <p>Fang Fang Zhang, an assistant professor at the Friedman School who specializes in nutritional influences on cancer risk, responds</p>
+                </div>
+                                    <div>
+                  <h2><a href="http://tuftsjournal.tufts.edu/archives/1567/antifreeze-pets-massachusetts" id="post-1567">Is antifreeze no longer a worry for pets in Massachusetts?</a></h2>
+                  <p>Mary Anna Labato, V83, clinical professor at the Cummings School, responds</p>
+                </div>
+                                </div>
+          <div class="module popular yellowbg">
+              <h4>From The Archives</h4>
+                <div>
+                  <h2><a href="http://tuftsjournal.tufts.edu/archives/1948/the-spark-of-revolt" id="post-1948">The Spark of Revolt</a></h2>
+                  <h3>February 16, 2011</h3>
+                </div>
+                                    <div>
+                  <h2><a href="http://tuftsjournal.tufts.edu/archives/1908/when-health-care-is-lost-in-translation" id="post-1908">When Health Care Is Lost in Translation</a></h2>
+                  <h3>February 16, 2011</h3>
+                </div>
+                                    <div>
+                  <h2><a href="http://tuftsjournal.tufts.edu/archives/1817/record-applications-for-fall" id="post-1817">Record Applications for Fall</a></h2>
+                  <h3>January 31, 2011</h3>
+                </div>
+                                    <div>
+                  <h2><a href="http://tuftsjournal.tufts.edu/archives/1723/dental-force" id="post-1723">Dental Force</a></h2>
+                  <h3>January 18, 2011</h3>
+                </div>
+                                    <div>
+                  <h2><a href="http://tuftsjournal.tufts.edu/archives/1730/rough-and-ready-vaccine" id="post-1730">Rough and Ready Vaccine</a></h2>
+                  <h3>January 18, 2011</h3>
+                </div>
+                                </div>
+            <div class="module notes greenbg">
+          <h2><a href="/people/notes">People Notes</a></h2>
+                    <h3 class="tag">Accomplishments from the Tufts community</h3>
+            </div>
+            <div class="module links last">
+              <a href="/calendar/">
+                  <div class="calendar">
+                        <h2>Calendar</h2>
+                        <p>Catch up with events at Tufts</p>
+                  </div>
+                </a>
+                <a href="/contact/">
+                <div class="contribute">  
+                        <h2>Contact Us</h2>
+                        <p>Send us your comments and story ideas</p>
+          </div>
+                </a>
+              <a href="/feed/">
+          <div class="feed">
+                        <h2>RSS</h2>
+                        <p>Keep up with our news via RSS</p>
+                    </div>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div id="footer">
+      <p>&copy; Copyright 2011 Tufts University</p>
+    </div>
+</div>
+</body>
+</html>

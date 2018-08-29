@@ -1,0 +1,299 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<title>
+         VHS, Vanderburgh Humane Society
+    </title>
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192" href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<link href="https://fonts.googleapis.com/css?family=Fira+Sans:400,400i,500,500i,700" rel="stylesheet">
+<script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-135786-35', 'auto');
+        ga('send', 'pageview');
+
+    </script>
+<link rel="icon" type="image/x-icon" href="/favicon.ico" />
+<link rel="stylesheet" href="/css/app.css" type="text/css" />
+</head>
+<body>
+<div id="wrapper">
+<div id="canvas">
+<div id="off-canvas-menu" class="medium-grey">
+<nav class="reverse">
+<ul class="no-bullet vert-nav">
+<li><a href="/" title="Home Page"><i class="fa fa-home"></i> Home</a></li>
+<li>
+<p>About</p>
+<ul class="medium-grey mobile-child mobile-child-menu">
+<li><a href="/about/our-history-mission" title="Our History &amp; Mission">Our History &amp; Mission</a></li>
+<li><a href="/about/meet-the-humans" title="Meet the Humans">Meet the Humans</a></li>
+<li><a href="/about/governance" title="Governance &amp; Financial Information">Governance &amp; Financial Information</a></li>
+<li><a href="/about/partner-agencies" title="Partner Agencies">Partner Agencies</a></li>
+<li><a href="/opportunities" title="Careers">Careers</a></li>
+<li><a href="/our-impact" title="Our Impact">Our Impact</a></li>
+<li><a href="/news" title="VHS News">VHS News</a></li>
+<li><a href="/blog" title="VHS Blog">VHS Blog</a></li>
+<li><a href="/contact" title="Contact Us">Contact Us</a></li>
+</ul>
+</li>
+<li>
+<p>Adopt</p>
+<ul class="medium-grey mobile-child mobile-child-menu">
+<li><a href="/adopt/the-adoption-process" title="The Adoption Process">The Adoption Process</a></li>
+<li><a href="/adopt/adoption-fees" title="Adoption Fees">Adoption Fees</a></li>
+<li><a href="/adopt/adoptable-dogs" title="Adoptable Dogs">Adoptable Dogs</a></li>
+<li><a href="/adopt/adoptable-cats" title="Adoptable Cats">Adoptable Cats</a></li>
+<li><a href="/adopt/adoptable-rabbits" title="Adoptable Rabbits">Adoptable Rabbits</a></li>
+<li><a href="/adopt/adoptable-other" title="Other Adoptable Animals">Other Adoptable Animals</a></li>
+<li><a href="/adopt/pets-for-seniors" title="Pets for Seniors">Pets for Seniors</a></li>
+<li><a href="/adopt/river-kitty-cat-cafe" title="River Kitty Cat Café">River Kitty Cat Café</a></li>
+</ul>
+</li>
+<li>
+<p>Spay &amp; Neuter Clinic</p>
+<ul class="medium-grey mobile-child mobile-child-menu">
+<li><a href="/clinic/our-services" title="Our Services">Our Services</a></li>
+<li><a href="/clinic/why-spay-neuter" title="Why Spay/Neuter?">Why Spay/Neuter?</a></li>
+<li><a href="/clinic/before-surgery" title="Before Surgery">Before Surgery</a></li>
+<li><a href="/clinic/after-surgery" title="After Surgery">After Surgery</a></li>
+<li><a href="/clinic/community-feral-cat-tnr" title="Community/Feral Cat TNR">Community/Feral Cat TNR</a></li>
+<li><a href="/clinic/low-cost-vaccine-clinic" title="Low-Cost Vaccine Clinic">Low-Cost Vaccine Clinic</a></li>
+<li><a href="/clinic/microchipping" title="Microchipping">Microchipping</a></li>
+<li><a href="/clinic/appointment" title="Request an Appointment">Request an Appointment</a></li>
+<li><a href="/clinic/meet-the-team" title="Meet the Team">Meet the Team</a></li>
+</ul>
+</li>
+<li>
+<p>Get Involved</p>
+<ul class="medium-grey mobile-child mobile-child-menu">
+<li><a href="/get-involved/foster" title="Foster">Foster</a></li>
+<li><a href="/get-involved/volunteer" title="Volunteer">Volunteer</a></li>
+<li><a href="/get-involved/special-events" title="Special Events">Special Events</a></li>
+<li><a href="/get-involved/happy-tails-resale-shop" title="Happy Tails Resale Shop">Happy Tails Resale Shop</a></li>
+<li><a href="/get-involved/cardio-for-canines" title="Cardio for Canines">Cardio for Canines</a></li>
+<li><a href="/get-involved/planned-giving" title="Planned Giving">Planned Giving</a></li>
+</ul>
+</li>
+<li>
+<p>Get Help</p>
+<ul class="medium-grey mobile-child mobile-child-menu">
+<li><a href="/get-help/lostfound" title="Lost &amp; Found Pets">Lost &amp; Found Pets</a></li>
+<li><a href="/surrenders" title="Surrenders">Surrenders</a></li>
+<li><a href="/get-help/spayneuterassistance" title="Spay/Neuter Assistance">Spay/Neuter Assistance</a></li>
+<li><a href="/get-help/foodassistance" title="Emergency Pet Food Assistance">Emergency Pet Food Assistance</a></li>
+<li><a href="/get-help/domesticviolence" title="Safe Pets Domestic Violence Program">Safe Pets Domestic Violence Program</a></li>
+<li><a href="/get-help/vet-listing" title="Veterinarian Listing">Veterinarian Listing</a></li>
+<li><a href="/get-help/behavior-tips" title="Behavior Tips">Behavior Tips</a></li>
+<li><a href="/get-help/end-of-life" title="End-of-Life Services">End-of-Life Services</a></li>
+</ul>
+</li>
+<li>
+<p>Humane Education</p>
+<ul class="medium-grey mobile-child mobile-child-menu">
+<li><a href="/humane-education/tours" title="Tours &amp; Education Outreach">Tours &amp; Education Outreach</a></li>
+<li><a href="/humane-education/for-parents" title="For Parents">For Parents</a></li>
+<li><a href="/humane-education/for-teachers" title="For Teachers">For Teachers</a></li>
+</ul>
+</li>
+<li>
+<p>Ways to Donate</p>
+<ul class="medium-grey mobile-child mobile-child-menu">
+<li><a href="/ways-to-donate/make-a-gift" title="Make a Gift">Make a Gift</a></li>
+<li><a href="/ways-to-donate/planned-giving" title="Planned Giving">Planned Giving</a></li>
+<li><a href="/ways-to-donate/memorial" title="Memorial &amp; Honor Giving">Memorial &amp; Honor Giving</a></li>
+<li><a href="/ways-to-donate/in-kind-giving" title="In-Kind Giving">In-Kind Giving</a></li>
+<li><a href="/happy-tails-resale-shop" title="Happy Tails Resale Shop">Happy Tails Resale Shop</a></li>
+<li><a href="/ways-to-donate/other-ways" title="Other Ways to Help">Other Ways to Help</a></li>
+</ul>
+</li>
+</ul>
+</nav> </div>
+<div id="admin-nav" class="green show-for-small-up">
+<nav class="short reverse">
+<ul class="inline text-right utility-menu">
+<li><a href="https://www.volgistics.com/ex2/vicnet.dll?from=255725" target="_blank">Volunteer Login</a></li>
+<li><a href="/contact">Contact Us</a></li>
+</ul>
+</nav>
+</div> <div class="dark-grey nav-container">
+<header id="site-header" class="header reverse" aria-label="Site Header">
+<a href="/" aria-label="Link to home page"><img id="branding" src="/images/logo.svg" alt="VHS Logo" role="banner" /></a>
+<i class="fa fa-bars toggle-off-canvas-menu hide-for-large"></i>
+<a class="button ghost donate-header-button" href="/donate">Donate</a>
+<ul id="social" class="no-bullet">
+<li><a href="https://www.facebook.com/VanderburghHumaneSociety/" target="_blank"><i class="fa-2x fa fa-facebook-f"></i></a></li>
+<li><a href="https://twitter.com/vhslifesaver" target="_blank"><i class="fa-2x fa fa-twitter"></i></a></li>
+<li><a href="https://www.instagram.com/vhslifesaver/" target="_blank"><i class="fa fa-2x fa-instagram"></i></a></li>
+</ul>
+<div class="stats hide-for-small">
+<ul class="statistics">
+<li id="statNum1" class="stat-box">6</li>
+<li id="statNum2" class="stat-box">9</li>
+<li id="statNum3" class="stat-box">0</li>
+<li id="statNum4" class="stat-box">4</li>
+<li id="statNum5" class="stat-box">0</li>
+<li id="statTitle" class="stat-box stat-long">Total Spay/Neuter Surgeries</li>
+</ul>
+</div>
+</header>
+</div>
+<div id="main-nav" class="dark-grey show-for-large">
+<nav>
+<ul class="inline">
+<li><a href="/" title="Home Page"><i class="fa fa-home"></i></a></li>
+<li class="has-dropdown">
+<a href="#" title="About">About</a>
+<ul class="dark-grey dropdown">
+<li><a href="/about/our-history-mission" title="Our History &amp; Mission">Our History &amp; Mission</a></li>
+<li><a href="/about/meet-the-humans" title="Meet the Humans">Meet the Humans</a></li>
+<li><a href="/about/governance" title="Governance &amp; Financial Information">Governance &amp; Financial Information</a></li>
+<li><a href="/about/partner-agencies" title="Partner Agencies">Partner Agencies</a></li>
+<li><a href="/opportunities" title="Careers">Careers</a></li>
+<li><a href="/our-impact" title="Our Impact">Our Impact</a></li>
+<li><a href="/news" title="VHS News">VHS News</a></li>
+<li><a href="/blog" title="VHS Blog">VHS Blog</a></li>
+<li><a href="/contact" title="Contact Us">Contact Us</a></li>
+</ul>
+</li>
+<li class="has-dropdown">
+<a href="#" title="Adopt">Adopt</a>
+<ul class="dark-grey dropdown">
+<li><a href="/adopt/the-adoption-process" title="The Adoption Process">The Adoption Process</a></li>
+<li><a href="/adopt/adoption-fees" title="Adoption Fees">Adoption Fees</a></li>
+<li><a href="/adopt/adoptable-dogs" title="Adoptable Dogs">Adoptable Dogs</a></li>
+<li><a href="/adopt/adoptable-cats" title="Adoptable Cats">Adoptable Cats</a></li>
+<li><a href="/adopt/adoptable-rabbits" title="Adoptable Rabbits">Adoptable Rabbits</a></li>
+<li><a href="/adopt/adoptable-other" title="Other Adoptable Animals">Other Adoptable Animals</a></li>
+<li><a href="/adopt/pets-for-seniors" title="Pets for Seniors">Pets for Seniors</a></li>
+<li><a href="/adopt/river-kitty-cat-cafe" title="River Kitty Cat Café">River Kitty Cat Café</a></li>
+</ul>
+</li>
+<li class="has-dropdown">
+<a href="#" title="Spay &amp; Neuter Clinic">Spay &amp; Neuter Clinic</a>
+<ul class="dark-grey dropdown">
+<li><a href="/clinic/our-services" title="Our Services">Our Services</a></li>
+<li><a href="/clinic/why-spay-neuter" title="Why Spay/Neuter?">Why Spay/Neuter?</a></li>
+<li><a href="/clinic/before-surgery" title="Before Surgery">Before Surgery</a></li>
+<li><a href="/clinic/after-surgery" title="After Surgery">After Surgery</a></li>
+<li><a href="/clinic/community-feral-cat-tnr" title="Community/Feral Cat TNR">Community/Feral Cat TNR</a></li>
+<li><a href="/clinic/low-cost-vaccine-clinic" title="Low-Cost Vaccine Clinic">Low-Cost Vaccine Clinic</a></li>
+<li><a href="/clinic/microchipping" title="Microchipping">Microchipping</a></li>
+<li><a href="/clinic/appointment" title="Request an Appointment">Request an Appointment</a></li>
+<li><a href="/clinic/meet-the-team" title="Meet the Team">Meet the Team</a></li>
+</ul>
+</li>
+<li class="has-dropdown">
+<a href="#" title="Get Involved">Get Involved</a>
+<ul class="dark-grey dropdown">
+<li><a href="/get-involved/foster" title="Foster">Foster</a></li>
+<li><a href="/get-involved/volunteer" title="Volunteer">Volunteer</a></li>
+<li><a href="/get-involved/special-events" title="Special Events">Special Events</a></li>
+<li><a href="/get-involved/happy-tails-resale-shop" title="Happy Tails Resale Shop">Happy Tails Resale Shop</a></li>
+<li><a href="/get-involved/cardio-for-canines" title="Cardio for Canines">Cardio for Canines</a></li>
+<li><a href="/get-involved/planned-giving" title="Planned Giving">Planned Giving</a></li>
+</ul>
+</li>
+<li class="has-dropdown">
+<a href="#" title="Get Help">Get Help</a>
+<ul class="dark-grey dropdown">
+<li><a href="/get-help/lostfound" title="Lost &amp; Found Pets">Lost &amp; Found Pets</a></li>
+<li><a href="/surrenders" title="Surrenders">Surrenders</a></li>
+<li><a href="/get-help/spayneuterassistance" title="Spay/Neuter Assistance">Spay/Neuter Assistance</a></li>
+<li><a href="/get-help/foodassistance" title="Emergency Pet Food Assistance">Emergency Pet Food Assistance</a></li>
+<li><a href="/get-help/domesticviolence" title="Safe Pets Domestic Violence Program">Safe Pets Domestic Violence Program</a></li>
+<li><a href="/get-help/vet-listing" title="Veterinarian Listing">Veterinarian Listing</a></li>
+<li><a href="/get-help/behavior-tips" title="Behavior Tips">Behavior Tips</a></li>
+<li><a href="/get-help/end-of-life" title="End-of-Life Services">End-of-Life Services</a></li>
+</ul>
+</li>
+<li class="has-dropdown">
+<a href="#" title="Humane Education">Humane Education</a>
+<ul class="dark-grey dropdown">
+<li><a href="/humane-education/tours" title="Tours &amp; Education Outreach">Tours &amp; Education Outreach</a></li>
+<li><a href="/humane-education/for-parents" title="For Parents">For Parents</a></li>
+<li><a href="/humane-education/for-teachers" title="For Teachers">For Teachers</a></li>
+</ul>
+</li>
+<li class="has-dropdown">
+<a href="#" title="Ways to Donate">Ways to Donate</a>
+<ul class="dark-grey dropdown">
+<li><a href="/ways-to-donate/make-a-gift" title="Make a Gift">Make a Gift</a></li>
+<li><a href="/ways-to-donate/planned-giving" title="Planned Giving">Planned Giving</a></li>
+<li><a href="/ways-to-donate/memorial" title="Memorial &amp; Honor Giving">Memorial &amp; Honor Giving</a></li>
+<li><a href="/ways-to-donate/in-kind-giving" title="In-Kind Giving">In-Kind Giving</a></li>
+<li><a href="/happy-tails-resale-shop" title="Happy Tails Resale Shop">Happy Tails Resale Shop</a></li>
+<li><a href="/ways-to-donate/other-ways" title="Other Ways to Help">Other Ways to Help</a></li>
+</ul>
+</li>
+</ul>
+<a id="Donate-Tag" href="/donate" title="Donate Form"><img src="/images/dog-tag.png" alt="Donate Dog Tag Image"></a>
+</nav>
+</div>
+<script type="text/javascript">
+
+
+</script>
+<main><section class="section"><h1>Page Not Found</h1><p>Hopefully you can use the menu above to find what you were looking for, but if you can't, feel free to <a href="/contact">contact us</a> and we can get you back on the right path!</p></section></main> <div class="green">
+<section class="medium reverse section text-center">
+<p class="kill-margins">VHS eNews <a href="/newsletter" class="small ghost button"><i class="fa fa-envelope"></i> Sign Up Today</a></p>
+</section>
+</div>
+<footer class="footer dark-grey">
+<div id="upper-footer">
+<a href="/" aria-label="Link to home page"><img id="branding" src="/images/logo.svg" alt="VHS Logo" role="banner" /></a>
+<ul id="address" class="no-bullet">
+<li class="footer-location">
+<strong>Location:</strong><br />
+400 Millner Industrial Drive<br />
+Evansville, IN 47710
+</li>
+<li>
+<strong>Mailing:</strong><br />
+PO Box 6711<br />
+Evansville, IN 47719
+</li>
+</ul>
+<a href="https://www.eisforeveryone.com" target="_blank"><img id="eisforeveryone" src="/images/eisforeveryone.png" alt="E is for Everyone" role="banner" /></a>
+<a href="http://shelteranimalscount.org" target="_blank"><img id="sheltercount" src="/images/badge.png" alt="Animal Shelter Count"></a>
+<ul id="social" class="no-bullet">
+<li><a href="https://www.facebook.com/VanderburghHumaneSociety/" target="_blank"><i class="fa-2x fa fa-facebook-f"></i></a></li>
+<li><a href="https://twitter.com/vhslifesaver" target="_blank"><i class="fa-2x fa fa-twitter"></i></a></li>
+<li><a href="https://www.instagram.com/vhslifesaver/" target="_blank"><i class="fa fa-2x fa-instagram"></i></a></li>
+</ul>
+</div>
+<div id="lower-footer">
+<a href="/donate" class="primary small button"><i class="fa fa-heart"></i>Be a Lifesaver! Donate Today</a>
+<ul>
+<li>Site by <a href="https://www.grayloon.com" target="_blank" title="Gray Loon Marketing Group">Gray Loon Marketing Group</a></li>
+<li>&copy;2018 Vanderburgh Humane Society</li>
+<li><a href="/privacy-policy" title="Privacy Policy">Privacy Policy</a> &amp; <a href="/about/governance">Terms of Use</a> </li>
+</ul>
+</div>
+</footer> </div>
+</div>
+<a href="#" class="back-to-top"><i class="fa fa-chevron-up"></i></a>
+<script type="text/javascript" src="/js/prod/app.js"></script>
+</body>
+</html>

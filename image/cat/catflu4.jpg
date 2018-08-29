@@ -1,0 +1,584 @@
+<!DOCTYPE html>
+<html lang="en-US" prefix="og: http://ogp.me/ns#">
+<head>
+
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="pingback" href="http://www.catloversvet.com/xmlrpc.php">
+
+<title>Cat Lovers Vet</title>
+
+<!-- This site is optimized with the Yoast SEO plugin v8.1 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="A site dedicated to cats"/>
+<link rel="canonical" href="http://www.catloversvet.com/" />
+<link rel="next" href="http://www.catloversvet.com/page/2/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Cat Lovers Vet" />
+<meta property="og:description" content="A site dedicated to cats" />
+<meta property="og:url" content="http://www.catloversvet.com/" />
+<meta property="og:site_name" content="Cat Lovers Vet" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:description" content="A site dedicated to cats" />
+<meta name="twitter:title" content="Cat Lovers Vet" />
+<script type='application/ld+json'>{"@context":"https:\/\/schema.org","@type":"WebSite","@id":"#website","url":"http:\/\/www.catloversvet.com\/","name":"Cat Lovers Vet","potentialAction":{"@type":"SearchAction","target":"http:\/\/www.catloversvet.com\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Cat Lovers Vet &raquo; Feed" href="http://www.catloversvet.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Cat Lovers Vet &raquo; Comments Feed" href="http://www.catloversvet.com/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.catloversvet.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.8"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='pt-css-css'  href='http://www.catloversvet.com/wp-content/themes/decode/style.css?ver=4.9.8' type='text/css' media='all' />
+<link rel='stylesheet' id='decode-icomoon-css'  href='http://www.catloversvet.com/wp-content/themes/decode/assets/icomoon.css?ver=3.0.7' type='text/css' media='all' />
+<link rel='stylesheet' id='decode-style-css'  href='http://www.catloversvet.com/wp-content/themes/decode_child/style.css?ver=3.0.7' type='text/css' media='all' />
+<link rel='stylesheet' id='decode-font-stylesheet-css'  href='//fonts.googleapis.com/css?family=Oxygen&#038;ver=4.9.8' type='text/css' media='all' />
+<link rel='https://api.w.org/' href='http://www.catloversvet.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.catloversvet.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.catloversvet.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.9.8" />
+
+		<!-- Decode Custom Colors CSS -->
+
+		<style type="text/css">
+
+			
+			@media (min-width: 68.5em) {
+
+				.site-main {
+					max-width: none;
+				}
+
+			
+			}
+
+		</style>
+
+		</head>
+
+<body class="home blog sidebar-style-closing sidebar-style-left">
+	
+<div id="page" class="hfeed site">
+	
+	<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+	
+				
+				<button id="sidebar-link" class="sidebar-link SidebarLink left" title="Show sidebar">
+				<svg width="100%" height="100%" viewBox="0 0 240 200" version="1.1" xmlns="http://www.w3.org/2000/svg">
+					<g class="menu-icon" fill-rule="evenodd">
+						<path d="M0,160 L0,200 L240,200 L240,160 L0,160 Z M0,160"></path>
+						<path d="M0,80 L0,120 L240,120 L240,80 L0,80 Z M0,80"></path>
+						<path d="M0,0 L0,40 L240,40 L240,0 L0,0 Z M0,0"></path>
+					</g>
+				</svg>
+			</button>
+					<header id="masthead" class="site-header" role="banner" style="background-position: center center; background-attachment: fixed; -webkit-background-size: cover; -moz-background-size: cover; -ms-background-size: cover; background-size: cover;">
+		
+				
+		<div class="site-branding">
+				
+											
+						
+				<h1 class="site-title">
+				<a href="http://www.catloversvet.com/" title="Cat Lovers Vet" rel="home">Cat Lovers Vet</a>
+				</h1>
+						
+											<h2 class="site-description">A site dedicated to cats</h2>
+										
+		</div><!-- .site-branding -->
+		
+		
+		<div id="header-menu" class="menu horizontal-menu header-menu"><ul>
+<li class="page_item page-item-3"><a href="http://www.catloversvet.com/about/">About</a></li>
+<li class="page_item page-item-25"><a href="http://www.catloversvet.com/cat-trees/">Cat Trees</a></li>
+<li class="page_item page-item-4"><a href="http://www.catloversvet.com/contact/">Contact</a></li>
+<li class="page_item page-item-5"><a href="http://www.catloversvet.com/privacy/">Privacy</a></li>
+</ul></div>
+		
+				
+	</header><!-- #masthead -->
+	
+			
+		
+	<div id="content" class="site-content ">
+		<section id="primary" class="content-area">
+
+	<main id="main" class="site-main" role="main">
+
+	
+		
+					
+	<article id="post-10" class="post-10 post type-post status-publish format-standard sticky hentry category-main archive-listings">
+		
+	<header class="entry-header">
+					<h2 class="entry-title"><a href="http://www.catloversvet.com/indoors-or-outdoors-what-is-best-for-your-pet/" rel="bookmark">Indoors Or Outdoors: What is Best For Your Pet</a></h2>			</header><!-- .entry-header -->
+	
+	<div class="entry-content">
+		<p>Inside your home Or Outdoors: Exactly what is Best For Your Animal</p>
+<p><iframe src="http://www.youtube.com/embed/s0HugeSU0TE" width="420" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<p><i>Before you handle the obligation of owning a feline or pet, you need to take the time to consider the living plans for your animal.</i> Many people embrace pets with the idea that they will be raising an outdoor animal. The number of people in your area keep their dogs or feline&#8217;s outdoors at all times? The reality of the matter is, outside is not a safe location for a feline or a pet dog. When you embrace an animal, you have to ensure that you are ready to permit your animal into your home.</p>
+<p>Pets Love Being Outside<br />
+It is true that cats and pet dogs both will like being outdoors, it is their natural environment. Felines enjoy chasing after birds, climbing trees, and concealing in shrubs. Dogs adore barking at the neighbors, chasing squirrels, and digging. However, there are many dangers to keeping your pet outside at all times. Pets have the tendency to get more outdoors time in cats. Owners take their canines out for walks, and in many cases allow their pets, not being watched access to the backyard from time to time. Cats are generally either indoor family pets or outside animals.</p>
+<p>It is more typical nowadays, for owners to keep their cats inside as they begin to recognize the dangers of allowing their feline to live outdoors at all time. It is highly suggested that you keep your felines and pet dogs inside. For felines, you can help them explore their natural impulses inside by providing them a lot of locations to run and play inside your home. Buy your feline an excellent scratching post with a high perch and install a window seat so they can look at the birds outdoors.</p>
+<p>Threats of Outdoors<br />
+The number one threat to your animals when they go outside is other animals. You never know when your dog or cat will come across a roaming or strange feline or canine from down the street. You understand that your animal is properly vaccinated, but you do not know that health condition of other animals outside. In addition, if your pet or feline enters a fight with another animal. Your family pet can be seriously injured or harmed. Unless you monitor your pet at all times when they are outside, you never ever understand when your cat or canine will experience a strange animal.</p>
+<p>Other risks of permitting your animal to live outdoors are vehicles and other people. A feline darting throughout the street late in the evening is a recipe for disaster. Exactly what if your pet dog gets loose from your lawn and comes across a child? How will your canine respond? You hope that your pet will be great and remain friendly. However, what happens if the child starts to taunt or tease your canine or poke a stick at him? If your canine bites or scratches another individual, opportunities are, you will be accountable for your animal&#8217;s actions. Many family pet owners have found themselves in a major circumstance when their pet dog or cat has actually acted aggressively when outdoors.</p>
+<p>When your feline or canine remains indoors, you can likewise assist control fleas, ticks, and the exposure to heartworms. This is not to say that you ought to not deal with an indoor animal for these issues. All canines, whether the occasion indoors or outdoors, must be on a monthly heartworm preventative. Both felines and pet dogs must likewise be treated with regular monthly preventative. It is necessary to remember though, if your cat or dog lives outdoors, you will have many more problems when it pertains to fleas and ticks.</p>
+<p>As you can see, there are numerous reasons you need to keep your dog or cat inside. Pets that are indoor animals live longer and healthier lives than animals that live outside. This consists of all family pets, as soon as you make them an indoor animal; you have to secure them from anything that may occur if they get outdoors, they now depend on you to offer a home for them.</p>
+<p>PPPPP</p>
+<p>Word Count 654</p>
+	</div><!-- .entry-content -->
+	
+		
+	<footer class="entry-footer">
+									<div class="comments-link" data-customizer="leave-a-comment">
+					<a href="http://www.catloversvet.com/indoors-or-outdoors-what-is-best-for-your-pet/#respond">Leave a comment</a>				</div>
+							
+				
+		<div class="entry-meta">
+													<p class="date"><span class="posted-on"><a href="http://www.catloversvet.com/indoors-or-outdoors-what-is-best-for-your-pet/" rel="bookmark"><i class="icon-calendar"></i><time class="entry-date published" datetime="2016-06-20T16:52:33+00:00">June 20, 2016</time><time class="updated screen-reader-text" datetime="2016-12-13T18:30:47+00:00">December 13, 2016</time></a></span><span class="byline"> <span class="author vcard"><a class="url fn n" href="http://www.catloversvet.com/author/webmaster/"><i class="icon-user"></i>Lisa Hernandez</a></span></span><span clas="post-comments"><a href="http://www.catloversvet.com/indoors-or-outdoors-what-is-best-for-your-pet/#respond"><i class="icon-comment"></i>No Comments</a></span></p>
+					</div>
+	</footer><!-- .entry-footer -->
+	
+	</article><!-- #post-10 -->
+						
+	<article id="post-7" class="post-7 post type-post status-publish format-standard sticky hentry category-cat-trees tag-cat-scratching-post tag-cat-trees archive-listings">
+		
+	<header class="entry-header">
+					<h2 class="entry-title"><a href="http://www.catloversvet.com/new-cat-tree-site-launch/" rel="bookmark">New Cat Tree Site About To Launch!</a></h2>			</header><!-- .entry-header -->
+	
+	<div class="entry-content">
+		<p><a href="http://www.catloversvet.com">Cat Lovers Vet</a> is launching a new great site that is dedicated to information on cat trees and cat scratching posts. While you wait for us to get up and running, checkout this video buy the guys over at <a href="https://www.catniptoys.com/">Cat Nip Toys</a> with an overview of some great cat trees they have for sale:</p>
+<p><iframe src="https://www.youtube.com/embed/9H2-F265K8Q?rel=0&amp;showinfo=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+	</div><!-- .entry-content -->
+	
+		
+	<footer class="entry-footer">
+				
+				
+		<div class="entry-meta">
+													<p class="date"><span class="posted-on"><a href="http://www.catloversvet.com/new-cat-tree-site-launch/" rel="bookmark"><i class="icon-calendar"></i><time class="entry-date published" datetime="2016-06-08T17:21:00+00:00">June 8, 2016</time><time class="updated screen-reader-text" datetime="2017-05-04T16:00:32+00:00">May 4, 2017</time></a></span><span class="byline"> <span class="author vcard"><a class="url fn n" href="http://www.catloversvet.com/author/webmaster/"><i class="icon-user"></i>Lisa Hernandez</a></span></span><span clas="post-comments"><i class="icon-comment"></i>Comments are off for this post.</span></p>
+					</div>
+	</footer><!-- .entry-footer -->
+	
+	</article><!-- #post-7 -->
+						
+	<article id="post-557" class="post-557 post type-post status-publish format-standard hentry category-cat-trees archive-listings">
+		
+	<header class="entry-header">
+					<h2 class="entry-title"><a href="http://www.catloversvet.com/tectake-high-quality-cat-tree/" rel="bookmark">TecTake &#8211; High Quality Cat tree</a></h2>			</header><!-- .entry-header -->
+	
+	<div class="entry-content">
+		<p>TecTake &#8211; High Quality Cat tree<br />
+<iframe width="480" height="270" src="//www.youtube.com/embed/dwrsKY4w5j4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe><br />
+Online Shop:<br />
+http://www.amazon.co.uk/TecTake-Scratcher-Activity-Center-Quality/dp/B00GX7SMK4/ref=sr_1_1?ie=UTF8&#038;qid=1447841809&#038;sr=8-1&#038;keywords=400929+tectake</p>
+<p>Scratching post from the TecTake company at a bargain price &#8211; new and in original packaging.</p>
+<p>Product features:</p>
+<p>2 cat houses with plush covers for your cats to relax in<br />
+Multiple levels<br />
+4 toy mice with elastic cords<br />
+3 viewing platforms for your cat to lie on and relax<br />
+Very good workmanship and a solid construction</p>
+<p>Component measurements:</p>
+<p>Total measurements: ca. 75 x 62 x 170 cm (LxWxH)<br />
+Baseplate: ca. 50 x 50 cm<br />
+House1 (height of 40 cm) : ca. 45 x 28 x 25 cm &#8211; entrance: 19 x 17 cm + 20 x 17 cm<br />
+House2 (height of 100 cm) : ca. 28 x 28 x 25 cm &#8211; entrance: 20 x 17 + 16 x 17 cm<br />
+Platforms: 27 x 27 x 7 cm</p>
+<p>Heights:</p>
+<p>Level1 at ca. 50 cm<br />
+Level2 at ca. 100 cm<br />
+Platforms at 140 cm and 164 cm</p>
+<p>2 steps: 42 x 20 cm<br />
+Diameter of scratching post: ca. 7 cm<br />
+Weight: 21 kg</p>
+<p>Scope of delivery:</p>
+<p>1 scratching post as pictured<br />
+2 cat houses<br />
+2 steps<br />
+4 toy mice<br />
+1 illustrated assemblage instructions + mounting material </p>
+<p>http://www.tectake.de<br />
+http://www.tectake.it<br />
+http://www.tectake.fr<br />
+http://www.tectake.ch<br />
+http://www.tectake.nl<br />
+http://www.tectake.dk<br />
+http://www.tectake.cz</p>
+<p>http://www.amazon.co.uk<br />
+http://www.amazon.es<br />
+http://www.amazon.de<br />
+http://www.amazon.it</p>
+<p>http://www.Rakuten.de</p>
+<p>http://www.ebay.at<br />
+http://www.ebay.ch<br />
+http://www.ebay.at<br />
+http://www.ebay.fr<br />
+http://www.ebay.be<br />
+http://www.ebay.it<br />
+http://www.ebay.nl<br />
+http://www.ebay.co.uk<br />
+http://www.ebay.es</p>
+	</div><!-- .entry-content -->
+	
+		
+	<footer class="entry-footer">
+				
+				
+		<div class="entry-meta">
+													<p class="date"><span class="posted-on"><a href="http://www.catloversvet.com/tectake-high-quality-cat-tree/" rel="bookmark"><i class="icon-calendar"></i><time class="entry-date published updated" datetime="2018-03-23T10:31:37+00:00">March 23, 2018</time></a></span><span class="byline"> <span class="author vcard"><a class="url fn n" href="http://www.catloversvet.com/author/webmaster/"><i class="icon-user"></i>Lisa Hernandez</a></span></span><span clas="post-comments"><i class="icon-comment"></i>Comments are off for this post.</span></p>
+					</div>
+	</footer><!-- .entry-footer -->
+	
+	</article><!-- #post-557 -->
+						
+	<article id="post-556" class="post-556 post type-post status-publish format-standard hentry category-cat-trees archive-listings">
+		
+	<header class="entry-header">
+					<h2 class="entry-title"><a href="http://www.catloversvet.com/large-cat-tree-and-large-cat-furniture-factory-direct/" rel="bookmark">Large Cat Tree and Large Cat Furniture factory direct</a></h2>			</header><!-- .entry-header -->
+	
+	<div class="entry-content">
+		<p>Large Cat Tree and Large Cat Furniture factory direct<br />
+<iframe width="480" height="360" src="//www.youtube.com/embed/DLvhRuoghoA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe><br />
+Large Cat Trees and Large Cat Furniture from factory at cattree-factory.com</p>
+	</div><!-- .entry-content -->
+	
+		
+	<footer class="entry-footer">
+				
+				
+		<div class="entry-meta">
+													<p class="date"><span class="posted-on"><a href="http://www.catloversvet.com/large-cat-tree-and-large-cat-furniture-factory-direct/" rel="bookmark"><i class="icon-calendar"></i><time class="entry-date published updated" datetime="2018-03-22T09:45:21+00:00">March 22, 2018</time></a></span><span class="byline"> <span class="author vcard"><a class="url fn n" href="http://www.catloversvet.com/author/webmaster/"><i class="icon-user"></i>Lisa Hernandez</a></span></span><span clas="post-comments"><i class="icon-comment"></i>Comments are off for this post.</span></p>
+					</div>
+	</footer><!-- .entry-footer -->
+	
+	</article><!-- #post-556 -->
+						
+	<article id="post-554" class="post-554 post type-post status-publish format-standard hentry category-cat-trees archive-listings">
+		
+	<header class="entry-header">
+					<h2 class="entry-title"><a href="http://www.catloversvet.com/the-best-cat-tree-prank-vs-prank-kickstarter-video/" rel="bookmark">The Best Cat Tree &#8211; Prank VS Prank Kickstarter Video</a></h2>			</header><!-- .entry-header -->
+	
+	<div class="entry-content">
+		<p>The Best Cat Tree &#8211; Prank VS Prank Kickstarter Video<br />
+<iframe width="480" height="270" src="//www.youtube.com/embed/Ra7wCn7iaNk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe><br />
+If you want to get this cat tree or help in any way please visit this link =) thank you!</p>
+<p><iframe src="https://www.kickstarter.com/projects/chrisochoa/nw-cat-furniture-the-best-cat-tree/widget/card.html?v=2" width="220" height="420" frameborder="0" scrolling="no"></iframe></p>
+<p>The Prank VS Prank cat tree with few upgrades.</p>
+	</div><!-- .entry-content -->
+	
+		
+	<footer class="entry-footer">
+				
+				
+		<div class="entry-meta">
+													<p class="date"><span class="posted-on"><a href="http://www.catloversvet.com/the-best-cat-tree-prank-vs-prank-kickstarter-video/" rel="bookmark"><i class="icon-calendar"></i><time class="entry-date published updated" datetime="2018-03-21T07:08:26+00:00">March 21, 2018</time></a></span><span class="byline"> <span class="author vcard"><a class="url fn n" href="http://www.catloversvet.com/author/webmaster/"><i class="icon-user"></i>Lisa Hernandez</a></span></span><span clas="post-comments"><i class="icon-comment"></i>Comments are off for this post.</span></p>
+					</div>
+	</footer><!-- .entry-footer -->
+	
+	</article><!-- #post-554 -->
+						
+	<article id="post-553" class="post-553 post type-post status-publish format-standard hentry category-cat-trees archive-listings">
+		
+	<header class="entry-header">
+					<h2 class="entry-title"><a href="http://www.catloversvet.com/wildwood-lair-fantasy-cat-tree/" rel="bookmark">~Wildwood Lair~ Fantasy Cat Tree</a></h2>			</header><!-- .entry-header -->
+	
+	<div class="entry-content">
+		<p>~Wildwood Lair~ Fantasy Cat Tree<br />
+<iframe width="480" height="360" src="//www.youtube.com/embed/jaayAfIWmmw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe><br />
+Paisley and Lil&#8217; Eight playing on their Fantasy Cat Tree.<br />
+Cat Trees for Large Cats at www.aHiddenHollow.com</p>
+	</div><!-- .entry-content -->
+	
+		
+	<footer class="entry-footer">
+				
+				
+		<div class="entry-meta">
+													<p class="date"><span class="posted-on"><a href="http://www.catloversvet.com/wildwood-lair-fantasy-cat-tree/" rel="bookmark"><i class="icon-calendar"></i><time class="entry-date published updated" datetime="2018-03-20T06:36:11+00:00">March 20, 2018</time></a></span><span class="byline"> <span class="author vcard"><a class="url fn n" href="http://www.catloversvet.com/author/webmaster/"><i class="icon-user"></i>Lisa Hernandez</a></span></span><span clas="post-comments"><i class="icon-comment"></i>Comments are off for this post.</span></p>
+					</div>
+	</footer><!-- .entry-footer -->
+	
+	</article><!-- #post-553 -->
+						
+	<article id="post-552" class="post-552 post type-post status-publish format-standard hentry category-cat-trees archive-listings">
+		
+	<header class="entry-header">
+					<h2 class="entry-title"><a href="http://www.catloversvet.com/new-cat-tree-2/" rel="bookmark">NEW CAT TREE!!</a></h2>			</header><!-- .entry-header -->
+	
+	<div class="entry-content">
+		<p>NEW CAT TREE!!<br />
+<iframe width="480" height="270" src="//www.youtube.com/embed/d0Yz2W8VFtw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe><br />
+CHECK OUT ZEUS&#8217;S FACEBOOK PAGE FOR NEW AND UNSEEN VIDEOS!! https://www.facebook.com/ZeusTheServal</p>
+<p>DONT FORGET TO SUBSCRIBE! xox<br />
+NEW VIDEOS Every THURSDAY 10am!</p>
+<p>They love their new cat tree!! Hera is a beautiful F3 Savannah cat.  Triton is a beautiful seal lynx point snow bengal. They are so adorable and so in love!!</p>
+	</div><!-- .entry-content -->
+	
+		
+	<footer class="entry-footer">
+				
+				
+		<div class="entry-meta">
+													<p class="date"><span class="posted-on"><a href="http://www.catloversvet.com/new-cat-tree-2/" rel="bookmark"><i class="icon-calendar"></i><time class="entry-date published updated" datetime="2018-03-19T02:00:07+00:00">March 19, 2018</time></a></span><span class="byline"> <span class="author vcard"><a class="url fn n" href="http://www.catloversvet.com/author/webmaster/"><i class="icon-user"></i>Lisa Hernandez</a></span></span><span clas="post-comments"><i class="icon-comment"></i>Comments are off for this post.</span></p>
+					</div>
+	</footer><!-- .entry-footer -->
+	
+	</article><!-- #post-552 -->
+						
+	<article id="post-551" class="post-551 post type-post status-publish format-standard hentry category-cat-trees archive-listings">
+		
+	<header class="entry-header">
+					<h2 class="entry-title"><a href="http://www.catloversvet.com/modern-designed-cat-tree-from-petpals-group/" rel="bookmark">Modern Designed Cat Tree from PetPals Group</a></h2>			</header><!-- .entry-header -->
+	
+	<div class="entry-content">
+		<p>Modern Designed Cat Tree from PetPals Group<br />
+<iframe width="480" height="270" src="//www.youtube.com/embed/2qcLoWzvZ1c" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe><br />
+PetPals wood three level cat tree with chocolate and ivory covered perches. Sisal scratching post, with interactive racing toys, and teasing toys for extra fun! For when it&#8217;s time to play, this three level cat tree comes with a two soft fleece lined perches, hanging ball toy with an interactive cat faces perch to provide hours of fun! Also, includes sisal post for when the urge to scratch strikes!</p>
+	</div><!-- .entry-content -->
+	
+		
+	<footer class="entry-footer">
+				
+				
+		<div class="entry-meta">
+													<p class="date"><span class="posted-on"><a href="http://www.catloversvet.com/modern-designed-cat-tree-from-petpals-group/" rel="bookmark"><i class="icon-calendar"></i><time class="entry-date published updated" datetime="2018-03-18T02:32:03+00:00">March 18, 2018</time></a></span><span class="byline"> <span class="author vcard"><a class="url fn n" href="http://www.catloversvet.com/author/webmaster/"><i class="icon-user"></i>Lisa Hernandez</a></span></span><span clas="post-comments"><i class="icon-comment"></i>Comments are off for this post.</span></p>
+					</div>
+	</footer><!-- .entry-footer -->
+	
+	</article><!-- #post-551 -->
+						
+	<article id="post-546" class="post-546 post type-post status-publish format-standard hentry category-cat-trees archive-listings">
+		
+	<header class="entry-header">
+					<h2 class="entry-title"><a href="http://www.catloversvet.com/making-a-cat-tree-part-2-of-2/" rel="bookmark">Making A Cat Tree (part 2 of 2)</a></h2>			</header><!-- .entry-header -->
+	
+	<div class="entry-content">
+		<p>Making A Cat Tree (part 2 of 2)<br />
+<iframe width="480" height="270" src="//www.youtube.com/embed/b3yF_ttMSO8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe><br />
+Here&#8217;s a cat tree I made using a salvaged log, some pallet wood, a small piece of kitchen worktop and some scraps.</p>
+<p>Part 2 covers finishing off the cat enclosure and making the shelves.</p>
+<p>I sold the cat tree on eBay to a local buyer</p>
+<p>Thanks for watching! Please subscribe!</p>
+<p>http://www.ragnbonebrown.com<br />
+http://www.etsy.com/uk/shop/ragnbonebrown/<br />
+http://www.facebook.com/ragnbonebrown<br />
+<a class="twitter-timeline" data-width="792" data-height="1000" data-dnt="true" href="https://twitter.com/ragnbonebrown?ref_src=twsrc%5Etfw">Tweets by ragnbonebrown</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>Email: ragnbonebrown@gmail.com</p>
+	</div><!-- .entry-content -->
+	
+		
+	<footer class="entry-footer">
+				
+				
+		<div class="entry-meta">
+													<p class="date"><span class="posted-on"><a href="http://www.catloversvet.com/making-a-cat-tree-part-2-of-2/" rel="bookmark"><i class="icon-calendar"></i><time class="entry-date published updated" datetime="2018-03-16T21:49:59+00:00">March 16, 2018</time></a></span><span class="byline"> <span class="author vcard"><a class="url fn n" href="http://www.catloversvet.com/author/webmaster/"><i class="icon-user"></i>Lisa Hernandez</a></span></span><span clas="post-comments"><i class="icon-comment"></i>Comments are off for this post.</span></p>
+					</div>
+	</footer><!-- .entry-footer -->
+	
+	</article><!-- #post-546 -->
+						
+	<article id="post-544" class="post-544 post type-post status-publish format-standard hentry category-cat-trees archive-listings">
+		
+	<header class="entry-header">
+					<h2 class="entry-title"><a href="http://www.catloversvet.com/cat-power-tower-modern-cat-tree-review-update-almost-2-years-later-%e3%81%ad%e3%81%93-%e3%83%a9%e3%82%b0%e3%83%89%e3%83%bc%e3%83%ab-floppycats/" rel="bookmark">Cat Power Tower Modern Cat Tree Review &#8211; Update Almost 2 Years Later &#8211; ねこ &#8211; ラグドール &#8211; Floppycats</a></h2>			</header><!-- .entry-header -->
+	
+	<div class="entry-content">
+		<p>Cat Power Tower Modern Cat Tree Review &#8211; Update Almost 2 Years Later &#8211; ねこ &#8211; ラグドール &#8211; Floppycats<br />
+<iframe width="480" height="270" src="//www.youtube.com/embed/XArx4ai4moY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe><br />
+Order on Cat Power Tower &#8211; Use Coupon Code &#8220;floppycats&#8221; to receive 10% Off your purchase: http://www.catpowertower.com/home.html</p>
+<p>Order on Amazon: http://amzn.to/16Gxuai</p>
+<p>Read our Cat Power Tower Review: http://www.floppycats.com/cat-power-tower-modern-cat-tree-review.html</p>
+<p>Arrival Video: Ragdoll Cats Receive Cat Power Tower Modern Cat Tree for Review &#8211; ねこ &#8211; ラグドール &#8211; Floppycats<br />
+<iframe width="792" height="446" src="https://www.youtube.com/embed/Ih_VCOYhndo?feature=oembed" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p>
+<p>You can see all of our product reviews at: http://www.floppycats.com/category/product-of-the-week</p>
+<p>Cat Power Tower (Natural) (72&#8243;H x 30&#8243;W x 30&#8243;D)</p>
+<p>The natural Cat Power Tower provides mental and physical stimulation for your furry cat friend by giving it a place to play, scratch and hunt. This cat tower has three separate levels that are perfect for lounging and leaping from height to height. With so much space, this cat tree is great for homes with multiple cats. The bottom level has round holes throughout the base, providing a place for your cat to stalk and hunt toys. The middle level provides access to the cylindrical scratching post, and the top level has access to the &#8220;bird carousal&#8221;. The carpet top of the highest level is removable, providing a storage place for cat toys. Also included is a double sided woven sisal scratching board. This sturdy cat furniture is made from solid hardwood, giving it excellent strength and durability. Assembly level/degree of difficulty: Easy.</p>
+<p>If you have any questions concerning the assembly when you do it watch this video: http://youtu.be/mmFI894RiZM</p>
+<p>One tip so you don&#8217;t make a mistake that a few people make. The top and the bottom of each of the three pedestals are different. The square pegs are a bit longer on one end than they are on the other end. The longer pegs mate with the LOWER crossbars and the shorter pegs mate with the UPPER crossbars. When you fit the upper crossbars onto the pedestal, the pegs should be flush with the crossbars. If the pegs stick past the crossbars, you have the wrong end of the pedestal. .</p>
+<p>Love Ragdolls? http://www.floppycats.com</p>
+<p>Learn more about Ragdoll Cats: http://www.floppycats.com/ragdoll-cat.html </p>
+<p>Product Reviews: http://www.floppycats.com/category/product-of-the-week </p>
+<p>Sign up for our newsletter: http://forms.aweber.com/form/95/115826795.htm</p>
+<p>Sign up for our daily blog posts: http://feedburner.google.com/fb/a/mailverify?uri=floppycats/mheS&#038;loc=en_US</p>
+<p>Do you have a Ragdoll Cat?  Submit your Ragdoll cat for Ragdoll of the Week on Floppycats.com, here are the guidelines:  http://www.floppycats.com/ragdoll-of-the-week.html </p>
+<p>Thinking of adopting a Ragdoll cat?  Check out our eBook A Ragdoll Kitten Care Guide: Bringing Your Ragdoll Kitten Home: http://www.floppycats.com/a-ragdoll-kitten-care-guide-bringing-your-ragdoll-kitten-home or watch our video on YouTube: http://www.youtube.com/watch?v=z9j9fo-CV2c </p>
+<p>Join Floppycats on Facebook: https://www.facebook.com/floppycats<br />
+Join Floppycats on Twitter: https://twitter.com/#!/floppycats<br />
+Join Floppycats on Flickr: http://www.flickr.com/photos/floppycats<br />
+Join Floppycats on Pinterest: http://pinterest.com/floppycats/<br />
+Join Floppycats on Google+: https://plus.google.com/100797224406736388062<br />
+Join Floppycats on YouTube: http://www.youtube.com/user/steiff1001</p>
+<p>Floppycats.com &#8211; Uniting Ragdoll Cat Lovers Worldwide #cat #cats #ragdollcat #ragdoll #floppycats</p>
+	</div><!-- .entry-content -->
+	
+		
+	<footer class="entry-footer">
+				
+				
+		<div class="entry-meta">
+													<p class="date"><span class="posted-on"><a href="http://www.catloversvet.com/cat-power-tower-modern-cat-tree-review-update-almost-2-years-later-%e3%81%ad%e3%81%93-%e3%83%a9%e3%82%b0%e3%83%89%e3%83%bc%e3%83%ab-floppycats/" rel="bookmark"><i class="icon-calendar"></i><time class="entry-date published updated" datetime="2018-03-15T21:06:22+00:00">March 15, 2018</time></a></span><span class="byline"> <span class="author vcard"><a class="url fn n" href="http://www.catloversvet.com/author/webmaster/"><i class="icon-user"></i>Lisa Hernandez</a></span></span><span clas="post-comments"><i class="icon-comment"></i>Comments are off for this post.</span></p>
+					</div>
+	</footer><!-- .entry-footer -->
+	
+	</article><!-- #post-544 -->
+						
+	<article id="post-543" class="post-543 post type-post status-publish format-standard hentry category-cat-trees archive-listings">
+		
+	<header class="entry-header">
+					<h2 class="entry-title"><a href="http://www.catloversvet.com/barcelona-cat-tree-by-kitty-mansions/" rel="bookmark">Barcelona Cat Tree by Kitty Mansions</a></h2>			</header><!-- .entry-header -->
+	
+	<div class="entry-content">
+		<p>Barcelona Cat Tree by Kitty Mansions<br />
+<iframe width="480" height="360" src="//www.youtube.com/embed/fu1LVIfqB4g" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe><br />
+Barcelona Cat Tree by Kitty Mansions.  Find this and other cat trees, cat furniture, and cat condos at www.kittymansions.com</p>
+	</div><!-- .entry-content -->
+	
+		
+	<footer class="entry-footer">
+				
+				
+		<div class="entry-meta">
+													<p class="date"><span class="posted-on"><a href="http://www.catloversvet.com/barcelona-cat-tree-by-kitty-mansions/" rel="bookmark"><i class="icon-calendar"></i><time class="entry-date published updated" datetime="2018-03-14T19:02:48+00:00">March 14, 2018</time></a></span><span class="byline"> <span class="author vcard"><a class="url fn n" href="http://www.catloversvet.com/author/webmaster/"><i class="icon-user"></i>Lisa Hernandez</a></span></span><span clas="post-comments"><i class="icon-comment"></i>Comments are off for this post.</span></p>
+					</div>
+	</footer><!-- .entry-footer -->
+	
+	</article><!-- #post-543 -->
+						
+	<article id="post-542" class="post-542 post type-post status-publish format-standard hentry category-cat-trees archive-listings">
+		
+	<header class="entry-header">
+					<h2 class="entry-title"><a href="http://www.catloversvet.com/ultimate-fantasy-cat-tree/" rel="bookmark">Ultimate Fantasy Cat Tree</a></h2>			</header><!-- .entry-header -->
+	
+	<div class="entry-content">
+		<p>Ultimate Fantasy Cat Tree<br />
+<iframe width="480" height="360" src="//www.youtube.com/embed/B3y4_i9oo1k" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe><br />
+Bring out your Kitties WILD Side.<br />
+Please visit us at www.aHiddenHollow.com</p>
+	</div><!-- .entry-content -->
+	
+		
+	<footer class="entry-footer">
+				
+				
+		<div class="entry-meta">
+													<p class="date"><span class="posted-on"><a href="http://www.catloversvet.com/ultimate-fantasy-cat-tree/" rel="bookmark"><i class="icon-calendar"></i><time class="entry-date published updated" datetime="2018-03-13T18:44:43+00:00">March 13, 2018</time></a></span><span class="byline"> <span class="author vcard"><a class="url fn n" href="http://www.catloversvet.com/author/webmaster/"><i class="icon-user"></i>Lisa Hernandez</a></span></span><span clas="post-comments"><i class="icon-comment"></i>Comments are off for this post.</span></p>
+					</div>
+	</footer><!-- .entry-footer -->
+	
+	</article><!-- #post-542 -->
+						
+	<nav class="navigation posts-navigation" role="navigation">
+
+		<h2 class="screen-reader-text">Posts navigation</h2>
+
+		<div class="nav-links">
+
+			
+			<div class="nav-previous"><a href="http://www.catloversvet.com/page/2/" >Older posts</a></div>
+
+			
+			
+		</div><!-- .nav-links -->
+
+	</nav><!-- .navigation -->
+
+		</main><!-- #main -->
+
+</section><!-- #primary -->
+
+
+	</div><!-- #content -->
+	
+	
+	<footer id="colophon" class="site-footer" role="contentinfo">
+	
+	
+		
+		<div class="theme-info">
+		<p><a href="https://www.machothemes.com/themes/decode/" rel="dofollow">Decode Theme</a> by <a href="https://www.machothemes.com/" rel="dofollow" title="Professional & Responsive WordPress Themes">Macho Themes</a></p>
+	</div><!-- .theme-info -->
+		
+	</footer><!-- #colophon -->
+	</div><!-- #page -->
+
+
+	
+<div id="sidebar" class="sidebar left">
+	<div id="sidebar-top" class="sidebar-top SidebarTop clearfix">
+		<button id="sidebar-close" class="sidebar-close SidebarClose" title="Hide sidebar">
+			<svg width="100%" height="100%" viewBox="0 0 200 200" version="1.1" xmlns="http://www.w3.org/2000/svg">
+			<path class="close-icon" d="M0,172.881356 L72.8813559,100 L1.0658141e-14,27.1186441 L27.1186441,-2.84217094e-14 L100,72.8813559 L172.881356,0 L200,27.1186441 L127.118644,100 L200,172.881356 L172.881356,200 L100,127.118644 L27.1186441,200 Z M0,172.881356" fill="#444444"></path>
+			</svg>
+		</button>
+	</div>
+	<div class="sidebar-content">
+
+		
+		<div class="widget-area" role="complementary">
+	
+				<aside id="search-2" class="widget widget_search"><form role="search" method="get" class="search-form" action="http://www.catloversvet.com/">
+				<label>
+					<span class="screen-reader-text">Search for:</span>
+					<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" />
+				</label>
+				<input type="submit" class="search-submit" value="Search" />
+			</form></aside><aside id="categories-2" class="widget widget_categories"><h2 class="widgettitle">Categories</h2>
+		<ul>
+	<li class="cat-item cat-item-3"><a href="http://www.catloversvet.com/category/cat-trees/" >Cat Trees</a>
+</li>
+	<li class="cat-item cat-item-2"><a href="http://www.catloversvet.com/category/main/" >Main</a>
+</li>
+		</ul>
+</aside>		<aside id="recent-posts-2" class="widget widget_recent_entries">		<h2 class="widgettitle">Recent Posts</h2>
+		<ul>
+											<li>
+					<a href="http://www.catloversvet.com/tectake-high-quality-cat-tree/">TecTake &#8211; High Quality Cat tree</a>
+									</li>
+											<li>
+					<a href="http://www.catloversvet.com/large-cat-tree-and-large-cat-furniture-factory-direct/">Large Cat Tree and Large Cat Furniture factory direct</a>
+									</li>
+											<li>
+					<a href="http://www.catloversvet.com/the-best-cat-tree-prank-vs-prank-kickstarter-video/">The Best Cat Tree &#8211; Prank VS Prank Kickstarter Video</a>
+									</li>
+											<li>
+					<a href="http://www.catloversvet.com/wildwood-lair-fantasy-cat-tree/">~Wildwood Lair~ Fantasy Cat Tree</a>
+									</li>
+											<li>
+					<a href="http://www.catloversvet.com/new-cat-tree-2/">NEW CAT TREE!!</a>
+									</li>
+					</ul>
+		</aside><aside id="tag_cloud-2" class="widget widget_tag_cloud"><h2 class="widgettitle">Tags</h2>
+<div class="tagcloud"><a href="http://www.catloversvet.com/tag/cat-scratching-post/" class="tag-cloud-link tag-link-5 tag-link-position-1" style="font-size: 8pt;" aria-label="cat scratching post (1 item)">cat scratching post</a>
+<a href="http://www.catloversvet.com/tag/cat-trees/" class="tag-cloud-link tag-link-4 tag-link-position-2" style="font-size: 8pt;" aria-label="cat trees (1 item)">cat trees</a></div>
+</aside>				
+	</div><!-- .widget-area -->
+		
+	</div>
+</div><!-- #sidebar -->
+
+<script type='text/javascript' src='http://www.catloversvet.com/wp-content/themes/decode/scripts/decode.js?ver=3.0.9'></script>
+<script type='text/javascript' src='http://www.catloversvet.com/wp-includes/js/wp-embed.min.js?ver=4.9.8'></script>
+
+</body>
+</html>

@@ -1,0 +1,349 @@
+<!DOCTYPE html>
+  <!--[if IEMobile 7]><html class="no-js ie iem7" lang="en" dir="ltr"><![endif]-->
+  <!--[if lte IE 6]><html class="no-js ie lt-ie9 lt-ie8 lt-ie7" lang="en" dir="ltr"><![endif]-->
+  <!--[if (IE 7)&(!IEMobile)]><html class="no-js ie lt-ie9 lt-ie8" lang="en" dir="ltr"><![endif]-->
+  <!--[if IE 8]><html class="no-js ie lt-ie9" lang="en" dir="ltr"><![endif]-->
+  <!--[if (gte IE 9)|(gt IEMobile 7)]><html class="no-js ie" lang="en" dir="ltr"><![endif]-->
+  <!--[if !IE]><!--><html class="no-js" lang="en" dir="ltr"><!--<![endif]-->
+<head>
+  <meta charset="utf-8" />
+<link rel="apple-touch-icon-precomposed" href="https://www.gi.alaska.edu/sites/all/themes/omega/omega/apple-touch-icon-precomposed-114x114.png" sizes="114x114" />
+<link rel="apple-touch-icon-precomposed" href="https://www.gi.alaska.edu/sites/all/themes/omega/omega/apple-touch-icon-precomposed-144x144.png" sizes="144x144" />
+<link rel="apple-touch-icon-precomposed" href="https://www.gi.alaska.edu/sites/all/themes/omega/omega/apple-touch-icon-precomposed-72x72.png" sizes="72x72" />
+<link rel="apple-touch-icon-precomposed" href="https://www.gi.alaska.edu/sites/all/themes/omega/omega/apple-touch-icon-precomposed.png" />
+<meta http-equiv="cleartype" content="on" />
+<meta name="MobileOptimized" content="width" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="shortcut icon" href="https://www.gi.alaska.edu/files/GI_logo_0.png" type="image/png" />
+<link rel="profile" href="http://www.w3.org/1999/xhtml/vocab" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width" />
+  <title>Alaska Science Forum | Geophysical Institute</title>
+  <link type="text/css" rel="stylesheet" href="https://www.gi.alaska.edu/files/css/css_oBQcHWSRDji1OFWuwwZMqC9d1TS5p9bokxMS0qZVxhk.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.gi.alaska.edu/files/css/css_9NQJNKJsc36dkozyh3YNDmcN5Le3PwP55xkZ3chmuiA.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.gi.alaska.edu/files/css/css_A7cBEk6DqLhXF_YU6uKyMCWDNzW0gUKir_W2FthxHEc.css" media="all" />
+
+<!--[if lte IE 8]>
+<link type="text/css" rel="stylesheet" href="https://www.gi.alaska.edu/files/css/css__P7OwmNh5P8GU_8KYHBTdWBUQYJ9YNg5hhmKTcImCQs.css" media="all" />
+<![endif]-->
+<link type="text/css" rel="stylesheet" href="https://www.gi.alaska.edu/files/css/css_Ip6I2qwJLQAUhMAnNUUJlJfoenqjWWD1bXfT4s5aQjM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:regular,300|Lato:regular|Neuton:800&amp;subset=latin" media="all" />
+  <script src="https://www.gi.alaska.edu/files/js/js_EpdE-P7KB89RybxATieT_rmub5Evz48clHFKFbJ7ASw.js"></script>
+<script src="https://www.gi.alaska.edu/files/js/js_OaodtLTsfle4GThR9qQmcwNt8wX7Gor7iGqrtEMt_rA.js"></script>
+<script src="https://www.gi.alaska.edu/files/js/js_R9UbiVw2xuTUI0GZoaqMDOdX0lrZtgX-ono8RVOUEVc.js"></script>
+<script src="https://www.gi.alaska.edu/files/js/js_bQeJE_RB_vqMxa3SjJg50GtgFvS0NU_sHEkGP2GUsPY.js"></script>
+<script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-63563128-1", {"cookieDomain":"auto"});ga("set", "anonymizeIp", true);ga("send", "pageview");</script>
+<script src="https://www.gi.alaska.edu/files/js/js_T1VmfWEwRGxLzRk7DePS2edXNox7fvToLFEeYLaM4V8.js"></script>
+<script src="https://www.gi.alaska.edu/files/js/js_zL1wQi241yuq5cca8xocUgbDIcIidYnr1SWg8ACYGmw.js"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"gi","theme_token":"cxxYEtaDu1JzC2bo6G-VUWqVvSs2Kzh69t4NtQtHIuw","jquery_version":"1.10","js":{"sites\/all\/modules\/jquery_update\/replace\/jquery\/1.10\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/themes\/omega\/omega\/js\/no-js.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.core.min.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.widget.min.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/external\/jquery.cookie.js":1,"sites\/all\/modules\/jquery_update\/replace\/misc\/jquery.form.min.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.accordion.min.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.tabs.min.js":1,"misc\/ajax.js":1,"sites\/all\/modules\/jquery_update\/js\/jquery_update.js":1,"sites\/all\/modules\/admin_menu\/admin_devel\/admin_devel.js":1,"sites\/all\/modules\/pace\/js\/pace.min.js":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_style.js":1,"sites\/all\/modules\/iframe\/iframe.js":1,"sites\/all\/modules\/better_exposed_filters\/better_exposed_filters.js":1,"sites\/all\/modules\/ctools\/js\/auto-submit.js":1,"sites\/all\/modules\/views\/js\/base.js":1,"misc\/progress.js":1,"sites\/all\/modules\/views\/js\/ajax_view.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"0":1,"sites\/all\/libraries\/superfish\/jquery.hoverIntent.minified.js":1,"sites\/all\/libraries\/superfish\/sftouchscreen.js":1,"sites\/all\/libraries\/superfish\/superfish.js":1,"sites\/all\/libraries\/superfish\/supposition.js":1,"sites\/all\/libraries\/superfish\/supersubs.js":1,"sites\/all\/modules\/superfish\/superfish.js":1,"sites\/all\/themes\/gi\/js\/jquery.matchHeight.js":1,"sites\/all\/themes\/gi\/js\/gi.behaviors.js":1},"css":{"sites\/all\/themes\/omega\/omega\/css\/modules\/system\/system.base.css":1,"sites\/all\/themes\/omega\/omega\/css\/modules\/system\/system.menus.theme.css":1,"sites\/all\/themes\/omega\/omega\/css\/modules\/system\/system.messages.theme.css":1,"sites\/all\/themes\/omega\/omega\/css\/modules\/system\/system.theme.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/all\/themes\/omega\/omega\/css\/modules\/book\/book.theme.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/themes\/omega\/omega\/css\/modules\/field\/field.theme.css":1,"sites\/all\/themes\/omega\/omega\/css\/modules\/user\/user.base.css":1,"sites\/all\/themes\/omega\/omega\/css\/modules\/user\/user.theme.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"misc\/ui\/jquery.ui.accordion.css":1,"misc\/ui\/jquery.ui.tabs.css":1,"sites\/all\/modules\/pace\/css\/pace-theme-flat-top.css":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_style.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/panels\/css\/panels.css":1,"sites\/all\/libraries\/superfish\/css\/superfish.css":1,"sites\/all\/libraries\/superfish\/css\/superfish-vertical.css":1,"sites\/all\/libraries\/superfish\/style\/white.css":1,"sites\/all\/themes\/gi\/css\/uaf.css":1,"sites\/all\/themes\/gi\/css\/font-awesome.css":1,"sites\/all\/themes\/gi\/css\/gi.normalize.css":1,"sites\/all\/themes\/gi\/css\/gi.hacks.css":1,"sites\/all\/themes\/gi\/css\/gi.styles.css":1,"sites\/all\/themes\/gi\/css\/gi.users.css":1,"sites\/all\/themes\/gi\/css\/rcs.styles.css":1,"sites\/all\/themes\/gi\/css\/gi.no-query.css":1,"files\/fontyourface\/font.css":1,"https:\/\/fonts.googleapis.com\/css?family=Open+Sans:regular,300|Lato:regular|Neuton:800\u0026subset=latin":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"better_exposed_filters":{"datepicker":false,"slider":false,"settings":[],"autosubmit":false,"views":{"all_news":{"displays":{"page_1":{"filters":{"tid":{"required":false}}}}}}},"urlIsAjaxTrusted":{"\/alaskascienceforum":true,"\/views\/ajax":true},"views":{"ajax_path":"\/views\/ajax","ajaxViews":{"views_dom_id:6f2ac706da785aeb7614499588d86db3":{"view_name":"all_news","view_display_id":"page_1","view_args":"","view_path":"alaskascienceforum","view_base_path":"alaskascienceforum","view_dom_id":"6f2ac706da785aeb7614499588d86db3","pager_element":0}}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackColorbox":1},"superfish":[{"id":"1","sf":{"delay":"1000","animation":{"opacity":"show"},"speed":"\u0027normal\u0027","autoArrows":false,"dropShadows":false,"disableHI":false},"plugins":{"supposition":true,"bgiframe":false,"supersubs":{"minWidth":"12","maxWidth":"27","extraWidth":1}}},{"id":"2","sf":{"pathLevels":"0","animation":{"opacity":"show","height":"show"},"speed":"\u0027fast\u0027","autoArrows":false,"dropShadows":false,"disableHI":false},"plugins":{"touchscreen":{"mode":"always_active"},"supposition":true,"bgiframe":false,"supersubs":{"minWidth":"12","maxWidth":"27","extraWidth":1}}}]});</script>
+</head>
+<body class="html not-front not-logged-in page-alaskascienceforum section-alaskascienceforum no-sidebars">
+  <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+    
+<div id="banner_container">
+<!-- UAF Banner for the main page - within the GI theme. -->
+<!-- sites/all/themes/gi/templates/uaf.php -->
+  <div id="uaf_logo">
+    <div class="logo"><a href="http://www.uaf.edu">
+     <img src="https://www.uaf.edu/ua-templates/version3/images/uafbanner/UAFLogo_A.png" alt="UAF logo" /></a>
+    </div>
+    <div class="uaf-name"> <a href="http://www.uaf.edu">
+     <img src="https://www.uaf.edu/ua-templates/version3/images/uafbanner/UAF-txt.png" alt="University of Alaska Fairbanks" /></a>
+    </div>
+  </div>
+  <div id="tabs">
+    <script>
+      (function() {
+        var cx = '007084852934137750393:brrdlrl5xnm';
+        var gcse = document.createElement('script');
+        gcse.type = 'text/javascript';
+        gcse.async = true;
+        gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+        var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(gcse, s);
+      })();
+    </script>
+    <gcse:search></gcse:search>
+  </div>
+  <div class="clear"></div>
+</div>
+
+<div style="float: right">
+</div>
+<div class="l-page">
+<header class="l-header" role="banner">
+  <div class="l-branding">
+    
+                  <h1 class="site-name">
+          <a href="/" title="Home" rel="home"><span>Geophysical Institute</span></a>
+        </h1>
+      
+                <div class="l-region l-region--navigation">
+    <div id="block-superfish-1" class="block block--superfish block--superfish-1">
+        <div class="block__content">
+    <ul id="superfish-1" class="menu sf-menu sf-main-menu sf-horizontal sf-style-white sf-total-items-8 sf-parent-items-0 sf-single-items-8"><li id="menu-11580-1" class="first odd sf-item-1 sf-depth-1 sf-no-children"><a href="/" class="sf-depth-1">home</a></li><li id="menu-11179-1" class="middle even sf-item-2 sf-depth-1 sf-no-children"><a href="/about-us" class="sf-depth-1">about</a></li><li id="menu-12430-1" class="active-trail middle odd sf-item-3 sf-depth-1 sf-no-children"><a href="/media-and-public-relations" class="sf-depth-1">public information</a></li><li id="menu-11178-1" class="middle even sf-item-4 sf-depth-1 sf-no-children"><a href="/research" class="sf-depth-1">research</a></li><li id="menu-11531-1" class="middle odd sf-item-5 sf-depth-1 sf-no-children"><a href="/facilities" class="sf-depth-1">facilities</a></li><li id="menu-11532-1" class="middle even sf-item-6 sf-depth-1 sf-no-children"><a href="/students" class="sf-depth-1">students</a></li><li id="menu-11176-1" class="middle odd sf-item-7 sf-depth-1 sf-no-children"><a href="/administration" class="sf-depth-1">administration</a></li><li id="menu-12427-1" class="last even sf-item-8 sf-depth-1 sf-no-children"><a href="https://engage.alaska.edu/uaf/gi" class="sf-depth-1">giving</a></li></ul>  </div>
+</div>
+  </div>
+        <div class="menutoggle">
+
+        <img class="menuimg" id="animateme" src="/files/hamburger.png" />
+
+    </div>
+  </div>
+  <div class="l-header-wrapper">
+    <div class="menutab">
+        <div class="l-region l-region--highlighted">
+    <div id="block-superfish-2" class="block block--superfish block--superfish-2">
+        <div class="block__content">
+    <ul id="superfish-2" class="menu sf-menu sf-main-menu sf-vertical sf-style-white sf-total-items-8 sf-parent-items-0 sf-single-items-8"><li id="menu-11580-2" class="first odd sf-item-1 sf-depth-1 sf-no-children"><a href="/" class="sf-depth-1">home</a></li><li id="menu-11179-2" class="middle even sf-item-2 sf-depth-1 sf-no-children"><a href="/about-us" class="sf-depth-1 sf-depth-1">about</a></li><li id="menu-12430-2" class="active-trail middle odd sf-item-3 sf-depth-1 sf-no-children"><a href="/media-and-public-relations" class="sf-depth-1 sf-depth-1">public information</a></li><li id="menu-11178-2" class="middle even sf-item-4 sf-depth-1 sf-no-children"><a href="/research" class="sf-depth-1 sf-depth-1">research</a></li><li id="menu-11531-2" class="middle odd sf-item-5 sf-depth-1 sf-no-children"><a href="/facilities" class="sf-depth-1 sf-depth-1">facilities</a></li><li id="menu-11532-2" class="middle even sf-item-6 sf-depth-1 sf-no-children"><a href="/students" class="sf-depth-1 sf-depth-1">students</a></li><li id="menu-11176-2" class="middle odd sf-item-7 sf-depth-1 sf-no-children"><a href="/administration" class="sf-depth-1 sf-depth-1">administration</a></li><li id="menu-12427-2" class="last even sf-item-8 sf-depth-1 sf-no-children"><a href="https://engage.alaska.edu/uaf/gi" class="sf-depth-1">giving</a></li></ul>  </div>
+</div>
+  </div>
+    </div>
+        <div class=".l-custom-header">
+        </div>
+  </div>
+
+</header>
+  <div class="l-main">
+    <h2 class="element-invisible">You are here</h2><ul class="breadcrumb"><li><a href="/">Home</a></li><li><a href="/media-and-public-relations">Media &amp; Public Information</a></li></ul>        <div class="l-content" role="main">
+      <div class="l-tricolumn">
+                              </div>
+
+
+
+
+      <a id="main-content"></a>
+                                                <div class="view view-all-news view-id-all_news view-display-id-page_1 view-dom-id-6f2ac706da785aeb7614499588d86db3">
+            <div class="view-header">
+      <h1>Alaska Science Forum</h1>
+
+<p>To subscribe to these weekly science stories, email <a href="mailto:ned.rozell@alaska.edu">ned.rozell@alaska.edu</a>.</p>    </div>
+  
+      <div class="view-filters">
+      <form class="ctools-auto-submit-full-form views-exposed-form-all-news-page-1" action="/alaskascienceforum" method="get" id="views-exposed-form-all-news-page-1" accept-charset="UTF-8"><div><div class="views-exposed-form">
+  <div class="views-exposed-widgets clearfix">
+          <div id="edit-tid-wrapper" class="views-exposed-widget views-widget-filter-tid">
+                  <label for="edit-tid">
+            Tags          </label>
+                        <div class="views-widget">
+          <div class="form-item form-type-select form-item-tid">
+ <div class="form-checkboxes bef-select-as-checkboxes"><div class="bef-checkboxes"><div class="form-item form-type-bef-checkbox form-item-edit-tid-480">
+ <input type="checkbox" name="tid[]" id="edit-tid-480" value="480"  /> <label class='option' for='edit-tid-480'>Other</label>
+</div>
+<div class="form-item form-type-bef-checkbox form-item-edit-tid-459">
+ <input type="checkbox" name="tid[]" id="edit-tid-459" value="459"  /> <label class='option' for='edit-tid-459'>Aurora</label>
+</div>
+<div class="form-item form-type-bef-checkbox form-item-edit-tid-460">
+ <input type="checkbox" name="tid[]" id="edit-tid-460" value="460"  /> <label class='option' for='edit-tid-460'>Bugs</label>
+</div>
+<div class="form-item form-type-bef-checkbox form-item-edit-tid-461">
+ <input type="checkbox" name="tid[]" id="edit-tid-461" value="461"  /> <label class='option' for='edit-tid-461'>Cats, Dogs &amp; Other Pets</label>
+</div>
+<div class="form-item form-type-bef-checkbox form-item-edit-tid-462">
+ <input type="checkbox" name="tid[]" id="edit-tid-462" value="462"  /> <label class='option' for='edit-tid-462'>Dinosaurs</label>
+</div>
+<div class="form-item form-type-bef-checkbox form-item-edit-tid-463">
+ <input type="checkbox" name="tid[]" id="edit-tid-463" value="463"  /> <label class='option' for='edit-tid-463'>Earthquakes</label>
+</div>
+<div class="form-item form-type-bef-checkbox form-item-edit-tid-464">
+ <input type="checkbox" name="tid[]" id="edit-tid-464" value="464"  /> <label class='option' for='edit-tid-464'>Fun Science Facts</label>
+</div>
+<div class="form-item form-type-bef-checkbox form-item-edit-tid-465">
+ <input type="checkbox" name="tid[]" id="edit-tid-465" value="465"  /> <label class='option' for='edit-tid-465'>Health &amp; Medicine</label>
+</div>
+<div class="form-item form-type-bef-checkbox form-item-edit-tid-466">
+ <input type="checkbox" name="tid[]" id="edit-tid-466" value="466"  /> <label class='option' for='edit-tid-466'>Historic Alaska</label>
+</div>
+<div class="form-item form-type-bef-checkbox form-item-edit-tid-467">
+ <input type="checkbox" name="tid[]" id="edit-tid-467" value="467"  /> <label class='option' for='edit-tid-467'>Living in the North</label>
+</div>
+<div class="form-item form-type-bef-checkbox form-item-edit-tid-468">
+ <input type="checkbox" name="tid[]" id="edit-tid-468" value="468"  /> <label class='option' for='edit-tid-468'>Living on Earth</label>
+</div>
+<div class="form-item form-type-bef-checkbox form-item-edit-tid-469">
+ <input type="checkbox" name="tid[]" id="edit-tid-469" value="469"  /> <label class='option' for='edit-tid-469'>Mountains</label>
+</div>
+<div class="form-item form-type-bef-checkbox form-item-edit-tid-470">
+ <input type="checkbox" name="tid[]" id="edit-tid-470" value="470"  /> <label class='option' for='edit-tid-470'>Outer Space</label>
+</div>
+<div class="form-item form-type-bef-checkbox form-item-edit-tid-471">
+ <input type="checkbox" name="tid[]" id="edit-tid-471" value="471"  /> <label class='option' for='edit-tid-471'>People</label>
+</div>
+<div class="form-item form-type-bef-checkbox form-item-edit-tid-472">
+ <input type="checkbox" name="tid[]" id="edit-tid-472" value="472"  /> <label class='option' for='edit-tid-472'>Plants</label>
+</div>
+<div class="form-item form-type-bef-checkbox form-item-edit-tid-473">
+ <input type="checkbox" name="tid[]" id="edit-tid-473" value="473"  /> <label class='option' for='edit-tid-473'>Rocks &amp; Geology</label>
+</div>
+<div class="form-item form-type-bef-checkbox form-item-edit-tid-474">
+ <input type="checkbox" name="tid[]" id="edit-tid-474" value="474"  /> <label class='option' for='edit-tid-474'>Volcanoes</label>
+</div>
+<div class="form-item form-type-bef-checkbox form-item-edit-tid-475">
+ <input type="checkbox" name="tid[]" id="edit-tid-475" value="475"  /> <label class='option' for='edit-tid-475'>Water, Snow &amp; Ice</label>
+</div>
+<div class="form-item form-type-bef-checkbox form-item-edit-tid-476">
+ <input type="checkbox" name="tid[]" id="edit-tid-476" value="476"  /> <label class='option' for='edit-tid-476'>Weather</label>
+</div>
+<div class="form-item form-type-bef-checkbox form-item-edit-tid-477">
+ <input type="checkbox" name="tid[]" id="edit-tid-477" value="477"  /> <label class='option' for='edit-tid-477'>What's New</label>
+</div>
+<div class="form-item form-type-bef-checkbox form-item-edit-tid-478">
+ <input type="checkbox" name="tid[]" id="edit-tid-478" value="478"  /> <label class='option' for='edit-tid-478'>Wildlife</label>
+</div>
+</div></div>
+</div>
+        </div>
+              </div>
+                    <div class="views-exposed-widget views-submit-button">
+      <input class="ctools-use-ajax ctools-auto-submit-click js-hide form-submit" type="submit" id="edit-submit-all-news" name="" value="Apply" />    </div>
+      </div>
+</div>
+</div></form>    </div>
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/alaska-science-forum/franklin-alaska-town-once-was">Franklin, Alaska: A town that once was</a></span>  </div>  
+  <div class="views-field views-field-created">        <span class="field-content">August 23, 2018</span>  </div>  
+  <div class="views-field views-field-field-author">    <span class="views-label views-label-field-author">By</span>    <div class="field-content">Ned Rozell</div>  </div>  
+  <div class="views-field views-field-body">        <span class="field-content">Floating down the Fortymile River, we saw a cut in the green hills that hinted of a creek. My canoeing partner and neighbor, Ian Carlson, 13, wanted to see a ghost town. The map told us one should be dead ahead.
+
+&nbsp;
+
+There, up a path of floury soil, was Franklin, Alaska. Like many Alaska ghost towns, it was a less-than-ideal place for kids and dogs: rusted nails, jagged edges and punky wood...</span>  </div>  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/alaska-science-forum/tapir-s-jaw-incredibly-rare-find">Tapir’s jaw an “incredibly rare” find</a></span>  </div>  
+  <div class="views-field views-field-created">        <span class="field-content">August 16, 2018</span>  </div>  
+  <div class="views-field views-field-field-author">    <span class="views-label views-label-field-author">By</span>    <div class="field-content">Ned Rozell</div>  </div>  
+  <div class="views-field views-field-body">        <span class="field-content">Thanks to her six-year-old grandson, Janet Klein of Homer recently hosted a few interesting house guests.
+
+&nbsp;
+
+Five experts on ancient creatures slept in Klein’s Homer house last month as they searched local cliffs for another chunk of a mammal that lived in Alaska millions of years ago. Her guests were Patrick Druckenmiller of the UA Museum of the North, Grant Zazula and Susan Hewitson of...</span>  </div>  </div>
+  <div class="views-row views-row-3 views-row-odd">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/alaska-science-forum/northern-snowshoe-hares-eat-lots-dirt">Northern snowshoe hares eat lots of dirt</a></span>  </div>  
+  <div class="views-field views-field-created">        <span class="field-content">August 9, 2018</span>  </div>  
+  <div class="views-field views-field-field-author">    <span class="views-label views-label-field-author">By</span>    <div class="field-content">Ned Rozell</div>  </div>  
+  <div class="views-field views-field-body">        <span class="field-content">The evidence is in: Snowshoe hares near Wiseman eat lots of dirt.
+
+&nbsp;
+
+“I have thousands and thousands of photos of hares eating soil in this one little spot,” said Donna DiFolco, a biologist and cartographer with the National Park Service.&nbsp;
+
+&nbsp;
+
+DiFolco has studied hares in the eastern portion of Gates of the Arctic National Park since 1997. That’s when she started counting hare...</span>  </div>  </div>
+  <div class="views-row views-row-4 views-row-even">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/alaska-science-forum/eyewitness-peregrine-falcon-s-recovery">Eyewitness to the peregrine falcon’s recovery</a></span>  </div>  
+  <div class="views-field views-field-created">        <span class="field-content">August 2, 2018</span>  </div>  
+  <div class="views-field views-field-field-author">    <span class="views-label views-label-field-author">By</span>    <div class="field-content">Ned Rozell</div>  </div>  
+  <div class="views-field views-field-body">        <span class="field-content">YUKON RIVER — “She’s starting to wail,” Chris Florian says, referring to the worrisome shriek of a peregrine falcon across the river.
+
+&nbsp;
+
+Florian, her biologist husband Skip Ambrose and I are sitting on warm gravel a few steps from the river on a sunny summer evening. We just ate dinner, and Ambrose is repeating an action he has performed for the past 46 summers — squinting through a...</span>  </div>  </div>
+  <div class="views-row views-row-5 views-row-odd">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/alaska-science-forum/alaska-s-big-river-never-stops-flowing">Alaska’s big river never stops flowing</a></span>  </div>  
+  <div class="views-field views-field-created">        <span class="field-content">July 26, 2018</span>  </div>  
+  <div class="views-field views-field-field-author">    <span class="views-label views-label-field-author">By</span>    <div class="field-content">Ned Rozell</div>  </div>  
+  <div class="views-field views-field-body">        <span class="field-content">It’s midsummer, a good time to slip a canoe onto the Yukon River.
+
+&nbsp;
+
+I start at the river town of Eagle, population 85, and will finish in Circle, population 104. Circle is about 170 twisting miles downriver.&nbsp;
+
+&nbsp;
+
+The Yukon is the longest and highest-volume river by far in Alaska. It is the third-longest in the U.S., after the Mississippi and the Missouri. At Eagle, the Yukon...</span>  </div>  </div>
+  <div class="views-row views-row-6 views-row-even">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/alaska-science-forum/parting-sea-fortymile-caribou">Parting a sea of Fortymile caribou</a></span>  </div>  
+  <div class="views-field views-field-created">        <span class="field-content">July 19, 2018</span>  </div>  
+  <div class="views-field views-field-field-author">    <span class="views-label views-label-field-author">By</span>    <div class="field-content">Ned Rozell</div>  </div>  
+  <div class="views-field views-field-body">        <span class="field-content">Floating down the Fortymile River, we heard the roar of a rapid just ahead. At the same time, we noticed the caribou, about 50 of them, clustered on a cliffside near the water.
+
+&nbsp;
+
+It was too late to pull over. I aimed the canoe for the bumps of frothing brown water. As we plunged in, six antlered heads bobbed single-file in front of us. Caribou were swimming across the river at the pinch...</span>  </div>  </div>
+  <div class="views-row views-row-7 views-row-odd">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/alaska-science-forum/way-back-when-artist-believed-alaska-was-good-deal-0">Way back when, artist believed Alaska was a good deal</a></span>  </div>  
+  <div class="views-field views-field-created">        <span class="field-content">July 12, 2018</span>  </div>  
+  <div class="views-field views-field-field-author">    <span class="views-label views-label-field-author">By</span>    <div class="field-content">Ned Rozell</div>  </div>  
+  <div class="views-field views-field-body">        <span class="field-content">About 160 years ago, U.S. Secretary of State William Seward was taking some heat for his significant role in the purchase of Alaska. On the day the Russians received the $7.2 million check, a group of white travelers were at Nulato, getting ready for an upriver trip to Fort Yukon to explore this strange land.
+
+Among them was Frederick Whymper, an adventurous English artist who had signed on to...</span>  </div>  </div>
+  <div class="views-row views-row-8 views-row-even">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/alaska-science-forum/boreal-owls-perform-daylight">Boreal owls perform by daylight</a></span>  </div>  
+  <div class="views-field views-field-created">        <span class="field-content">June 28, 2018</span>  </div>  
+  <div class="views-field views-field-field-author">    <span class="views-label views-label-field-author">By</span>    <div class="field-content">Ned Rozell</div>  </div>  
+  <div class="views-field views-field-body">        <span class="field-content">Just beneath the owl box, hung 20 feet up the stem of a balsam poplar, the backyard barbeque continued late into the evening. Despite the thwap of badminton birdies and the chirp of human voices, the boreal owl had work to do.
+
+&nbsp;
+
+With a vole in its talons, the hand-sized bird perched on a branch outside a wooden box nailed to the tree. After a quick scan of the activity below, the owl bent...</span>  </div>  </div>
+  <div class="views-row views-row-9 views-row-odd">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/alaska-science-forum/warming-north-continues-predicted">Warming in the north continues as predicted</a></span>  </div>  
+  <div class="views-field views-field-created">        <span class="field-content">June 21, 2018</span>  </div>  
+  <div class="views-field views-field-field-author">    <span class="views-label views-label-field-author">By</span>    <div class="field-content">Ned Rozell</div>  </div>  
+  <div class="views-field views-field-body">        <span class="field-content">Just outside my window here at the University of Alaska Fairbanks, workers are drilling into the asphalt of a parking lot using a truck-mounted rig. They twist a hollow bit 25 feet into the ground and pull up hard, clear evidence of why the blacktop is sinking.
+
+&nbsp;
+
+A few days ago, John Walsh gave a talk a few hundred steps from that parking lot. Walsh has spent 17 years in Fairbanks studying...</span>  </div>  </div>
+  <div class="views-row views-row-10 views-row-even views-row-last">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/alaska-science-forum/pink-salmon-too-much-good-thing">Pink salmon — too much of a good thing?</a></span>  </div>  
+  <div class="views-field views-field-created">        <span class="field-content">June 14, 2018</span>  </div>  
+  <div class="views-field views-field-field-author">    <span class="views-label views-label-field-author">By</span>    <div class="field-content">Ned Rozell</div>  </div>  
+  <div class="views-field views-field-body">        <span class="field-content">Of the five species of salmon that swim Alaska waters, the pink is by far the most plentiful. Some scientists think the fish is an overabundant predator that outcompetes other salmon and some seabirds.
+
+&nbsp;
+
+In the late 1990s, Japanese researchers noticed an intriguing pattern while studying in the Bering Sea just north of the Aleutians. During every odd-numbered year, populations of tiny...</span>  </div>  </div>
+    </div>
+  
+      <ul class="pager"><li class="pager-previous">&nbsp;</li>
+<li class="pager-current">1 of 41</li>
+<li class="pager-next"><a title="Go to next page" href="/alaskascienceforum?page=1">next ›</a></li>
+</ul>  
+  
+  
+  
+  
+</div>            <div class="l-triptych">
+                              </div>
+    </div>
+
+          </div>
+
+  <footer class="l-footer" role="contentinfo">
+      <div class="l-region l-region--footer">
+    <div id="block-block-9" class="block block--block block--block-9">
+        <div class="block__content">
+    <div class="footer-text">For general information, please contact the Geophysical Institute<br />
+Phone: (907)474-7558,  2156 Koyukuk Drive, Univ. of Alaska, Fairbanks, AK 99775
+<div><span style="text-decoration: underline; color: #d7d2cb;"><a href="mailto:uaf-gi-public-info@alaska.edu" style="text-decoration: underline; color: #d7d2cb;">uaf-gi-public-info@alaska.edu</a></span></div>
+<p></p>
+<div>The <a style="text-decoration: underline; color: #d7d2cb;" href="http://www.uaf.edu">University of Alaska Fairbanks</a> is an AA/EO employer and educational institution and prohibits illegal discrimination against any individual: Learn more about UA's <a style="text-decoration: underline; color: #d7d2cb;" href="http://www.alaska.edu/titleIXcompliance/nondiscrimination/">notice of nondiscrimination. </a><br /><br />
+©2017 Geophysical Institute, University of Alaska Fairbanks.<br /><a href="http://www.gi.alaska.edu/user" class="userlogin" style="text-decoration: underline; color: #d7d2cb;">Admin Login</a>
+</div>
+<div class="socialbuttons"><a href="http://www.facebook.com/pages/UAF-Geophysical-Institute/116012105143046"><i class="fa fa-facebook-square fa-2x"> </i></a> <a href="http://twitter.com/UAFGI"><i class="fa fa-twitter-square fa-2x"> </i></a> <a href="https://www.youtube.com/channel/UC1MAlJeyIKAz56iUwomzYZA"><i class="fa fa-youtube-square fa-2x"> </i></a></div>
+<div class="footerlogo"><img src="/sites/default/files/GI_logo.png" /></div>
+</div>  </div>
+</div>
+  </div>
+
+  </footer>
+</div>
+  </body>
+</html>
+
+<!-- Page cached by Boost @ 2018-08-29 11:41:20, expires @ 2018-08-29 12:41:20, lifetime 1 hour -->

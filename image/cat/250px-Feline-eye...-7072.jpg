@@ -1,0 +1,13 @@
+<html><head><title>Error generating thumbnail</title></head>
+<body>
+<h1>Error generating thumbnail</h1>
+<p>
+The given path of the specified thumbnail is incorrect;
+				expected '5/58/Feline-eye...-7072.jpg/250px-Feline-eye...-7072.jpg' but got '5/58/Feline-eye...-7072.jpg/250px-Feline-eye...-7072.jpg
+'.
+</p>
+<!-- /images/thumb/5/58/Feline-eye...-7072.jpg/250px-Feline-eye...-7072.jpg%0A -->
+<!-- ip-172-30-0-87 -->
+
+</body>
+</html>

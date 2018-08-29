@@ -1,0 +1,839 @@
+
+<!DOCTYPE html>
+
+<!--[if IE 6]>
+
+<html id="ie6" lang="es-ES" prefix="og: http://ogp.me/ns#">
+
+<![endif]-->
+
+<!--[if IE 7]>
+
+<html id="ie7" lang="es-ES" prefix="og: http://ogp.me/ns#">
+
+<![endif]-->
+
+<!--[if IE 8]>
+
+<html id="ie8" lang="es-ES" prefix="og: http://ogp.me/ns#">
+
+<![endif]-->
+
+<!--[if !(IE 6) | !(IE 7) | !(IE 8)  ]><!-->
+
+<html lang="es-ES" prefix="og: http://ogp.me/ns#">
+
+<!--<![endif]-->
+
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width">
+<link rel="profile" href="https://gmpg.org/xfn/11">
+<link rel="pingback" href="">
+
+<!--[if lt IE 9]>
+
+	<script src="https://www.todoperros.com/wp-content/themes/wt_chapter/js/html5.js"></script>
+
+	<![endif]-->
+
+<title>Página no encontrada - TodoPerros.com</title>
+		<script type="text/javascript">
+		var ajaxurl = 'https://www.todoperros.com/wp-admin/admin-ajax.php';
+		</script>
+		
+<!-- This site is optimized with the Yoast SEO Premium plugin v8.1 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="robots" content="noindex,follow"/>
+<meta property="og:locale" content="es_ES" />
+<meta property="og:type" content="object" />
+<meta property="og:title" content="Página no encontrada - TodoPerros.com" />
+<meta property="og:site_name" content="TodoPerros.com" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Página no encontrada - TodoPerros.com" />
+<meta name="twitter:site" content="@todoperros" />
+<script type='application/ld+json'>{"@context":"https:\/\/schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"@id":"https:\/\/www.todoperros.com\/","name":"Inicio"}},{"@type":"ListItem","position":2,"item":{"@id":null,"name":"Error 404: P\u00e1gina no encontrada"}}]}</script>
+<!-- / Yoast SEO Premium plugin. -->
+
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//pagead2.googlesyndication.com' />
+<link rel='dns-prefetch' href='//googleads.g.doubleclick.net' />
+<link rel='dns-prefetch' href='//stats.g.doubleclick.net' />
+<link rel='dns-prefetch' href='//fonts.gstatic.com' />
+<link rel='dns-prefetch' href='//connect.facebook.net' />
+<link rel="alternate" type="application/rss+xml" title="TodoPerros.com &raquo; Feed" href="https://www.todoperros.com/?feed=rss2" />
+<link rel="alternate" type="application/rss+xml" title="TodoPerros.com &raquo; RSS de los comentarios" href="https://www.todoperros.com/?feed=rss2" />
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='um_social_login-css'  href='https://www.todoperros.com/wp-content/plugins/um-social-login/assets/css/um-social-connect.css?ver=4.9.8' type='text/css' media='all' />
+<link rel='stylesheet' id='parent-style-css'  href='https://www.todoperros.com/wp-content/themes/wt_chapter/style.css?ver=4.9.8' type='text/css' media='all' />
+<link rel='stylesheet' id='wt-style-css'  href='https://www.todoperros.com/wp-content/themes/wt_chapter-child/style.css?ver=4.9.8' type='text/css' media='all' />
+<style id='wt-style-inline-css' type='text/css'>
+#header .logo{
+max-height: 45px;
+}
+.video-container {
+	position: relative;
+	padding-bottom: 56.25%;
+	padding-top: 30px;
+	height: 0;
+	overflow: hidden;
+}
+
+.video-container iframe,  
+.video-container object,  
+.video-container embed {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}
+
+.entry-content img, 
+.entry-content iframe, 
+.entry-content object, 
+.entry-content embed {
+        max-width: 100%;
+}
+.alignleft {float:left;margin:0px 10px 10px 0px;}
+.alignright {float:right;:margin:0px 0px 10px 10px;
+}
+sup {
+    font-size: 75%;
+    line-height: 0;
+    position: relative;
+    vertical-align: baseline;
+}
+.sup {
+    top: -0.5em;
+}
+#gsc-iw-id1 table {
+	border-bottom: none !important;
+	margin: 0 !important;
+}
+
+th {
+	color: #666;
+	font-size: 12px !important;
+font-family: Lato;
+	font-weight: 600;
+	letter-spacing: 0.1em;
+	line-height: 2.6em;
+}
+
+td {
+	border-top: none !important;
+	padding: 0 5px  !important;
+}
+.gsc-search-box .gsc-input > 
+input:hover, .gsc-input-box-hover {
+    box-shadow: none !important;
+}
+.gsc-search-box-tools .gsc-search-box .gsc-input {
+padding-left: 3px !important;
+}
+input [type="text"], input [type="password"] {
+font-family: "arial" !important; 
+font-size: "13px" !important;
+}
+.table {
+display: table;
+}
+.row {
+display: table-row;
+}
+.column {
+display: table-cell;
+vertical-align: top;
+}
+.entry-date { 
+display: none !important;
+}
+.date { 
+display: none !important;
+}
+.ts-fab-wrapper{
+    padding: 0px;
+}
+.spaced {
+display:block;
+margin:30px 0;
+}
+div#text-28 {
+    margin: 0 auto;
+}
+div#text-30 {
+    margin: 0 auto;
+}
+div#text-31 {
+    margin: 0 auto;
+}
+div#text-26 {
+    margin: 0 auto;
+}
+.post-nav.section {
+    background: #f6f6f6;
+    padding: 20px 20px;
+}
+.famous {
+    width: 40%;
+    float: left;
+    padding: 15px 30px 10px 0px;
+    display: inline-block !important;
+    text-decoration: none;
+    list-style:none !important;
+}
+.famous h2.widgettitle {
+    font-size: 30px;
+    width: 40%;
+    text-transform: uppercase;
+    border-bottom: 2px solid #5cb85c;
+    padding: 0 0 5px 0;
+}
+.famous a {
+    color: #246F58;
+    font-weight: bold;
+    white-space: pre;
+}
+#famous li{
+    color: #C1C1C1;
+    font-family: arial;
+    font-size: 13.5px;
+    text-align: center;
+    text-transform:uppercase;
+    padding: 0px 90px 0px 0px; 
+    display: inline-block;
+    margin: 0 10px;
+}
+.lcp_catlist{
+    float: left;
+    padding: 0px 30px 10px 20px;
+    display: inline-block !important;
+    text-decoration: none;
+    list-style:none !important;
+    overflow: auto;
+    clear: left;
+    margin: 0px;
+    padding: 0px;
+    vertical-align:top;
+}
+.lcp_catlist.img {
+    float: left;
+}
+.famous1 {
+    width: 40%;
+    float: left;
+    padding: 15px 0px 10px 20px;
+ display: inline-block;
+    width: 100px;
+    height: 100px;
+    padding: 5px;
+    list-style:none !important;
+}
+.famous1 h2.widgettitle {
+    font-size: 30px;
+    border-bottom: 2px solid #5cb85c;
+    padding: 0 0 2px 0;
+    display: inline-block !important;
+}
+.famous1 a {
+    color: #246F58;
+    font-weight: bold;
+    white-space: pre;
+}
+.thum{
+  float: left;
+  padding-right: 3px;
+}
+#famous1 li{
+    color: #C1C1C1;
+    font-family: arial;
+    font-size: 13.5px;
+    text-align: center;
+    text-transform:uppercase;
+    padding: 0px 90px 0px 0px; 
+    display: inline-block;
+    margin: 0 10px;
+}.main-color,
+ .entry-rating i,
+ .ec-stars-wrapper a,
+ .entry-meta .ec-stars-wrapper a,
+ .ec-stars-wrapper:hover a,
+ .ec-stars-wrapper.is-voted a,
+ .ec-stars-wrapper a:active,
+ .entry-meta span i,
+ .read-more .more-link,
+ #comments .author-comment {
+ color: #246F58;
+}
+
+.main-color-bg,
+ #main-menu > ul > li:hover a,
+ #main-menu > ul  > li.current-menu-item a,
+ #main-menu ul li ul li:hover a,
+ #main-menu ul li ul li.over a,
+ #main-menu ul li ul li ul li a:hover,
+ .pagination a:hover,
+ .pagination .current,
+ .footer-widget .section-title .sep { 
+    background: #246F58 
+}
+
+.pagination a:hover,
+ .pagination .current { 
+    border: 1px solid #246F58 
+}
+
+.slider-full .rating-info { 
+    border-right: 10px solid #246F58 
+}
+
+
+</style>
+<link rel='stylesheet' id='wt-font-awesome-css'  href='https://www.todoperros.com/wp-content/themes/wt_chapter/css/font-awesome/css/font-awesome.min.css?ver=4.9.8' type='text/css' media='all' />
+<link rel='stylesheet' id='um_fonticons_ii-css'  href='https://www.todoperros.com/wp-content/plugins/ultimate-member/assets/css/um-fonticons-ii.css?ver=4.9.8' type='text/css' media='all' />
+<link rel='stylesheet' id='um_fonticons_fa-css'  href='https://www.todoperros.com/wp-content/plugins/ultimate-member/assets/css/um-fonticons-fa.css?ver=4.9.8' type='text/css' media='all' />
+<link rel='stylesheet' id='select2-css'  href='https://www.todoperros.com/wp-content/plugins/ultimate-member/assets/css/select2/select2.min.css?ver=4.9.8' type='text/css' media='all' />
+<link rel='stylesheet' id='um_modal-css'  href='https://www.todoperros.com/wp-content/plugins/ultimate-member/assets/css/um-modal.css?ver=4.9.8' type='text/css' media='all' />
+<link rel='stylesheet' id='um_styles-css'  href='https://www.todoperros.com/wp-content/plugins/ultimate-member/assets/css/um-styles.css?ver=4.9.8' type='text/css' media='all' />
+<link rel='stylesheet' id='um_members-css'  href='https://www.todoperros.com/wp-content/plugins/ultimate-member/assets/css/um-members.css?ver=4.9.8' type='text/css' media='all' />
+<link rel='stylesheet' id='um_profile-css'  href='https://www.todoperros.com/wp-content/plugins/ultimate-member/assets/css/um-profile.css?ver=4.9.8' type='text/css' media='all' />
+<link rel='stylesheet' id='um_account-css'  href='https://www.todoperros.com/wp-content/plugins/ultimate-member/assets/css/um-account.css?ver=4.9.8' type='text/css' media='all' />
+<link rel='stylesheet' id='um_misc-css'  href='https://www.todoperros.com/wp-content/plugins/ultimate-member/assets/css/um-misc.css?ver=4.9.8' type='text/css' media='all' />
+<link rel='stylesheet' id='um_fileupload-css'  href='https://www.todoperros.com/wp-content/plugins/ultimate-member/assets/css/um-fileupload.css?ver=4.9.8' type='text/css' media='all' />
+<link rel='stylesheet' id='um_datetime-css'  href='https://www.todoperros.com/wp-content/plugins/ultimate-member/assets/css/pickadate/default.css?ver=4.9.8' type='text/css' media='all' />
+<link rel='stylesheet' id='um_datetime_date-css'  href='https://www.todoperros.com/wp-content/plugins/ultimate-member/assets/css/pickadate/default.date.css?ver=4.9.8' type='text/css' media='all' />
+<link rel='stylesheet' id='um_datetime_time-css'  href='https://www.todoperros.com/wp-content/plugins/ultimate-member/assets/css/pickadate/default.time.css?ver=4.9.8' type='text/css' media='all' />
+<link rel='stylesheet' id='um_raty-css'  href='https://www.todoperros.com/wp-content/plugins/ultimate-member/assets/css/um-raty.css?ver=4.9.8' type='text/css' media='all' />
+<link rel='stylesheet' id='um_scrollbar-css'  href='https://www.todoperros.com/wp-content/plugins/ultimate-member/assets/css/um-scrollbar.css?ver=4.9.8' type='text/css' media='all' />
+<link rel='stylesheet' id='um_crop-css'  href='https://www.todoperros.com/wp-content/plugins/ultimate-member/assets/css/um-crop.css?ver=4.9.8' type='text/css' media='all' />
+<link rel='stylesheet' id='um_tipsy-css'  href='https://www.todoperros.com/wp-content/plugins/ultimate-member/assets/css/um-tipsy.css?ver=4.9.8' type='text/css' media='all' />
+<link rel='stylesheet' id='um_responsive-css'  href='https://www.todoperros.com/wp-content/plugins/ultimate-member/assets/css/um-responsive.css?ver=4.9.8' type='text/css' media='all' />
+<link rel='stylesheet' id='um_default_css-css'  href='https://www.todoperros.com/wp-content/plugins/ultimate-member/assets/css/um-old-default.css?ver=2.0.24' type='text/css' media='all' />
+<link rel='stylesheet' id='um_old_css-css'  href='https://www.todoperros.com/wp-content/plugins/ultimate-member/../../uploads/ultimatemember/um_old_settings.css?ver=4.9.8' type='text/css' media='all' />
+<link rel='stylesheet' id='awpcp-frontend-style-css'  href='https://www.todoperros.com/wp-content/plugins/another-wordpress-classifieds-plugin/resources/css/awpcpstyle.css?ver=3.8.5' type='text/css' media='all' />
+<!--[if lte IE 6]>
+<link rel='stylesheet' id='awpcp-frontend-style-ie-6-css'  href='https://www.todoperros.com/wp-content/plugins/another-wordpress-classifieds-plugin/resources/css/awpcpstyle-ie-6.css?ver=3.8.5' type='text/css' media='all' />
+<![endif]-->
+<!--[if lte IE 7]>
+<link rel='stylesheet' id='awpcp-frontend-style-lte-ie-7-css'  href='https://www.todoperros.com/wp-content/plugins/another-wordpress-classifieds-plugin/resources/css/awpcpstyle-lte-ie-7.css?ver=3.8.5' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='awpcp-custom-css-css'  href='https://www.todoperros.com/wp-content/plugins/awpcp_custom_stylesheet.css?ver=3.8.5' type='text/css' media='all' />
+<link rel='stylesheet' id='sabai-css'  href='https://www.todoperros.com/wp-content/plugins/sabai/assets/css/main.min.css?ver=1.4.5' type='text/css' media='all' />
+<link rel='stylesheet' id='sabai-font-awesome-css'  href='https://www.todoperros.com/wp-content/plugins/sabai/assets/css/font-awesome.min.css?ver=1.4.5' type='text/css' media='all' />
+<link rel='stylesheet' id='sabai-googlemaps-css'  href='https://www.todoperros.com/wp-content/plugins/sabai-googlemaps/assets/css/main.min.css?ver=1.4.5' type='text/css' media='all' />
+<link rel='stylesheet' id='sabai-directory-css'  href='https://www.todoperros.com/wp-content/plugins/sabai-directory/assets/css/main.min.css?ver=1.4.5' type='text/css' media='all' />
+<link rel='stylesheet' id='sabai-wordpress-css'  href='https://www.todoperros.com/wp-content/sabai/assets/style.css?ver=1.4.5' type='text/css' media='all' />
+<script type='text/javascript' src='https://www.todoperros.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='https://www.todoperros.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='https://www.todoperros.com/wp-includes/js/imagesloaded.min.js?ver=3.2.0'></script>
+<script type='text/javascript' src='https://www.todoperros.com/wp-includes/js/masonry.min.js?ver=3.3.2'></script>
+<script type='text/javascript' src='https://www.todoperros.com/wp-includes/js/jquery/jquery.masonry.min.js?ver=3.1.2b'></script>
+<script type='text/javascript' src='https://www.todoperros.com/wp-content/plugins/ultimate-member/assets/js/select2/select2.full.min.js?ver=4.9.8'></script>
+<script type='text/javascript' src='https://www.todoperros.com/wp-includes/js/underscore.min.js?ver=1.8.3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpUtilSettings = {"ajax":{"url":"\/wp-admin\/admin-ajax.php"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.todoperros.com/wp-includes/js/wp-util.min.js?ver=4.9.8'></script>
+<script type='text/javascript' src='https://www.todoperros.com/wp-content/plugins/ultimate-member/assets/js/um-modal.min.js?ver=4.9.8'></script>
+<script type='text/javascript' src='https://www.todoperros.com/wp-content/plugins/ultimate-member/assets/js/um-jquery-form.min.js?ver=4.9.8'></script>
+<script type='text/javascript' src='https://www.todoperros.com/wp-content/plugins/ultimate-member/assets/js/um-fileupload.min.js?ver=4.9.8'></script>
+<script type='text/javascript' src='https://www.todoperros.com/wp-content/plugins/ultimate-member/assets/js/pickadate/picker.js?ver=4.9.8'></script>
+<script type='text/javascript' src='https://www.todoperros.com/wp-content/plugins/ultimate-member/assets/js/pickadate/picker.date.js?ver=4.9.8'></script>
+<script type='text/javascript' src='https://www.todoperros.com/wp-content/plugins/ultimate-member/assets/js/pickadate/picker.time.js?ver=4.9.8'></script>
+<script type='text/javascript' src='https://www.todoperros.com/wp-content/plugins/ultimate-member/assets/js/pickadate/legacy.js?ver=4.9.8'></script>
+<script type='text/javascript' src='https://www.todoperros.com/wp-content/plugins/ultimate-member/assets/js/um-raty.min.js?ver=4.9.8'></script>
+<script type='text/javascript' src='https://www.todoperros.com/wp-content/plugins/ultimate-member/assets/js/um-scrollto.min.js?ver=4.9.8'></script>
+<script type='text/javascript' src='https://www.todoperros.com/wp-content/plugins/ultimate-member/assets/js/um-scrollbar.min.js?ver=4.9.8'></script>
+<script type='text/javascript' src='https://www.todoperros.com/wp-content/plugins/ultimate-member/assets/js/um-crop.min.js?ver=4.9.8'></script>
+<script type='text/javascript' src='https://www.todoperros.com/wp-content/plugins/ultimate-member/assets/js/um-tipsy.min.js?ver=4.9.8'></script>
+<script type='text/javascript' src='https://www.todoperros.com/wp-content/plugins/ultimate-member/assets/js/um-functions.min.js?ver=4.9.8'></script>
+<script type='text/javascript' src='https://www.todoperros.com/wp-content/plugins/ultimate-member/assets/js/um-gdpr.min.js?ver=2.0.24'></script>
+<script type='text/javascript' src='https://www.todoperros.com/wp-content/plugins/ultimate-member/assets/js/um-responsive.min.js?ver=4.9.8'></script>
+<script type='text/javascript' src='https://www.todoperros.com/wp-content/plugins/ultimate-member/assets/js/um-conditional.min.js?ver=4.9.8'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var um_scripts = {"social_login_change_photo":"https:\/\/www.todoperros.com\/um-api\/route\/um_ext!um_social_login!core!Social_Login_Ajax\/ajax_change_photo\/47c40e68f2"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.todoperros.com/wp-content/plugins/ultimate-member/assets/js/um-scripts.min.js?ver=4.9.8'></script>
+<script type='text/javascript' src='https://www.todoperros.com/wp-content/plugins/ultimate-member/assets/js/um-members.min.js?ver=4.9.8'></script>
+<script type='text/javascript' src='https://www.todoperros.com/wp-content/plugins/ultimate-member/assets/js/um-profile.min.js?ver=4.9.8'></script>
+<script type='text/javascript' src='https://www.todoperros.com/wp-content/plugins/ultimate-member/assets/js/um-account.min.js?ver=4.9.8'></script>
+<link rel='https://api.w.org/' href='https://www.todoperros.com/wp-json/' />
+
+<meta property="fb:app_id" content="207349753168543"/><script type="text/javascript">
+(function(url){
+	if(/(?:Chrome\/26\.0\.1410\.63 Safari\/537\.31|WordfenceTestMonBot)/.test(navigator.userAgent)){ return; }
+	var addEvent = function(evt, handler) {
+		if (window.addEventListener) {
+			document.addEventListener(evt, handler, false);
+		} else if (window.attachEvent) {
+			document.attachEvent('on' + evt, handler);
+		}
+	};
+	var removeEvent = function(evt, handler) {
+		if (window.removeEventListener) {
+			document.removeEventListener(evt, handler, false);
+		} else if (window.detachEvent) {
+			document.detachEvent('on' + evt, handler);
+		}
+	};
+	var evts = 'contextmenu dblclick drag dragend dragenter dragleave dragover dragstart drop keydown keypress keyup mousedown mousemove mouseout mouseover mouseup mousewheel scroll'.split(' ');
+	var logHuman = function() {
+		if (window.wfLogHumanRan) { return; }
+		window.wfLogHumanRan = true;
+		var wfscr = document.createElement('script');
+		wfscr.type = 'text/javascript';
+		wfscr.async = true;
+		wfscr.src = url + '&r=' + Math.random();
+		(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(wfscr);
+		for (var i = 0; i < evts.length; i++) {
+			removeEvent(evts[i], logHuman);
+		}
+	};
+	for (var i = 0; i < evts.length; i++) {
+		addEvent(evts[i], logHuman);
+	}
+})('//www.todoperros.com/?wordfence_lh=1&hid=6EF459920F87676BC8C85E2238615346');
+</script>		<style type="text/css">
+			.request_name {
+				display: none !important;
+			}
+		</style>
+	
+<!-- BEGIN ExactMetrics v5.3.5 Universal Analytics - https://exactmetrics.com/ -->
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-459658-3', 'auto');
+  ga('require', 'displayfeatures');
+  ga('send', 'pageview');
+</script>
+<!-- END ExactMetrics Universal Analytics -->
+		<style type="text/css" id="wp-custom-css">
+			p#breadcrumbs {
+    display: none;
+}
+.home .breadcrumbs_title p#breadcrumbs {
+    display: none;
+}
+.breadcrumbs_title p#breadcrumbs {
+    display: block;
+    padding: 20px 0 5px 0;
+    margin: 0 0 16px 0;
+    font-size: 16px;
+    color: #002628;
+    font-weight: bold;
+    border-bottom: 1px solid #e9ebee;
+}		</style>
+	<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16">
+<link rel="manifest" href="/manifest.json">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+<meta name="apple-mobile-web-app-title" content="icon">
+<meta name="application-name" content="icon">
+<meta name="theme-color" content="#ffffff">
+<link rel="icon" href="/favicon.ico" type="image/x-icon" />
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({
+          google_ad_client: "ca-pub-9054389637730413",
+          enable_page_level_ads: true
+     });
+</script>
+<script type='text/javascript'>
+
+  var googletag = googletag || {};
+
+  googletag.cmd = googletag.cmd || [];
+
+  (function() {
+
+    var gads = document.createElement('script');
+
+    gads.async = true;
+
+    gads.type = 'text/javascript';
+
+    var useSSL = 'https:' == document.location.protocol;
+
+    gads.src = (useSSL ? 'https:' : 'http:') +
+
+      '//www.googletagservices.com/tag/js/gpt.js';
+
+    var node = document.getElementsByTagName('script')[0];
+
+    node.parentNode.insertBefore(gads, node);
+
+  })();
+
+</script>
+<script type='text/javascript'>
+
+  googletag.cmd.push(function() {
+
+	  var mapping = googletag.sizeMapping().
+
+ addSize([1024, 768], [728, 90]).
+
+ addSize([600, 800], [468, 60]).
+
+ addSize([800, 600], [728, 90]).
+
+ addSize([1, 1], [300, 250]).
+
+ build();
+
+    googletag.defineSlot('/1007495/TP-Header-Home-728x90', [[300, 250], [728, 90], [468, 60]], 'div-gpt-ad-1465134576692-0').defineSizeMapping(mapping).addService(googletag.pubads());
+
+    googletag.defineSlot('/1007495/TP-blog-Header', [300, 250], 'div-gpt-ad-1465134576692-1').addService(googletag.pubads());
+
+    googletag.defineSlot('/1007495/TP-Blog-SidebarInterna', [[300, 250], [300, 600]], 'div-gpt-ad-1465134576692-2').addService(googletag.pubads());
+
+    googletag.pubads().enableSingleRequest();
+
+    googletag.enableServices();
+
+  });
+
+</script>
+
+<p id="breadcrumbs"><span><span><a href="https://www.todoperros.com/" >Inicio</a> » <span class="breadcrumb_last">Error 404: Página no encontrada</span></span></span></p>
+<link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.css" />
+<script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.js"></script>
+<script>
+window.addEventListener("load", function(){
+window.cookieconsent.initialise({
+  "palette": {
+    "popup": {
+      "background": "#f5c20c"
+    },
+    "button": {
+      "background": "#11c924"
+    }
+  },
+  "theme": "classic",
+  "position": "bottom-right",
+  "content": {
+    "message": "Utilizamos cookies propias y de terceros para mejorar nuestros servicios, elaborar información estadística y analizar tus hábitos de navegación. Esto nos permite mostrarte publicidad acorde a tus preferencias. ",
+    "dismiss": "Acepto",
+    "link": "más información",
+    "href": "https://www.todoperros.com/foro/ucp.php?mode=terms"
+  }
+})});
+</script>
+<!-- Facebook Pixel Code -->
+<script>
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '770524419753416');
+  fbq('track', 'PageView');
+</script>
+<noscript>
+<img height="1" width="1" style="display:none"
+  src="https://www.facebook.com/tr?id=770524419753416&ev=PageView&noscript=1"
+/>
+</noscript>
+<!-- End Facebook Pixel Code -->
+</head>
+
+<body class="error404">
+<header id="header" class="clearfix">
+  <div class="wrap">
+    <div class="logo">
+            <a href="https://www.todoperros.com" title="TodoPerros.com"> <img src="https://www.todoperros.com/wp-content/uploads/2015/10/logo-todoperros-nuevo501.png" alt="TodoPerros.com" /> </a>
+          </div>
+    <div class="menu-section clearfix">
+      <nav id="main-menu">
+        <ul id="menu-main-menu" class="menu"><li id="menu-item-201" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-201"><a href="https://www.todoperros.com/clasificados/">Clasificados</a>
+<ul class="sub-menu">
+	<li id="menu-item-279" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-279"><a href="https://www.todoperros.com/clasificados/ver-anuncios/">Ver anuncios</a></li>
+	<li id="menu-item-202" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-202"><a href="https://www.todoperros.com/clasificados/publicar-un-anuncio/">Publicar un anuncio</a></li>
+</ul>
+</li>
+<li id="menu-item-219" class="nodisplay menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-219"><a href="/foro">Foros</a>
+<ul class="sub-menu">
+	<li id="menu-item-801" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-801"><a href="/foro/viewforum.php?f=35">Foro General</a></li>
+	<li id="menu-item-244" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-244"><a href="/foro/viewforum.php?f=2">Agility</a></li>
+	<li id="menu-item-802" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-802"><a href="/foro/viewforum.php?f=31">Alimentando a mi Perro</a></li>
+	<li id="menu-item-245" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-245"><a href="/foro/viewforum.php?f=32">Derechos de los Perros</a></li>
+	<li id="menu-item-246" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-246"><a href="/foro/viewforum.php?f=33">Etología</a></li>
+	<li id="menu-item-803" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-803"><a href="/foro/viewforum.php?f=34">Exposiciones Caninas</a></li>
+	<li id="menu-item-804" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-804"><a href="/foro/viewforum.php?f=36">Perros &#8220;potencialmente&#8221; peligrosos</a></li>
+	<li id="menu-item-805" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-805"><a href="/foro/viewforum.php?f=37">Veterinarios</a></li>
+	<li id="menu-item-806" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-806"><a href="/foro/viewforum.php?f=38">Adiestradores</a></li>
+	<li id="menu-item-807" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-807"><a href="/foro/viewforum.php?f=39">Estética y Peluquería Canina</a></li>
+	<li id="menu-item-808" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-808"><a href="/foro/viewforum.php?f=40">El Perro y el ejercicio</a></li>
+	<li id="menu-item-809" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-809"><a href="/foro/viewforum.php?f=4">Akita Inu &#8211; Gran Perro Japonés</a></li>
+	<li id="menu-item-810" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-810"><a href="/foro/viewforum.php?f=5">American Staffordshire Terrier</a></li>
+	<li id="menu-item-811" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-811"><a href="/foro/viewforum.php?f=6">Basset Hound</a></li>
+	<li id="menu-item-812" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-812"><a href="/foro/viewforum.php?f=7">Beagle</a></li>
+	<li id="menu-item-813" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-813"><a href="/foro/viewforum.php?f=8">Bichón Maltés</a></li>
+	<li id="menu-item-814" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-814"><a href="/foro/viewforum.php?f=9">Boxer</a></li>
+	<li id="menu-item-815" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-815"><a href="/foro/viewforum.php?f=10">Bulldog Francés</a></li>
+	<li id="menu-item-816" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-816"><a href="/foro/viewforum.php?f=11">Bulldog Inglés</a></li>
+	<li id="menu-item-817" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-817"><a href="/foro/viewforum.php?f=12">Bull Terrier</a></li>
+	<li id="menu-item-818" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-818"><a href="/foro/viewforum.php?f=13">Chihuahua</a></li>
+	<li id="menu-item-819" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-819"><a href="/foro/viewforum.php?f=14">Cocker Spaniel Inglés</a></li>
+	<li id="menu-item-820" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-820"><a href="/foro/viewforum.php?f=15">Dobermann</a></li>
+	<li id="menu-item-821" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-821"><a href="/foro/viewforum.php?f=16">Dogo Argentino</a></li>
+	<li id="menu-item-822" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-822"><a href="/foro/viewforum.php?f=17">Golden Retriever</a></li>
+	<li id="menu-item-823" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-823"><a href="/foro/viewforum.php?f=18">Gos d&#8217;Atura Catalá</a></li>
+	<li id="menu-item-824" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-824"><a href="/foro/viewforum.php?f=19">Labrador Retriever</a></li>
+	<li id="menu-item-825" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-825"><a href="/foro/viewforum.php?f=20">Lebreles</a></li>
+	<li id="menu-item-826" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-826"><a href="/foro/viewforum.php?f=22">Pastor Alemán</a></li>
+	<li id="menu-item-827" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-827"><a href="/foro/viewforum.php?f=23">Rottweiler</a></li>
+	<li id="menu-item-828" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-828"><a href="/foro/viewforum.php?f=24">Schnauzer</a></li>
+	<li id="menu-item-829" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-829"><a href="/foro/viewforum.php?f=25">Shar Pei</a></li>
+	<li id="menu-item-830" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-830"><a href="/foro/viewforum.php?f=26">Shih Tzu</a></li>
+	<li id="menu-item-831" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-831"><a href="/foro/viewforum.php?f=27">Siberian Husky</a></li>
+	<li id="menu-item-832" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-832"><a href="/foro/viewforum.php?f=28">Teckel &#8211; Dachshund</a></li>
+	<li id="menu-item-833" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-833"><a href="/foro/viewforum.php?f=29">West Highland White Terrier</a></li>
+	<li id="menu-item-834" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-834"><a href="/foro/viewforum.php?f=30">Yorkshire Terrier</a></li>
+</ul>
+</li>
+<li id="menu-item-231" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-231"><a href="/category/blog/">Blog</a></li>
+<li id="menu-item-238" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-238"><a href="https://www.todoperros.com/category/articulos/">Artículos</a>
+<ul class="sub-menu">
+	<li id="menu-item-239" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-239"><a href="https://www.todoperros.com/category/articulos/adiestramiento/">Adiestramiento</a></li>
+	<li id="menu-item-240" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-240"><a href="https://www.todoperros.com/category/articulos/enfermedades/">Enfermedades</a></li>
+	<li id="menu-item-242" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-242"><a href="https://www.todoperros.com/category/articulos/razas/">Razas</a></li>
+	<li id="menu-item-25608" class="menu-item menu-item-type-post_type_archive menu-item-object-perros_famosos menu-item-25608"><a href="https://www.todoperros.com/perros-famosos/">Perros Famosos</a></li>
+	<li id="menu-item-25738" class="menu-item menu-item-type-post_type_archive menu-item-object-perros_de_famosos menu-item-25738"><a href="https://www.todoperros.com/perros-de-famosos/">Perros de famosos</a></li>
+	<li id="menu-item-16920" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-16920"><a href="/">Directorio</a>
+	<ul class="sub-menu">
+		<li id="menu-item-16921" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16921"><a href="https://www.todoperros.com/adiestradores/">Adiestradores de Perros</a></li>
+		<li id="menu-item-16928" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16928"><a href="https://www.todoperros.com/criaderos/">Criaderos de Perros</a></li>
+		<li id="menu-item-17577" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17577"><a href="https://www.todoperros.com/peluquerias-caninas/">Peluquerías Caninas</a></li>
+		<li id="menu-item-17578" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17578"><a href="https://www.todoperros.com/veterinarios/">Veterinarios</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-904" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-904"><a href="https://www.todoperros.com/contacto/">Contacto</a></li>
+</ul>      </nav>
+    </div>
+    <div class="social">
+      <ul class="list">
+                                              </ul>
+    </div>
+    <div class="search">
+      <script>
+  (function() {
+    var cx = '009938666677474156369:oz-px0rl4ym';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+<gcse:searchbox-only></gcse:searchbox-only>    </div>
+  </div>
+</header>
+<section id="main">
+<div class="inner-wrap">
+
+<div id="content" class="error-page full-content">
+	
+	<div class="error-number">	
+		<h1>404</h1>
+		<h2>Page not found</h2>
+		<p>It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching, or one of the links below, can help.</p>
+	</div>
+	
+	<div class="error-info">
+		
+		<div class="post-list">
+					<div class="widget widget_recent_entries">		 		<ul>
+											<li>
+					<a href="https://www.todoperros.com/sonrisas-atraen-perros/">Las sonrisas atraen a los perros</a>
+									</li>
+											<li>
+					<a href="https://www.todoperros.com/sarna-con-gusto-no-pica/">Sarna con gusto, no pica</a>
+									</li>
+											<li>
+					<a href="https://www.todoperros.com/con-el-ultimo-suspiro/">Con el último suspiro</a>
+									</li>
+					</ul>
+		</div>		</div>
+		
+		<div class="search">
+			<script>
+  (function() {
+    var cx = '009938666677474156369:oz-px0rl4ym';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+<gcse:searchbox-only></gcse:searchbox-only>		</div>
+		
+	</div>
+	
+</div><!-- /content -->
+	
+	</div>
+	
+	</section><!-- /main -->
+
+	<footer id="footer">
+				
+		<div class="footer-menu">
+			<div class="inner-wrap">
+				<div class="logo">			
+											
+						<a href="https://www.todoperros.com" title="TodoPerros.com">
+							<img src="https://www.todoperros.com/wp-content/themes/wt_chapter/images/logo-alt.png" alt="TodoPerros.com" />
+						</a>
+							
+						
+				</div>
+				<ul id="menu-footer" class="menu"><li id="menu-item-222" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-222"><a href="https://www.todoperros.com/clasificados/">Clasificados</a></li>
+<li id="menu-item-855" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-855"><a href="https://www.todoperros.com/recordar-clave/">¿Olvidaste tu clave?</a></li>
+<li id="menu-item-856" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-856"><a href="https://www.todoperros.com/foro/">Foros</a></li>
+<li id="menu-item-907" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-907"><a href="https://www.todoperros.com/contacto/">Contacto</a></li>
+<li id="menu-item-16880" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16880"><a href="http://www.todogatos.com/">Gatos</a></li>
+</ul>	
+			</div>
+		</div>
+		
+		
+		<div class="footer-widgets">
+			<div class="inner-wrap">	
+				
+								
+								
+								
+								
+	
+			</div>
+		</div>
+		
+		<div class="footer-info">	
+			<div class="inner-wrap">
+				©1998 - 2018 <a href="https://www.todoperros.com">TodoPerros.com</a>				
+			</div>	
+		</div>
+	</footer>
+<div id="um_upload_single" style="display:none">
+	
+</div><div id="um_view_photo" style="display:none">
+
+	<a href="#" data-action="um_remove_modal" class="um-modal-close"><i class="um-faicon-times"></i></a>
+	
+	<div class="um-modal-body photo">
+	
+		<div class="um-modal-photo">
+
+		</div>
+
+	</div>
+	
+</div><script type="text/javascript">!function(t,e){"use strict";function n(){if(!a){a=!0;for(var t=0;t<d.length;t++)d[t].fn.call(window,d[t].ctx);d=[]}}function o(){"complete"===document.readyState&&n()}t=t||"docReady",e=e||window;var d=[],a=!1,c=!1;e[t]=function(t,e){return a?void setTimeout(function(){t(e)},1):(d.push({fn:t,ctx:e}),void("complete"===document.readyState||!document.attachEvent&&"interactive"===document.readyState?setTimeout(n,1):c||(document.addEventListener?(document.addEventListener("DOMContentLoaded",n,!1),window.addEventListener("load",n,!1)):(document.attachEvent("onreadystatechange",o),window.attachEvent("onload",n)),c=!0)))}}("wpBruiserDocReady",window);
+			(function(){var wpbrLoader = (function(){var g=document,b=g.createElement('script'),c=g.scripts[0];b.async=1;b.src='https://www.todoperros.com/?gdbc-client=3.1.20-'+(new Date()).getTime();c.parentNode.insertBefore(b,c);});wpBruiserDocReady(wpbrLoader);window.onunload=function(){};window.addEventListener('pageshow',function(event){if(event.persisted){(typeof window.WPBruiserClient==='undefined')?wpbrLoader():window.WPBruiserClient.requestTokens();}},false);})();
+</script><script type='text/javascript' src='https://www.todoperros.com/wp-content/plugins/um-social-login/assets/js/um-social-connect.js?ver=4.9.8'></script>
+<script type='text/javascript' src='https://www.todoperros.com/wp-content/plugins/um-social-login/assets/js/um-facebook-fix.js?ver=4.9.8'></script>
+<script type='text/javascript' src='https://www.todoperros.com/wp-content/themes/wt_chapter/js/superfish.js?ver=4.9.8'></script>
+<script type='text/javascript' src='https://www.todoperros.com/wp-content/themes/wt_chapter/js/jquery.easing.1.3.js?ver=4.9.8'></script>
+<script type='text/javascript' src='https://www.todoperros.com/wp-content/themes/wt_chapter/js/jquery.flexslider-min.js?ver=4.9.8'></script>
+<script type='text/javascript' src='https://www.todoperros.com/wp-content/themes/wt_chapter/js/lightbox.min.js?ver=4.9.8'></script>
+<script type='text/javascript' src='https://www.todoperros.com/wp-content/themes/wt_chapter/js/jflickrfeed.min.js?ver=4.9.8'></script>
+<script type='text/javascript' src='https://www.todoperros.com/wp-content/themes/wt_chapter/js/jquery.slicknav.min.js?ver=4.9.8'></script>
+<script type='text/javascript' src='https://www.todoperros.com/wp-content/themes/wt_chapter/js/jquery.touchSwipe.min.js?ver=4.9.8'></script>
+<script type='text/javascript' src='https://www.todoperros.com/wp-content/themes/wt_chapter/js/jquery.simplyscroll.min.js?ver=4.9.8'></script>
+<script type='text/javascript' src='https://www.todoperros.com/wp-content/themes/wt_chapter/js/custom.js?ver=4.9.8'></script>
+<script type='text/javascript' src='https://www.todoperros.com/wp-content/plugins/ultimate-member/assets/js/pickadate/translations/es_ES.js?ver=2.0.24'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var ec_ajax_data = {"ajax_url":"https:\/\/www.todoperros.com\/wp-admin\/admin-ajax.php","codes":{"SUCCESS":1,"PREVIOUSLY_VOTED":0,"REQUEST_ERROR":2,"UNKNOWN":-1},"messages":{"success":"You have voted successfully.","previously_voted":"You have already voted.","request_error":"There was some problem.","unknown":"An error occurred."}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.todoperros.com/wp-content/themes/wt_chapter/js/wt-rating.js?ver=4.9.8'></script>
+<!-- Facebook Comments Plugin for WordPress: http://peadig.com/wordpress-plugins/facebook-comments/ -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/es_ES/sdk.js#xfbml=1&appId=207349753168543&version=v2.3";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+		<script type="text/javascript">
+			jQuery( '#request' ).val( '' );
+		</script>
+	<script>(function(w, d){
+	var b = d.getElementsByTagName("body")[0];
+	var s = d.createElement("script"); s.async = true;
+	s.src = !("IntersectionObserver" in w) ? "https://www.todoperros.com/wp-content/plugins/wp-rocket/inc/front/js/lazyload-8.12.min.js" : "https://www.todoperros.com/wp-content/plugins/wp-rocket/inc/front/js/lazyload-10.12.min.js";
+	w.lazyLoadOptions = {
+		elements_selector: "img",
+		data_src: "lazy-src",
+		data_srcset: "lazy-srcset",
+		data_sizes: "lazy-sizes",
+		skip_invisible: false,
+		class_loading: "lazyloading",
+		class_loaded: "lazyloaded",
+		threshold: 300,
+		callback_load: function(element) {
+			if ( element.tagName === "IFRAME" && element.dataset.rocketLazyload == "fitvidscompatible" ) {
+				if (element.classList.contains("lazyloaded") ) {
+					if (typeof window.jQuery != "undefined") {
+						if (jQuery.fn.fitVids) {
+							jQuery(element).parent().fitVids();
+						}
+					}
+				}
+			}
+		}
+	}; // Your options here. See "recipes" for more information about async.
+	b.appendChild(s);
+}(window, document));
+
+// Listen to the Initialized event
+window.addEventListener('LazyLoad::Initialized', function (e) {
+    // Get the instance and puts it in the lazyLoadInstance variable
+	var lazyLoadInstance = e.detail.instance;
+
+	var observer = new MutationObserver(function(mutations) {
+		mutations.forEach(function(mutation) {
+			lazyLoadInstance.update();
+		} );
+	} );
+	
+	var b      = document.getElementsByTagName("body")[0];
+	var config = { childList: true, subtree: true };
+	
+	observer.observe(b, config);
+}, false);
+</script></body>
+</html>

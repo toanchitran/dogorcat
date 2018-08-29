@@ -1,0 +1,684 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="es-ES">
+<head profile="http://gmpg.org/xfn/11">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+<meta name="robots" content="follow, all" />
+<meta name="language" content="es, ES" />
+<title>rienzie - Piensa en Geek</title>
+<link rel="icon" type="image/x-icon" href="https://www.rienzie.com/favicon.ico" />
+<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="https://feeds.feedburner.com/rienzie" />
+<link rel="alternate" type="text/xml" title="RSS .92" href="https://feeds.feedburner.com/rienzie" />
+<link rel="alternate" type="application/atom+xml" title="Atom 0.3" href="https://feeds.feedburner.com/rienzie" />
+<link rel="pingback" href="https://www.rienzie.com/xmlrpc.php"/>
+<link rel="stylesheet" href="https://www.rienzie.com/wp-content/themes/rienzie/style.css" type="text/css" media="screen" />
+
+<!-- All in One SEO Pack 2.3.15.3 by Michael Torbert of Semper Fi Web Design[384,415] -->
+<meta name="description"  content="Novedades sobre tecnología, cultura geek y curiosidades." />
+
+<meta name="keywords"  content="entretenimiento, rienzie, angel carrion, internet,tecnología, deporte, diseño,  web, gadgets, geek, actualidad, curiosidades," />
+<link rel='next' href='https://rienzie.com/page/2/' />
+
+<link rel="canonical" href="https://rienzie.com/" />
+<!-- /all in one seo pack -->
+<link rel='dns-prefetch' href='//s0.wp.com' />
+<link rel='dns-prefetch' href='//secure.gravatar.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/rienzie.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.8.7"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,56826,8203,55356,56819),0,0),c=j.toDataURL(),b!==c&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55358,56794,8205,9794,65039),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55358,56794,8203,9794,65039),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='simple-payments-css'  href='https://rienzie.com/wp-content/plugins/jetpack/modules/simple-payments/simple-payments.css?ver=4.8.7' type='text/css' media='all' />
+<link rel='stylesheet' id='front-estilos-css'  href='https://rienzie.com/wp-content/plugins/asesor-cookies-para-la-ley-en-espana/html/front/estilos.css?ver=4.8.7' type='text/css' media='all' />
+<link rel='stylesheet' id='open-sans-css'  href='https://fonts.googleapis.com/css?family=Open+Sans%3A300italic%2C400italic%2C600italic%2C300%2C400%2C600&#038;subset=latin%2Clatin-ext&#038;ver=4.8.7' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css'  href='https://rienzie.com/wp-content/plugins/jetpack/css/jetpack.css?ver=5.2.1' type='text/css' media='all' />
+<script type='text/javascript' src='https://rienzie.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='https://rienzie.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var cdp_cookies_info = {"url_plugin":"https:\/\/rienzie.com\/wp-content\/plugins\/asesor-cookies-para-la-ley-en-espana\/plugin.php","url_admin_ajax":"https:\/\/rienzie.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://rienzie.com/wp-content/plugins/asesor-cookies-para-la-ley-en-espana/html/front/principal.js?ver=4.8.7'></script>
+<link rel='https://api.w.org/' href='https://rienzie.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://rienzie.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://rienzie.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.8.7" />
+<link rel='shortlink' href='https://wp.me/5obo' />
+
+<!-- Start Of Script Generated By cforms v10.2 [Oliver Seidel | www.deliciousdays.com] -->
+<link rel="stylesheet" type="text/css" href="https://rienzie.com/wp-content/plugins/cforms/styling/mono_space_light.css" />
+<script type="text/javascript" src="https://rienzie.com/wp-content/plugins/cforms/js/cforms.js"></script>
+<!-- End Of Script Generated By cforms -->
+
+
+<link rel='dns-prefetch' href='//v0.wordpress.com'>
+<link rel='dns-prefetch' href='//i0.wp.com'>
+<link rel='dns-prefetch' href='//i1.wp.com'>
+<link rel='dns-prefetch' href='//i2.wp.com'>
+
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="website" />
+<meta property="og:title" content="rienzie - Piensa en Geek" />
+<meta property="og:description" content="Novedades sobre tecnología, cultura geek y curiosidades." />
+<meta property="og:url" content="https://rienzie.com/" />
+<meta property="og:site_name" content="rienzie - Piensa en Geek" />
+<meta property="og:image" content="https://s0.wp.com/i/blank.jpg" />
+<meta property="og:locale" content="es_ES" />
+	<link rel='archives' title='febrero 2014' href='https://rienzie.com/2014/02/' />
+	<link rel='archives' title='octubre 2012' href='https://rienzie.com/2012/10/' />
+	<link rel='archives' title='septiembre 2012' href='https://rienzie.com/2012/09/' />
+	<link rel='archives' title='agosto 2012' href='https://rienzie.com/2012/08/' />
+	<link rel='archives' title='mayo 2012' href='https://rienzie.com/2012/05/' />
+	<link rel='archives' title='abril 2012' href='https://rienzie.com/2012/04/' />
+	<link rel='archives' title='marzo 2012' href='https://rienzie.com/2012/03/' />
+	<link rel='archives' title='febrero 2012' href='https://rienzie.com/2012/02/' />
+	<link rel='archives' title='enero 2012' href='https://rienzie.com/2012/01/' />
+	<link rel='archives' title='diciembre 2011' href='https://rienzie.com/2011/12/' />
+	<link rel='archives' title='noviembre 2011' href='https://rienzie.com/2011/11/' />
+	<link rel='archives' title='octubre 2011' href='https://rienzie.com/2011/10/' />
+	<link rel='archives' title='septiembre 2011' href='https://rienzie.com/2011/09/' />
+	<link rel='archives' title='agosto 2011' href='https://rienzie.com/2011/08/' />
+	<link rel='archives' title='julio 2011' href='https://rienzie.com/2011/07/' />
+	<link rel='archives' title='junio 2011' href='https://rienzie.com/2011/06/' />
+	<link rel='archives' title='mayo 2011' href='https://rienzie.com/2011/05/' />
+	<link rel='archives' title='abril 2011' href='https://rienzie.com/2011/04/' />
+	<link rel='archives' title='marzo 2011' href='https://rienzie.com/2011/03/' />
+	<link rel='archives' title='febrero 2011' href='https://rienzie.com/2011/02/' />
+	<link rel='archives' title='enero 2011' href='https://rienzie.com/2011/01/' />
+	<link rel='archives' title='diciembre 2010' href='https://rienzie.com/2010/12/' />
+	<link rel='archives' title='noviembre 2010' href='https://rienzie.com/2010/11/' />
+	<link rel='archives' title='octubre 2010' href='https://rienzie.com/2010/10/' />
+	<link rel='archives' title='septiembre 2010' href='https://rienzie.com/2010/09/' />
+	<link rel='archives' title='julio 2010' href='https://rienzie.com/2010/07/' />
+	<link rel='archives' title='junio 2010' href='https://rienzie.com/2010/06/' />
+	<link rel='archives' title='mayo 2010' href='https://rienzie.com/2010/05/' />
+	<link rel='archives' title='abril 2010' href='https://rienzie.com/2010/04/' />
+	<link rel='archives' title='marzo 2010' href='https://rienzie.com/2010/03/' />
+	<link rel='archives' title='febrero 2010' href='https://rienzie.com/2010/02/' />
+	<link rel='archives' title='enero 2010' href='https://rienzie.com/2010/01/' />
+	<link rel='archives' title='diciembre 2009' href='https://rienzie.com/2009/12/' />
+	<link rel='archives' title='noviembre 2009' href='https://rienzie.com/2009/11/' />
+	<link rel='archives' title='octubre 2009' href='https://rienzie.com/2009/10/' />
+	<link rel='archives' title='septiembre 2009' href='https://rienzie.com/2009/09/' />
+	<link rel='archives' title='agosto 2009' href='https://rienzie.com/2009/08/' />
+	<link rel='archives' title='julio 2009' href='https://rienzie.com/2009/07/' />
+	<link rel='archives' title='junio 2009' href='https://rienzie.com/2009/06/' />
+	<link rel='archives' title='mayo 2009' href='https://rienzie.com/2009/05/' />
+	<link rel='archives' title='abril 2009' href='https://rienzie.com/2009/04/' />
+	<link rel='archives' title='marzo 2009' href='https://rienzie.com/2009/03/' />
+	<link rel='archives' title='febrero 2009' href='https://rienzie.com/2009/02/' />
+	<link rel='archives' title='enero 2009' href='https://rienzie.com/2009/01/' />
+	<link rel='archives' title='diciembre 2008' href='https://rienzie.com/2008/12/' />
+	<link rel='archives' title='noviembre 2008' href='https://rienzie.com/2008/11/' />
+	<link rel='archives' title='octubre 2008' href='https://rienzie.com/2008/10/' />
+	<link rel='archives' title='septiembre 2008' href='https://rienzie.com/2008/09/' />
+	<link rel='archives' title='agosto 2008' href='https://rienzie.com/2008/08/' />
+	<link rel='archives' title='julio 2008' href='https://rienzie.com/2008/07/' />
+	<link rel='archives' title='junio 2008' href='https://rienzie.com/2008/06/' />
+	<link rel='archives' title='mayo 2008' href='https://rienzie.com/2008/05/' />
+	<link rel='archives' title='abril 2008' href='https://rienzie.com/2008/04/' />
+	<link rel='archives' title='marzo 2008' href='https://rienzie.com/2008/03/' />
+	<link rel='archives' title='febrero 2008' href='https://rienzie.com/2008/02/' />
+	<link rel='archives' title='enero 2008' href='https://rienzie.com/2008/01/' />
+	<link rel='archives' title='diciembre 2007' href='https://rienzie.com/2007/12/' />
+	<link rel='archives' title='noviembre 2007' href='https://rienzie.com/2007/11/' />
+	<link rel='archives' title='octubre 2007' href='https://rienzie.com/2007/10/' />
+	<link rel='archives' title='septiembre 2007' href='https://rienzie.com/2007/09/' />
+	<link rel='archives' title='agosto 2007' href='https://rienzie.com/2007/08/' />
+	<link rel='archives' title='julio 2007' href='https://rienzie.com/2007/07/' />
+	<link rel='archives' title='junio 2007' href='https://rienzie.com/2007/06/' />
+	<link rel='archives' title='mayo 2007' href='https://rienzie.com/2007/05/' />
+	<link rel='archives' title='abril 2007' href='https://rienzie.com/2007/04/' />
+	<link rel='archives' title='marzo 2007' href='https://rienzie.com/2007/03/' />
+
+
+</head>
+
+<body>
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/es_LA/all.js#xfbml=1&appId=182042955198696";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<a id="up"></a>
+<div id="container"><div id="header"><div class="headerleft">
+
+<div style="margin-top:20px;"><a href="https://www.rienzie.com"><img src="https://www.rienzie.com/wp-content/themes/rienzie/images/logo2011.png" alt="rienzie.com" width="400" height="87" border="0"/></a></div>
+
+</div>
+<div class="headerright">
+<div id="search">
+
+
+<form action="https://www.rienzie.com/busqueda" id="cse-search-box">
+  <div>
+    <input type="hidden" name="cx" value="partner-pub-7699638504133752:vy05c-meti7" />
+    <input type="hidden" name="cof" value="FORID:10" />
+    <input type="hidden" name="ie" value="UTF-8" />
+    <input type="text" name="q" size="38" />
+    <input type="submit" name="sa" value="Buscar" />
+  </div>
+</form>
+<script type="text/javascript" src="https://www.google.es/cse/brand?form=cse-search-box&amp;lang=es"></script> 
+</div></div></div>
+<div id="navegacion" class="navegacion">
+
+<ul>
+<li><a href="https://www.rienzie.com">Portada </a>  &nbsp;&nbsp; &nbsp; <span class="sombra">|</span></li> 
+<li><a href="https://www.rienzie.com/acerca-de">Acerca de…</a>&nbsp;&nbsp;&nbsp; <span class="sombra">|</span></li>
+<li><a href="https://www.rienzie.com/categorias">Categorias</a>&nbsp;&nbsp;&nbsp; <span class="sombra">|</span></li>
+<li><a href="https://www.rienzie.com/contacto">Contactar</a>&nbsp;&nbsp;&nbsp; <span class="sombra">|</span></li> 
+<li><a href="https://www.rienzie.com/hotmail" title="Hotmail.com">Hotmail.com</a> &nbsp;&nbsp;&nbsp;<span class="sombra">|</span></li> 
+
+
+</div>
+<h1 class="hide"><a href="http://rienzie.com">rienzie - Piensa en Geek</a></h1>
+<div id="content">
+<div id="contentleft">
+
+
+<h2><a href="https://rienzie.com/gifs-en-3d-movimiento-llevado-a-otro-extremo/" rel="bookmark">GIFs en 3D, movimiento llevado a otro extremo</a></h2>
+<div class="pie"><p>Por:  <b><a href="https://rienzie.com/author/admin/" title="Entradas de Àngel Carrión" rel="author">Àngel Carrión</a></b> el 19-febrero-2014 | <strong><a href="https://rienzie.com/gifs-en-3d-movimiento-llevado-a-otro-extremo/#comments">1 comentario</a></strong></p></div>
+<div id="fb-root"></div><script src="https://connect.facebook.net/es_ES/all.js#appId=141559595922572&amp;xfbml=1"></script><fb:like href="https://rienzie.com/gifs-en-3d-movimiento-llevado-a-otro-extremo/" send="false" layout="box_count" width="90" show_faces="false" font="verdana"></fb:like><g:plusone size="tall"></g:plusone>
+<div style="clear:both"></div>
+
+<div><div align="left"><img class="size-full wp-image-9667 alignleft" alt="GIF 3D minions" src="https://i0.wp.com/www.rienzie.com/wp-content/uploads/2014/02/tumblr_n160e94Yl01qjee4wo3_500.gif?resize=630%2C339" data-recalc-dims="1" /></div>
+<div style="clear: both;"></div>
+<p>Los <strong>GIFs</strong>, como todos sabéis son archivos de imagen con movimiento. Hasta hace poco relativamente, servían para dar movimiento a dibujos con poca calidad, banners o botones para webs <em>old school</em>. </p>
+<p>Ahora a algunos &#8220;magos&#8221; de los GIFs les gusta jugar con la percepción de la realidad, y gracias a marcos blancos que simulan una separación entre la imagen y nosotros consiguen crear <strong>efectos 3D sorprendentes</strong>.</p>
+<p> <a href="https://rienzie.com/gifs-en-3d-movimiento-llevado-a-otro-extremo/#more-9664" class="more-link">Leer el resto</a></p>
+</div>
+
+
+
+<hr style="width:640px" />
+ 
+<p><b>Tags: </b> <a href="https://rienzie.com/tag/3d/" rel="tag">3d</a>, <a href="https://rienzie.com/tag/efecto-optico/" rel="tag">Efecto óptico</a>, <a href="https://rienzie.com/tag/gif/" rel="tag">gif</a></p>
+
+<hr style="width:640px" />
+ 
+
+<!--<div><img src="https://rienzie.com/wp-content/themes/rienzie/images/separata.gif" alt="Separación" /></div>-->
+<br />
+
+
+
+	<!--
+	<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+			xmlns:dc="http://purl.org/dc/elements/1.1/"
+			xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+		<rdf:Description rdf:about="https://rienzie.com/gifs-en-3d-movimiento-llevado-a-otro-extremo/"
+    dc:identifier="https://rienzie.com/gifs-en-3d-movimiento-llevado-a-otro-extremo/"
+    dc:title="GIFs en 3D, movimiento llevado a otro extremo"
+    trackback:ping="https://rienzie.com/gifs-en-3d-movimiento-llevado-a-otro-extremo/trackback/" />
+</rdf:RDF>	-->
+
+<h2><a href="https://rienzie.com/gopro-presenta-su-nueva-gopro-hero3-black-edition/" rel="bookmark">GoPro presenta su nueva GoPro HERO3 Black Edition</a></h2>
+<div class="pie"><p>Por:  <b><a href="https://rienzie.com/author/admin/" title="Entradas de Àngel Carrión" rel="author">Àngel Carrión</a></b> el 18-octubre-2012 | <strong><a href="https://rienzie.com/gopro-presenta-su-nueva-gopro-hero3-black-edition/#comments">5 comentarios</a></strong></p></div>
+<div id="fb-root"></div><script src="https://connect.facebook.net/es_ES/all.js#appId=141559595922572&amp;xfbml=1"></script><fb:like href="https://rienzie.com/gopro-presenta-su-nueva-gopro-hero3-black-edition/" send="false" layout="box_count" width="90" show_faces="false" font="verdana"></fb:like><g:plusone size="tall"></g:plusone>
+<div style="clear:both"></div>
+
+<div><p><iframe width="640" height="360" src="https://www.youtube.com/embed/A3PDXmYoF5U" frameborder="0" allowfullscreen></iframe></p>
+<p>La famosa marca de <em>cámaras onboard</em>, <strong>GoPro</strong>, acaba de sacar al mercado su última joya: la <strong>nueva GoPro HERO3 Black Edition</strong>. </p>
+<p>Se trata de una cámara un <strong>30% más pequeña</strong> que sus antecesoras, con <strong>12 MP de resolución</strong> y capaz de grabar a <strong>60 fps con una resolución de 1080p</strong>. También tiene formatos de cámara profesional: 4k Cinema 12 fps / 2.7k cinema 30 fps / 1440p 48 fps / 1080p 60 fps / 960p 100 fps /720p 120 fps. Una burrada.</p>
+<p>Además han agregado varias mejoras para evitar los deslumbramientos y mejorar la calidad en situaciones de oscuridad (se puede comprobar en el vídeo de promoción).</p>
+<p>Una de las novedades más atractivas es que <strong>dispone de Wi-Fi</strong>, lo que permite usar el <strong>mando remoto sumergible</strong> que incluye la versión Black Edition para controlarla por completo sin tocarla. Lo verdaderamente atractivo de que tenga Wi-Fi es que no tan solo se puede usar el mando de GoPro para controlar la cámara, sino que puedes usar cualquier smartphone Android o iPhone y <strong>controlar la cámara mediante la app de GoPro</strong>.</p>
+<p>Hay tres modelos en total: <a href="http://gopro.com/cameras/hd-hero3-black-edition" target="_blank">Black Edition</a>, <a href="http://gopro.com/cameras/hd-hero3-silver-edition" target="_blank">Silver Edition</a> y <a href="http://gopro.com/cameras/hd-hero3-white-edition" target="_blank">White Edition</a>, cada una con menos potencia que la anterior, aunque todas incorporan Wi-Fi y son HD.</p>
+<p><strong>Especificaciones técnicas:</strong> <a href="http://gopro.com/cameras/hd-hero3-black-edition" target="_blank">GoPro Black Edition</a></p>
+</div>
+
+
+
+<hr style="width:640px" />
+ 
+<p><b>Tags: </b> <a href="https://rienzie.com/tag/camaras/" rel="tag">cámaras</a>, <a href="https://rienzie.com/tag/fotografia/" rel="tag">Fotografía</a>, <a href="https://rienzie.com/tag/gopro/" rel="tag">gopro</a>, <a href="https://rienzie.com/tag/video/" rel="tag">video</a></p>
+
+<hr style="width:640px" />
+ 
+
+<!--<div><img src="https://rienzie.com/wp-content/themes/rienzie/images/separata.gif" alt="Separación" /></div>-->
+<br />
+
+
+
+	<!--
+	<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+			xmlns:dc="http://purl.org/dc/elements/1.1/"
+			xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+		<rdf:Description rdf:about="https://rienzie.com/gopro-presenta-su-nueva-gopro-hero3-black-edition/"
+    dc:identifier="https://rienzie.com/gopro-presenta-su-nueva-gopro-hero3-black-edition/"
+    dc:title="GoPro presenta su nueva GoPro HERO3 Black Edition"
+    trackback:ping="https://rienzie.com/gopro-presenta-su-nueva-gopro-hero3-black-edition/trackback/" />
+</rdf:RDF>	-->
+
+<h2><a href="https://rienzie.com/nuevas-carcasas-de-buceo-gopro-hd/" rel="bookmark">Nuevas carcasas de buceo GoPro HD</a></h2>
+<div class="pie"><p>Por:  <b><a href="https://rienzie.com/author/admin/" title="Entradas de Àngel Carrión" rel="author">Àngel Carrión</a></b> el 9-septiembre-2012 | <strong><a href="https://rienzie.com/nuevas-carcasas-de-buceo-gopro-hd/#comments">3 comentarios</a></strong></p></div>
+<div id="fb-root"></div><script src="https://connect.facebook.net/es_ES/all.js#appId=141559595922572&amp;xfbml=1"></script><fb:like href="https://rienzie.com/nuevas-carcasas-de-buceo-gopro-hd/" send="false" layout="box_count" width="90" show_faces="false" font="verdana"></fb:like><g:plusone size="tall"></g:plusone>
+<div style="clear:both"></div>
+
+<div><p><img src="https://i1.wp.com/www.rienzie.com/wp-content/uploads/2012/09/683x426_d01-640x399.jpeg?resize=640%2C399" alt="" title="683x426_d01" class="aligncenter size-large wp-image-7064" srcset="https://i1.wp.com/rienzie.com/wp-content/uploads/2012/09/683x426_d01.jpeg?resize=640%2C399&amp;ssl=1 640w, https://i1.wp.com/rienzie.com/wp-content/uploads/2012/09/683x426_d01.jpeg?resize=150%2C93&amp;ssl=1 150w, https://i1.wp.com/rienzie.com/wp-content/uploads/2012/09/683x426_d01.jpeg?resize=630%2C392&amp;ssl=1 630w, https://i1.wp.com/rienzie.com/wp-content/uploads/2012/09/683x426_d01.jpeg?w=683&amp;ssl=1 683w" sizes="(max-width: 640px) 100vw, 640px" data-recalc-dims="1" /></p>
+<p>Uno de los puntos débiles de GoPro, por lo menos por mi experiencia, es que <strong>las grabaciones dentro del agua perdían mucha calidad</strong> o nitidez. Las imágenes se enturbiaban un poco y perdía enfoque. Esto podría ser causado por la forma de la lente exterior en forma de <em>ojo de pez</em>. </p>
+<p>Ahora GoPro ha sacado al mercado un nuevo modelo de carcasa sumergible especialmente para esas ocasiones. La lente en este caso es <strong>más grande y plana</strong>, lo que mejora notablemente la forma de grabar de la cámara. Además es sumergible hasta 60 metros, que no está nada mal.</p>
+<p><strong>Ahora disfrutad de esta maravilla de vídeo promocional:</strong></p>
+<p><span class="embed-youtube" style="text-align:center; display: block;"><iframe class='youtube-player' type='text/html' width='640' height='390' src='https://www.youtube.com/embed/ucivXRBrP_0?version=3&#038;rel=1&#038;fs=1&#038;autohide=2&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;wmode=transparent' allowfullscreen='true' style='border:0;'></iframe></span></p>
+<p>Más información: <a href="http://es.gopro.com/hd-hero-accessories/dive-housing/" target="_blank">Carcasa de buceo GoPro HD</a></p>
+</div>
+
+
+
+<hr style="width:640px" />
+ 
+<p><b>Tags: </b> <a href="https://rienzie.com/tag/camaras/" rel="tag">cámaras</a>, <a href="https://rienzie.com/tag/fotografia/" rel="tag">Fotografía</a>, <a href="https://rienzie.com/tag/gorpo/" rel="tag">gorpo</a>, <a href="https://rienzie.com/tag/tecnologia/" rel="tag">Tecnología</a></p>
+
+<hr style="width:640px" />
+ 
+
+<!--<div><img src="https://rienzie.com/wp-content/themes/rienzie/images/separata.gif" alt="Separación" /></div>-->
+<br />
+
+
+
+	<!--
+	<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+			xmlns:dc="http://purl.org/dc/elements/1.1/"
+			xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+		<rdf:Description rdf:about="https://rienzie.com/nuevas-carcasas-de-buceo-gopro-hd/"
+    dc:identifier="https://rienzie.com/nuevas-carcasas-de-buceo-gopro-hd/"
+    dc:title="Nuevas carcasas de buceo GoPro HD"
+    trackback:ping="https://rienzie.com/nuevas-carcasas-de-buceo-gopro-hd/trackback/" />
+</rdf:RDF>	-->
+
+<h2><a href="https://rienzie.com/increible-nino-de-4-anos-tocando-el-piano-como-un-profesional/" rel="bookmark">Increíble niño de 4 años tocando el piano como un profesional</a></h2>
+<div class="pie"><p>Por:  <b><a href="https://rienzie.com/author/admin/" title="Entradas de Àngel Carrión" rel="author">Àngel Carrión</a></b> el 6-septiembre-2012 | <strong><a href="https://rienzie.com/increible-nino-de-4-anos-tocando-el-piano-como-un-profesional/#respond">0 comentarios</a></strong></p></div>
+<div id="fb-root"></div><script src="https://connect.facebook.net/es_ES/all.js#appId=141559595922572&amp;xfbml=1"></script><fb:like href="https://rienzie.com/increible-nino-de-4-anos-tocando-el-piano-como-un-profesional/" send="false" layout="box_count" width="90" show_faces="false" font="verdana"></fb:like><g:plusone size="tall"></g:plusone>
+<div style="clear:both"></div>
+
+<div><p><span class="embed-youtube" style="text-align:center; display: block;"><iframe class='youtube-player' type='text/html' width='640' height='390' src='https://www.youtube.com/embed/w30TFlJiRKA?version=3&#038;rel=1&#038;fs=1&#038;autohide=2&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;wmode=transparent' allowfullscreen='true' style='border:0;'></iframe></span></p>
+<p>Visto en el Twitter de <strong>Raúl Ordóñez</strong> <a href="https://twitter.com/jasp" target="_blank">@jasp</a></p>
+</div>
+
+
+
+<hr style="width:640px" />
+ 
+<p><b>Tags: </b> <a href="https://rienzie.com/tag/musica/" rel="tag">Música</a>, <a href="https://rienzie.com/tag/piano/" rel="tag">piano</a>, <a href="https://rienzie.com/tag/videos/" rel="tag">Vídeos</a></p>
+
+<hr style="width:640px" />
+ 
+
+<!--<div><img src="https://rienzie.com/wp-content/themes/rienzie/images/separata.gif" alt="Separación" /></div>-->
+<br />
+
+
+
+	<!--
+	<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+			xmlns:dc="http://purl.org/dc/elements/1.1/"
+			xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+		<rdf:Description rdf:about="https://rienzie.com/increible-nino-de-4-anos-tocando-el-piano-como-un-profesional/"
+    dc:identifier="https://rienzie.com/increible-nino-de-4-anos-tocando-el-piano-como-un-profesional/"
+    dc:title="Increíble niño de 4 años tocando el piano como un profesional"
+    trackback:ping="https://rienzie.com/increible-nino-de-4-anos-tocando-el-piano-como-un-profesional/trackback/" />
+</rdf:RDF>	-->
+
+      <!-- pb265 --><div class="pagebar"><span>Páginas:&nbsp;</span><span class="this-page">1</span>
+<a href="https://rienzie.com/page/2/" title="Página 2">2</a>
+<a href="https://rienzie.com/page/3/" title="Página 3">3</a>
+<a href="https://rienzie.com/page/4/" title="Página 4">4</a>
+<a href="https://rienzie.com/page/5/" title="Página 5">5</a>
+<a href="https://rienzie.com/page/6/" title="Página 6">6</a>
+<a href="https://rienzie.com/page/7/" title="Página 7">7</a>
+<span class="break">...</span>
+<a href="https://rienzie.com/page/289/" title="Página 289">289</a>
+<a href="https://rienzie.com/page/290/" title="Página 290">290</a>
+<a href="https://rienzie.com/page/2/" title="Página 2">Siguiente</a>
+</div>
+</div>
+
+<!-- begin sidebar -->
+<div id="sidebar">
+
+<!--<div style="float:left; margin-top:0px"><a href="https://aceitunasverdolay.com" title="Aceitunas y encurtidos Verdolay" target="_blank"><img class="banner" style="float:left" src="https://www.rienzie.com/img/patrocinio/verdolay.gif" alt="Aceitunas y encurtidos Verdolay" width="125" height="125" border="0" title="Aceitunas y encurtidos Verdolay" /></a><a href="https://tecuelas.com" title="TeCuelas.com" target="_blank"><img class="banner-l" style="float:left" src="https://www.rienzie.com/img/patrocinio/tecuelas-120px.gif" alt="TeCuelas.com" width="125" height="125" border="0" title="Visita TeCuelas.com" /></a>
+
+<a href="https://album-digital.tv" title="Crea tu Album Digital fácilmente"><img class="banner" style="float:left" src="https://www.rienzie.com/img/patrocinio/album-digital-banner-120px.gif" alt="Album Digital" width="125" height="125" border="0" title="Crea tu Album Digital fácilmente" /></a><a href="https://rojadirecta.biz"><img src="https://www.rienzie.com/img/patrocinio/rojadirect.jpg" alt="futbol gratis online" width="125" height="125" border="0" class="banner-l" style="float:left" title="Rojadirecta" /></a></div>-->
+    <br />
+    <br />
+    
+    
+     <div style="clear:both"></div>
+     <div style="margin-bottom:-50px;">
+     <div class="fb-like-box" data-href="https://www.facebook.com/rienzie.blog" data-width="300" data-height="250" data-show-faces="true" data-stream="false" data-header="true"></div>
+<!--
+<div id="suscripcion">
+<h3>Feeds</h3>
+
+<div class="list-subs">
+<ul class="feeds">
+<li><a href="https://feeds.feedburner.com/rienzie" class="rss"><strong>Feed de rienzie</strong></a></li>
+<li><a href="https://fusion.google.com/add?feedurl=https://feeds.feedburner.com/rienzie" class="google">Agregar a Google Reader</a></li>
+<li><a href="https://www.netvibes.com/subscribe.php?url=https://feeds.feedburner.com/rienzie" class="netvibes">Agregar a NetVibes</a></li>
+<li><a href="https://add.my.yahoo.com/content?url=https://feeds.feedburner.com/rienzie&amp;lg=es" class="yahoo">Agregar a My Yahoo!</a></li>
+<li> <a href="https://feeds.feedburner.com/rienzie"><img src="https://feeds.feedburner.com/~fc/rienzie?bg=FF9900&amp;fg=333333&amp;anim=0" height="26" width="88" style="border:0" alt="Feedburner contador" /></a></li>
+</ul>
+</div>
+-->
+<p><strong>rienzie.com en tu email</strong></p>
+<form action="https://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow" onsubmit="window.open('https://feedburner.google.com/fb/a/mailverify?uri=rienzie', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true">
+
+<input name="email" type="text" style="width:180px" value="Pon tu email para suscribirte" size="50" onfocus="this.value='';return false;" class="text"/>
+
+<input type="hidden" value="rienzie" name="uri"/><input type="hidden" name="loc" value="es_ES"/><input type="submit" value="Suscribirme" />
+
+</form>
+</div>
+
+<br />
+<br />
+<br />
+
+<div id="recentcomments">
+
+<h3>Últimos comentarios</h3>
+
+<ul><li><a href="https://rienzie.com/mezclas-razas-de-perros-hibridos/#comment-299042" rel="bookmark" title="16 agosto 2018 at 4:56 on 'Mezclas razas de perros (híbridos)'">Myraida</a> - Yo tengo en mi hogar un hermoso perro, cruze de&hellip;</li> 
+
+
+<li><a href="https://rienzie.com/project-natal-xbox-360-microsoft/#comment-298550" rel="bookmark" title="25 julio 2018 at 8:20 on 'Project Natal de Xbox 360, Microsoft innova'">DanelleJuicy</a> - Hi. I see that you don't update your page too&hellip;</li> 
+
+
+<li><a href="https://rienzie.com/hotmail/#comment-298059" rel="bookmark" title="5 julio 2018 at 1:31 on 'Cómo crear y entrar al correo hotmail'">Rafael Alejandro</a> - rafael alejandro chañi.Vengo de mi casa de mis viejos para&hellip;</li> 
+
+
+<li><a href="https://rienzie.com/hotmail/#comment-298058" rel="bookmark" title="5 julio 2018 at 1:27 on 'Cómo crear y entrar al correo hotmail'">Rafael Alejandro</a> - rafael alejandro-chañi@google.com&hellip;</li> 
+
+
+<li><a href="https://rienzie.com/hotmail/#comment-297681" rel="bookmark" title="11 junio 2018 at 14:48 on 'Cómo crear y entrar al correo hotmail'">Rafael Alejandro Chañi</a> - malabia2230.&hellip;</li> 
+
+
+<li><a href="https://rienzie.com/hotmail/#comment-297680" rel="bookmark" title="11 junio 2018 at 14:46 on 'Cómo crear y entrar al correo hotmail'">Rafael Alejandro Chañi</a> - malabia2230@hotmail.com&hellip;</li> 
+
+</ul><!-- Recent Comments took 78.094 ms -->
+</div>
+
+
+
+<div id="archivos">
+
+
+
+<h3>Archivos</h3>
+
+
+
+<br />
+
+
+
+
+
+
+
+<select name="archive-dropdown" onchange='document.location.href=this.options[this.selectedIndex].value;'>
+
+
+
+	<option value="">Elegir mes</option>
+
+
+
+		<option value='https://rienzie.com/2014/02/'> febrero 2014 &nbsp;(1)</option>
+	<option value='https://rienzie.com/2012/10/'> octubre 2012 &nbsp;(1)</option>
+	<option value='https://rienzie.com/2012/09/'> septiembre 2012 &nbsp;(2)</option>
+	<option value='https://rienzie.com/2012/08/'> agosto 2012 &nbsp;(4)</option>
+	<option value='https://rienzie.com/2012/05/'> mayo 2012 &nbsp;(9)</option>
+	<option value='https://rienzie.com/2012/04/'> abril 2012 &nbsp;(4)</option>
+	<option value='https://rienzie.com/2012/03/'> marzo 2012 &nbsp;(3)</option>
+	<option value='https://rienzie.com/2012/02/'> febrero 2012 &nbsp;(3)</option>
+	<option value='https://rienzie.com/2012/01/'> enero 2012 &nbsp;(8)</option>
+	<option value='https://rienzie.com/2011/12/'> diciembre 2011 &nbsp;(5)</option>
+	<option value='https://rienzie.com/2011/11/'> noviembre 2011 &nbsp;(3)</option>
+	<option value='https://rienzie.com/2011/10/'> octubre 2011 &nbsp;(5)</option>
+	<option value='https://rienzie.com/2011/09/'> septiembre 2011 &nbsp;(4)</option>
+	<option value='https://rienzie.com/2011/08/'> agosto 2011 &nbsp;(2)</option>
+	<option value='https://rienzie.com/2011/07/'> julio 2011 &nbsp;(9)</option>
+	<option value='https://rienzie.com/2011/06/'> junio 2011 &nbsp;(11)</option>
+	<option value='https://rienzie.com/2011/05/'> mayo 2011 &nbsp;(9)</option>
+	<option value='https://rienzie.com/2011/04/'> abril 2011 &nbsp;(5)</option>
+	<option value='https://rienzie.com/2011/03/'> marzo 2011 &nbsp;(11)</option>
+	<option value='https://rienzie.com/2011/02/'> febrero 2011 &nbsp;(3)</option>
+	<option value='https://rienzie.com/2011/01/'> enero 2011 &nbsp;(4)</option>
+	<option value='https://rienzie.com/2010/12/'> diciembre 2010 &nbsp;(4)</option>
+	<option value='https://rienzie.com/2010/11/'> noviembre 2010 &nbsp;(5)</option>
+	<option value='https://rienzie.com/2010/10/'> octubre 2010 &nbsp;(13)</option>
+	<option value='https://rienzie.com/2010/09/'> septiembre 2010 &nbsp;(3)</option>
+	<option value='https://rienzie.com/2010/07/'> julio 2010 &nbsp;(1)</option>
+	<option value='https://rienzie.com/2010/06/'> junio 2010 &nbsp;(8)</option>
+	<option value='https://rienzie.com/2010/05/'> mayo 2010 &nbsp;(10)</option>
+	<option value='https://rienzie.com/2010/04/'> abril 2010 &nbsp;(15)</option>
+	<option value='https://rienzie.com/2010/03/'> marzo 2010 &nbsp;(16)</option>
+	<option value='https://rienzie.com/2010/02/'> febrero 2010 &nbsp;(9)</option>
+	<option value='https://rienzie.com/2010/01/'> enero 2010 &nbsp;(10)</option>
+	<option value='https://rienzie.com/2009/12/'> diciembre 2009 &nbsp;(15)</option>
+	<option value='https://rienzie.com/2009/11/'> noviembre 2009 &nbsp;(13)</option>
+	<option value='https://rienzie.com/2009/10/'> octubre 2009 &nbsp;(22)</option>
+	<option value='https://rienzie.com/2009/09/'> septiembre 2009 &nbsp;(22)</option>
+	<option value='https://rienzie.com/2009/08/'> agosto 2009 &nbsp;(2)</option>
+	<option value='https://rienzie.com/2009/07/'> julio 2009 &nbsp;(13)</option>
+	<option value='https://rienzie.com/2009/06/'> junio 2009 &nbsp;(9)</option>
+	<option value='https://rienzie.com/2009/05/'> mayo 2009 &nbsp;(20)</option>
+	<option value='https://rienzie.com/2009/04/'> abril 2009 &nbsp;(4)</option>
+	<option value='https://rienzie.com/2009/03/'> marzo 2009 &nbsp;(15)</option>
+	<option value='https://rienzie.com/2009/02/'> febrero 2009 &nbsp;(20)</option>
+	<option value='https://rienzie.com/2009/01/'> enero 2009 &nbsp;(22)</option>
+	<option value='https://rienzie.com/2008/12/'> diciembre 2008 &nbsp;(16)</option>
+	<option value='https://rienzie.com/2008/11/'> noviembre 2008 &nbsp;(17)</option>
+	<option value='https://rienzie.com/2008/10/'> octubre 2008 &nbsp;(5)</option>
+	<option value='https://rienzie.com/2008/09/'> septiembre 2008 &nbsp;(16)</option>
+	<option value='https://rienzie.com/2008/08/'> agosto 2008 &nbsp;(6)</option>
+	<option value='https://rienzie.com/2008/07/'> julio 2008 &nbsp;(7)</option>
+	<option value='https://rienzie.com/2008/06/'> junio 2008 &nbsp;(27)</option>
+	<option value='https://rienzie.com/2008/05/'> mayo 2008 &nbsp;(29)</option>
+	<option value='https://rienzie.com/2008/04/'> abril 2008 &nbsp;(28)</option>
+	<option value='https://rienzie.com/2008/03/'> marzo 2008 &nbsp;(48)</option>
+	<option value='https://rienzie.com/2008/02/'> febrero 2008 &nbsp;(53)</option>
+	<option value='https://rienzie.com/2008/01/'> enero 2008 &nbsp;(58)</option>
+	<option value='https://rienzie.com/2007/12/'> diciembre 2007 &nbsp;(30)</option>
+	<option value='https://rienzie.com/2007/11/'> noviembre 2007 &nbsp;(44)</option>
+	<option value='https://rienzie.com/2007/10/'> octubre 2007 &nbsp;(43)</option>
+	<option value='https://rienzie.com/2007/09/'> septiembre 2007 &nbsp;(41)</option>
+	<option value='https://rienzie.com/2007/08/'> agosto 2007 &nbsp;(21)</option>
+	<option value='https://rienzie.com/2007/07/'> julio 2007 &nbsp;(69)</option>
+	<option value='https://rienzie.com/2007/06/'> junio 2007 &nbsp;(63)</option>
+	<option value='https://rienzie.com/2007/05/'> mayo 2007 &nbsp;(60)</option>
+	<option value='https://rienzie.com/2007/04/'> abril 2007 &nbsp;(68)</option>
+	<option value='https://rienzie.com/2007/03/'> marzo 2007 &nbsp;(33)</option>
+
+
+
+</select>
+
+
+
+
+
+
+
+</div>
+<div id="post-destacados">
+
+<h3>Destacados</h3>
+
+<ul>
+
+
+
+<li><a href="https://www.rienzie.com/hotmail/" title="Correo Hotmail">Correo Hotmail</a></li>
+
+<li><a href="https://www.rienzie.com/elbruto/" title="El Bruto">El bruto</a></li>
+
+<li><a href="https://www.rienzie.com/themes-temas-para-windows-7/" title="Themes Windows 7">Themes Windows 7</a></li>
+
+<li><a href="https://www.rienzie.com/themes-windows-7-para-windows-xp/" title="Theme Windows 7 para XP">Theme Windows 7 para XP</a></li>
+
+<li><a href="https://www.rienzie.com/servidores-emule/" title="Servidores eMule">Servidores eMule</a></li>
+
+<li><a href="https://www.rienzie.com/el-mejor-antivirus/" title="El mejor antivirus">El mejor antivirus</a></li>
+
+<li><a href="https://www.rienzie.com/quitar-aviso-wga-xp/">Quitar aviso WGA</a></li>
+
+<li><a href="https://www.rienzie.com/trucos-gmailtrucos-gmail/" title="Trucos Gmail">Trucos Gmail</a></li>
+
+<li><a href="https://www.rienzie.com/validar-microsoft-office-2007/">Validar  Office 2007</a></li>
+
+</ul>
+
+</div>
+
+
+
+<h3>Links</h3>
+<ul>
+
+
+
+	<li><a href="http://aceitunasverdolay.com/">Aceitunas Verdolay</a></li>
+<li><a href="https://loreak.cat" title="Loreak &#8211; Floristería en Badalona">Sexy Juguetes, sexshop online</a> - Loreak &#8211; Floristería en Badalona</li>
+<li><a href="http://tecuelas.com/">Te cuelas</a></li>
+
+
+
+  </ul>
+
+
+
+
+
+
+
+
+
+<div class="both"></div>
+
+
+
+</div>
+
+
+
+<!-- end sidebar -->
+
+<!-- The main column ends  -->
+
+<div style="clear:both"></div>
+</div>
+<!-- begin footer -->
+
+
+
+
+
+<div id="footer" align="center">
+
+<div id="footer_info" align="center">
+
+<div class="subir"><p class="submit2"><a href="#up">Subir</a></p></div>
+
+
+
+<p><strong>Copyright:</strong>  <a href="http://rienzie.com" rel="cc:attributionURL"><strong>rienzie.com</strong></a> est&aacute; protegido bajo licencia de <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/2.5/es/">Creative Commons Espa&ntilde;a License</a>.<br/>
+
+</p>
+
+<hr />
+
+<p><strong>Importante:</strong> <a href="http://rienzie.com/politica-de-privacidad">Política de Privacidad</a> | <a href="http://rienzie.com/mapaweb">Mapa web</a> | <strong>Validaci&oacute;n: </strong><a href="http://validator.w3.org/check?uri=referer">xhtml</a> | <a href="http://jigsaw.w3.org/css-validator/validator?uri=http://rienzie.com/">css</a> | <a href="http://validator.w3.org/feed/check.cgi?url=http%3A//feeds.feedburner.com/rienzie">rss</a></p>
+
+<hr />
+
+<p><strong>Dise&ntilde;o por:</strong> <a href="http://rienzie.com">Angel Carri&oacute;n</a> | <a href="http://whos.amung.us/stats/iwq65uedfbph/">Usuarios online</a> <img src="https://whos.amung.us/swidget/iwq65uedfbph.png" alt="Gente online rienzie" width="80" height="15" border="0" title="Usuarios online" /></p>
+
+
+
+</div>
+
+</div>
+
+</div>
+
+<!-- HTML del pié de página -->
+<div class="cdp-cookies-alerta  cdp-solapa-ocultar cdp-cookies-textos-izq cdp-cookies-tema-azul">
+	<div class="cdp-cookies-texto">
+		<h4 style="font-size:15px !important;line-height:15px !important">Uso de cookies</h4><p style="font-size:12px !important;line-height:12px !important">Este sitio web utiliza cookies para que usted tenga la mejor experiencia de usuario. Si continúa navegando está dando su consentimiento para la aceptación de las mencionadas cookies y la aceptación de nuestra <a href="http://www.rienzie.com/politica-de-cookies" style="font-size:12px !important;line-height:12px !important">política de cookies</a>, pinche el enlace para mayor información.</p>
+		<a href="javascript:;" class="cdp-cookies-boton-cerrar">ACEPTAR</a> 
+	</div>
+	<a class="cdp-cookies-solapa">Aviso de cookies</a>
+</div>
+ 	<div style="display:none">
+	</div>
+<script type='text/javascript' src='https://rienzie.com/wp-content/plugins/jetpack/modules/photon/photon.js?ver=20130122'></script>
+<script type='text/javascript' src='https://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201835'></script>
+<script type='text/javascript' src='https://secure.gravatar.com/js/gprofiles.js?ver=2018Augaa'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://rienzie.com/wp-content/plugins/jetpack/modules/wpgroho.js?ver=4.8.7'></script>
+<script type='text/javascript' src='https://rienzie.com/wp-includes/js/wp-embed.min.js?ver=4.8.7'></script>
+<script type='text/javascript' src='https://stats.wp.com/e-201835.js' async defer></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:5.2.1',blog:'1284602',post:'0',tz:'2',srv:'rienzie.com'} ]);
+	_stq.push([ 'clickTrackerInit', '1284602', '0' ]);
+</script>
+
+<!-- HTML del pié de página -->
+<div class="cdp-cookies-alerta  cdp-solapa-ocultar cdp-cookies-textos-izq cdp-cookies-tema-azul">
+	<div class="cdp-cookies-texto">
+		<h4 style="font-size:15px !important;line-height:15px !important">Uso de cookies</h4><p style="font-size:12px !important;line-height:12px !important">Este sitio web utiliza cookies para que usted tenga la mejor experiencia de usuario. Si continúa navegando está dando su consentimiento para la aceptación de las mencionadas cookies y la aceptación de nuestra <a href="http://www.rienzie.com/politica-de-cookies" style="font-size:12px !important;line-height:12px !important">política de cookies</a>, pinche el enlace para mayor información.</p>
+		<a href="javascript:;" class="cdp-cookies-boton-cerrar">ACEPTAR</a> 
+	</div>
+	<a class="cdp-cookies-solapa">Aviso de cookies</a>
+</div>
+ 	<div style="display:none">
+	</div>
+
+
+<script type="text/javascript">
+
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+</script>
+
+<script type="text/javascript">
+
+var pageTracker = _gat._getTracker("UA-2014794-1");
+
+pageTracker._trackPageview();
+
+</script> 
+
+</body>
+
+
+
+</html>

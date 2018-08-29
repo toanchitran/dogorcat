@@ -1,0 +1,262 @@
+<!DOCTYPE html>
+<!--[if IE 6]>
+<html id="ie6" lang="es-ES">
+<![endif]-->
+<!--[if IE 7]>
+<html id="ie7" lang="es-ES">
+<![endif]-->
+<!--[if IE 8]>
+<html id="ie8" lang="es-ES">
+<![endif]-->
+<!--[if !(IE 6) | !(IE 7) | !(IE 8)  ]><!-->
+<html lang="es-ES">
+<!--<![endif]-->
+<head>
+	<meta charset="UTF-8" />
+			
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<link rel="pingback" href="http://liberaong.org/xmlrpc.php" />
+
+		<!--[if lt IE 9]>
+	<script src="http://liberaong.org/wp-content/themes/Divi/js/html5.js" type="text/javascript"></script>
+	<![endif]-->
+
+	<script type="text/javascript">
+		document.documentElement.className = 'js';
+	</script>
+
+	<script>var et_site_url='http://liberaong.org';var et_post_id='global';function et_core_page_resource_fallback(a,b){"undefined"===typeof b&&(b=a.sheet.cssRules&&0===a.sheet.cssRules.length);b&&(a.onerror=null,a.onload=null,a.href?a.href=et_site_url+"/?et_core_page_resource="+a.id+et_post_id:a.src&&(a.src=et_site_url+"/?et_core_page_resource="+a.id+et_post_id))}
+</script><title>404 No encontrado | Libera!</title>
+<meta name='robots' content='noindex,follow' />
+<link rel='dns-prefetch' href='//use.fontawesome.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Libera! &raquo; Feed" href="http://liberaong.org/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Libera! &raquo; RSS de los comentarios" href="http://liberaong.org/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/liberaong.org\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.8"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<meta content="Libera! Child Theme v.1.0" name="generator"/><style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='contact-form-7-css'  href='http://liberaong.org/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.0' type='text/css' media='all' />
+<link rel='stylesheet' id='cf7cf-style-css'  href='http://liberaong.org/wp-content/plugins/cf7-conditional-fields/style.css?ver=1.3.4' type='text/css' media='all' />
+<link rel='stylesheet' id='divi-style-css'  href='http://liberaong.org/wp-content/themes/Divi-libera/style.css?ver=3.0.98' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css'  href='http://liberaong.org/wp-includes/css/dashicons.min.css?ver=4.9.8' type='text/css' media='all' />
+<script type='text/javascript' src='http://liberaong.org/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://liberaong.org/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' defer src='https://use.fontawesome.com/releases/v5.0.6/js/all.js'></script>
+<link rel='https://api.w.org/' href='http://liberaong.org/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://liberaong.org/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://liberaong.org/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.9.8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" /><link rel="shortcut icon" href="http://liberaong.org/wp-content/uploads/2018/06/fav.png" /><link rel="stylesheet" id="et-divi-customizer-global-cached-inline-styles" href="http://liberaong.org/wp-content/cache/et/global/et-divi-customizer-global-1535458000413.min.css" onerror="et_core_page_resource_fallback(this, true)" onload="et_core_page_resource_fallback(this)" /></head>
+<body class="error404 et_pb_button_helper_class et_fixed_nav et_show_nav et_cover_background et_pb_gutter et_pb_gutters3 et_primary_nav_dropdown_animation_fade et_secondary_nav_dropdown_animation_fade et_pb_footer_columns4 et_header_style_left et_right_sidebar et_divi_theme et_minified_js et_minified_css">
+	<div id="page-container">
+
+	
+	
+		<header id="main-header" data-height-onload="78">
+			<div class="container clearfix et_menu_container">
+							<div class="logo_container">
+					<span class="logo_helper"></span>
+					<a href="http://liberaong.org/">
+						<img src="http://liberaong.org/wp-content/uploads/2018/01/logo.png" alt="Libera!" id="logo" data-height-percentage="70" />
+					</a>
+				</div>
+				<div id="et-top-navigation" data-height="78" data-fixed-height="80">
+											<nav id="top-menu-nav">
+						<ul id="top-menu" class="nav"><li id="menu-item-97" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-97"><a href="#">sobre libera!</a>
+<ul class="sub-menu">
+	<li id="menu-item-100" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-100"><a href="http://liberaong.org/quienes-somos/">Quienes somos</a></li>
+	<li id="menu-item-98" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-98"><a href="http://liberaong.org/sitios-de-interes/">Sitios de Interés</a></li>
+	<li id="menu-item-785" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-785"><a href="#">Delegaciones</a>
+	<ul class="sub-menu">
+		<li id="menu-item-786" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-786"><a target="_blank" href="https://www.facebook.com/liberaong">Catalunya</a></li>
+		<li id="menu-item-788" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-788"><a target="_blank" href="https://www.facebook.com/liberaong">Galicia</a></li>
+		<li id="menu-item-791" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-791"><a target="_blank" href="https://www.facebook.com/LiberaCyL/">Castilla y León</a></li>
+		<li id="menu-item-789" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-789"><a target="_blank" href="https://www.facebook.com/libera.argentina">Argentina</a></li>
+		<li id="menu-item-790" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-790"><a target="_blank" href="https://www.facebook.com/LiberaUy">Uruguay</a></li>
+		<li id="menu-item-793" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-793"><a target="_blank" href="https://www.facebook.com/Libera.Ecuador">Ecuador</a></li>
+		<li id="menu-item-794" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-794"><a target="_blank" href="https://www.facebook.com/Libera-Chile-891598997642974">Chile</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-317" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-317"><a href="http://liberaong.org/campanas/">Campañas</a></li>
+<li id="menu-item-209" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-209"><a href="#">Los Animales</a>
+<ul class="sub-menu">
+	<li id="menu-item-216" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-216"><a href="http://liberaong.org/la-vida-de-los-animales/">La vida de los animales</a></li>
+	<li id="menu-item-871" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-871"><a href="http://liberaong.org/veganismo/">Vida Ética</a></li>
+</ul>
+</li>
+<li id="menu-item-704" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-704"><a href="http://liberaong.org/actua/">Actúa</a></li>
+<li id="menu-item-471" class="menu_destacado menu-item menu-item-type-post_type menu-item-object-page menu-item-471"><a href="http://liberaong.org/dona/">Dona</a></li>
+<li id="menu-item-267" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-267"><a href="http://liberaong.org/contacta/">Contacta</a></li>
+</ul>						</nav>
+					
+					
+					
+										<div id="et_top_search">
+						<span id="et_search_icon"></span>
+					</div>
+					
+					<div id="et_mobile_nav_menu">
+				<div class="mobile_nav closed">
+					<span class="select_page">Seleccionar página</span>
+					<span class="mobile_menu_bar mobile_menu_bar_toggle"></span>
+				</div>
+			</div>				</div> <!-- #et-top-navigation -->
+			</div> <!-- .container -->
+			<div class="et_search_outer">
+				<div class="container et_search_form_container">
+					<form role="search" method="get" class="et-search-form" action="http://liberaong.org/">
+					<input type="search" class="et-search-field" placeholder="Búsqueda &hellip;" value="" name="s" title="Buscar:" />					</form>
+					<span class="et_close_search_field"></span>
+				</div>
+			</div>
+		</header> <!-- #main-header -->
+
+		<div id="et-main-area">
+
+<div id="main-content">
+	<div class="container">
+		<div id="content-area" class="clearfix">
+			<div id="left-area">
+				<article id="post-0" class="et_pb_post not_found">
+					<div class="entry">
+<!--If no results are found-->
+	<h1>No se encontraron resultados</h1>
+	<p>La página solicitada no pudo encontrarse. Trate de perfeccionar su búsqueda o utilice la navegación para localizar la entrada.</p>
+</div>
+<!--End if no results are found-->				</article> <!-- .et_pb_post -->
+			</div> <!-- #left-area -->
+
+				<div id="sidebar">
+		<div id="search-2" class="et_pb_widget widget_search"><form role="search" method="get" id="searchform" class="searchform" action="http://liberaong.org/">
+				<div>
+					<label class="screen-reader-text" for="s">Buscar:</label>
+					<input type="text" value="" name="s" id="s" />
+					<input type="submit" id="searchsubmit" value="Buscar" />
+				</div>
+			</form></div> <!-- end .et_pb_widget -->		<div id="recent-posts-2" class="et_pb_widget widget_recent_entries">		<h4 class="widgettitle">Entradas recientes</h4>		<ul>
+											<li>
+					<a href="http://liberaong.org/esto-es-una-prueba/">Esto es una prueba</a>
+									</li>
+					</ul>
+		</div> <!-- end .et_pb_widget --><div id="recent-comments-2" class="et_pb_widget widget_recent_comments"><h4 class="widgettitle">Comentarios recientes</h4><ul id="recentcomments"></ul></div> <!-- end .et_pb_widget --><div id="archives-2" class="et_pb_widget widget_archive"><h4 class="widgettitle">Archivos</h4>		<ul>
+			<li><a href='http://liberaong.org/2018/02/'>febrero 2018</a></li>
+		</ul>
+		</div> <!-- end .et_pb_widget --><div id="categories-2" class="et_pb_widget widget_categories"><h4 class="widgettitle">Categorías</h4>		<ul>
+	<li class="cat-item cat-item-10"><a href="http://liberaong.org/category/delegaciones/catalunya/" >Catalunya</a>
+</li>
+		</ul>
+</div> <!-- end .et_pb_widget --><div id="meta-2" class="et_pb_widget widget_meta"><h4 class="widgettitle">Meta</h4>			<ul>
+						<li><a href="http://liberaong.org/wp-login.php">Acceder</a></li>
+			<li><a href="http://liberaong.org/feed/"><abbr title="Really Simple Syndication">RSS</abbr> de las entradas</a></li>
+			<li><a href="http://liberaong.org/comments/feed/"><abbr title="Really Simple Syndication">RSS</abbr> de los comentarios</a></li>
+			<li><a href="https://es.wordpress.org/" title="Funciona gracias a WordPress, una avanzada plataforma de publicación personal semántica.">WordPress.org</a></li>			</ul>
+			</div> <!-- end .et_pb_widget -->	</div> <!-- end #sidebar -->
+		</div> <!-- #content-area -->
+	</div> <!-- .container -->
+</div> <!-- #main-content -->
+
+﻿
+			<footer id="main-footer">
+				
+<div class="container">
+	<div id="footer-widgets" class="clearfix">
+	<div class="footer-widget"><div id="text-3" class="fwidget et_pb_widget widget_text"><h4 class="title">Delegaciones</h4>			<div class="textwidget"><ul>
+<li><a href="#">Catalunya</a></li>
+<li><a href="#">Galicia</a></li>
+<li><a href="#">Argentina</a></li>
+<li><a href="#">Uruguay</a></li>
+<li><a href="#">Perú</a></li>
+<li><a href="#">México</a></li>
+<li><a href="#">Ecuador</a></li>
+<li><a href="#">Chile</a></li>
+</ul>
+</div>
+		</div> <!-- end .fwidget --></div> <!-- end .footer-widget --><div class="footer-widget"><div id="text-4" class="fwidget et_pb_widget widget_text"><h4 class="title">En nuestra Web</h4>			<div class="textwidget"><ul>
+<li><a href="#">Quienes Somos</a></li>
+<li><a href="#">Sitios de Interés</a></li>
+<li><a href="#">La vida de los animales</a></li>
+<li><a href="#">Vida Ética</a></li>
+<li><a href="#">Campañas</a></li>
+<li><a href="#">Actúa</a></li>
+<li><a href="#">Dona</a></li>
+</ul>
+</div>
+		</div> <!-- end .fwidget --></div> <!-- end .footer-widget --><div class="footer-widget"><div id="text-5" class="fwidget et_pb_widget widget_text"><h4 class="title">Contacta</h4>			<div class="textwidget"><ul>
+<li>954 834 945</li>
+<li>libera@liberaong.org</li>
+</ul>
+</div>
+		</div> <!-- end .fwidget --></div> <!-- end .footer-widget --><div class="footer-widget last"><div id="text-6" class="fwidget et_pb_widget widget_text"><h4 class="title">Síguenos</h4>			<div class="textwidget"><ul>
+<li><a href="https://www.facebook.com/liberaong/">Facebook</a></li>
+<li><a href="https://www.instagram.com/liberaong/">Instagram</a></li>
+<li><a href="https://twitter.com/liberaong">Twitter</a></li>
+<li><a href="https://www.youtube.com/user/LiberaONG">Youtube</a></li>
+</ul>
+</div>
+		</div> <!-- end .fwidget --></div> <!-- end .footer-widget -->	</div> <!-- #footer-widgets -->
+</div>	<!-- .container -->
+
+		
+				<div id="footer-bottom">
+					<div class="container clearfix">
+				<ul class="et-social-icons">
+
+
+</ul>
+						<p id="footer-info">Libera!</p>
+					</div>	<!-- .container -->
+				</div>
+			</footer> <!-- #main-footer -->
+		</div> <!-- #et-main-area -->
+
+
+	</div> <!-- #page-container -->
+
+		<script type="text/javascript">
+		var et_animation_data = [];
+	</script>
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-118571011-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-118571011-1');
+</script>
+<link rel='stylesheet' id='et-builder-googlefonts-css'  href='http://fonts.googleapis.com/css?family=Fjalla+One:regular|Arimo:regular,italic,700,700italic&#038;subset=latin,latin-ext' type='text/css' media='all' />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"http:\/\/liberaong.org\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"recaptcha":{"messages":{"empty":"Por favor, prueba que no eres un robot."}}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://liberaong.org/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var et_shortcodes_strings = {"previous":"Anterior","next":"Siguiente"};
+var et_pb_custom = {"ajaxurl":"http:\/\/liberaong.org\/wp-admin\/admin-ajax.php","images_uri":"http:\/\/liberaong.org\/wp-content\/themes\/Divi\/images","builder_images_uri":"http:\/\/liberaong.org\/wp-content\/themes\/Divi\/includes\/builder\/images","et_frontend_nonce":"68e8ff4d8b","subscription_failed":"Por favor, revise los campos a continuaci\u00f3n para asegurarse de que la informaci\u00f3n introducida es correcta.","et_ab_log_nonce":"2e31306047","fill_message":"Por favor, rellene los siguientes campos:","contact_error_message":"Por favor, arregle los siguientes errores:","invalid":"De correo electr\u00f3nico no v\u00e1lida","captcha":"Captcha","prev":"Anterior","previous":"Anterior","next":"Siguiente","wrong_captcha":"Ha introducido un n\u00famero equivocado de captcha.","is_builder_plugin_used":"","ignore_waypoints":"no","is_divi_theme_used":"1","widget_search_selector":".widget_search","is_ab_testing_active":"","page_id":"","unique_test_id":"","ab_bounce_rate":"","is_cache_plugin_active":"no","is_shortcode_tracking":""};
+var et_pb_box_shadow_elements = [];
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://liberaong.org/wp-content/themes/Divi/js/custom.min.js?ver=3.0.98'></script>
+<script type='text/javascript' src='http://liberaong.org/wp-content/themes/Divi/core/admin/js/common.js?ver=3.0.98'></script>
+<script type='text/javascript' src='http://liberaong.org/wp-includes/js/wp-embed.min.js?ver=4.9.8'></script>
+</body>
+</html>

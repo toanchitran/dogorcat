@@ -25,7 +25,7 @@ def store_raw_images(paths, links):
 def loadImage(path, link, counter):
     global pic_num
     if pic_num < counter:
-        pic_num = counter + 1;
+        pic_num = counter + 1
     try:
         urllib.request.urlretrieve(link, path + "/" + str(counter) + ".jpg")
         img = cv2.imread(path + "/" + str(counter) + ".jpg")
@@ -55,15 +55,10 @@ def removeInvalid(dirPaths):
 
 def main():
     links = [
-        'http://image-net.org/api/text/imagenet.synset.geturls?wnid=n01318894', \
-        'http://image-net.org/api/text/imagenet.synset.geturls?wnid=n03405725', \
-        'http://image-net.org/api/text/imagenet.synset.geturls?wnid=n07942152', \
-        'http://image-net.org/api/text/imagenet.synset.geturls?wnid=n00021265', \
-        'http://image-net.org/api/text/imagenet.synset.geturls?wnid=n07690019', \
-        'http://image-net.org/api/text/imagenet.synset.geturls?wnid=n07865105', \
+        'http://image-net.org/api/text/imagenet.synset.geturls?wnid=n07865105',
         'http://image-net.org/api/text/imagenet.synset.geturls?wnid=n07697537']
 
-    paths = ['pets', 'furniture', 'people', 'food', 'frankfurter', 'chili-dog', 'hotdog']
+    paths = ['chili-dog', 'hotdog']
 
     store_raw_images(paths, links)
     removeInvalid(paths)
